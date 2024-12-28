@@ -1,1 +1,0 @@
-# Errant Thinking Website
