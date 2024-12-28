@@ -1,6 +1,6 @@
 +++
 title = "The Elves Revolt! An Adventure"
-date = 2024-12-24
+date = 2024-12-28
 
 [taxonomies]
 categories = ["Tabletop Roleplaying Games"]
