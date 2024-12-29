@@ -284,7 +284,7 @@ The issue is conditions have not improved for years now, and something needs to 
 
 ### Krampus, the Misfit
 
-Krampus is one of Santa Claus' frequent companions in the past and is associated with the less saintly actions of scaring children into behaving well by making example of the badly behaved oned by beating them with a birch rod.
+Krampus is one of Santa Claus' frequent companions in the past and is associated with the less saintly actions of scaring children into behaving well by making example of the badly behaved ones by beating them with a birch rod.
 Krampus has also been said to abduct poorly behaved children to work in Santa's workshop as punishment for their bad behavior.
 
 Krampus is a half woolly faun and half human born on Earth and cursed with the inabiltiy to traverse the aurora borealis for long durations.
@@ -350,6 +350,9 @@ This is an instance of the adventure where the players are unified to help the h
 1. **Strong Start:**  You can Use the example hook I provided.
     - If your players prefer diplomacy before combat, this scene is ripe with multiple parties involved to inform the players of the conflict and class struggle.
         - Let them have the chance to prevent the clearly disturbed snow folk's attack by calming the emotions of the revolutionists.
+        - This gathering is not only revolutionists, Twinklety is also here to provide a different perspective.
+            - You decide if she knew of the abduction or not.
+            - She probably not for supporting abduction, probably for seeking help from caring neighbors.
     - If your table & game want combat, such as D&D, then open with the hook and have the Snow Folk react to the violent emotions of the revolutionists and attack the everyone.
 2. **Potential Scenes:** and their relevant rumors and information
     - **Awakening after abduction**:
@@ -464,6 +467,7 @@ There is always more than one way to solve a problem.
 Some may be different in method, but result in a similar outcome.
 Perhaps, it is not only the outcome that matters, but also how we solve the problem?
 Nonethless, there are several potential outcomes for this class struggle which will ultimately be determined by the players' actions.
+This is a non-exhaustive list for ideas.
 
 - The Elves **Unite**: The vast majority come together for a singular cause
     - The Elves **Unionize**: The first Christmas Elf Trade Union is formed!
