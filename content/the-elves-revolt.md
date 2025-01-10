@@ -39,7 +39,7 @@ We primarily focus on the Santa's primary workshop and consider [the various loc
 - **How?** Unspecified. Strike, revolt, or submit? Options detailed below, albeit ultimately determined by the players' actions!
 
 
-I will attempt to felsh out each question above along with considering the motivations of the key characters and their factions, which here correspond mostly to the classes in this struggle.
+I will attempt to flesh out each question above along with considering the motivations of the key characters and their factions, which here correspond mostly to the classes in this struggle.
 After the setup, rumors and hints will be specified to help lead the players through the role of mediator, whether peaceful or -- not so much.
 Such rumors and hints are intended to be learned by the players eventually, and so the GM will reveal them in a reasonable manner.
 
