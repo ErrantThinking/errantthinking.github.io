@@ -164,7 +164,7 @@ He is not a flawless figure, but one who is actively seeking to better himself a
 - The wise man fooled by a wiser hulderálfr.
 - A promise made to spread good cheer along the hunt for the base of Yggdrasil
     - where its roots meet its trunk.
-- Power greater than ten thousand men and knowledge beyond any fellow man, was his promise rewad at the end of this pilgrimage.
+- Power greater than ten thousand men and knowledge beyond any fellow man, was his promised reward at the end of this pilgrimage.
     - In addition, at the end, Santa would be given the power to not only traverse Yggdrasil over Earth, but also enter the Fae's home across the Bifröst.
 - To show good faith, he was given immortality conditioned on his continuation of this pilgrimage.
 - Charismatic from the beginning, his frenzied followers joined him, but over the years frenzy softened into compassion.
@@ -362,7 +362,7 @@ This is an instance of the adventure where the players are unified to help the h
         - Tells people of the ailing community and that the old way was the right way, where the weak became strong from the groups actions.
     - **Thieving Ice Sprites**: Ice sprites have been stealing coal and logs. Homes need heat. An opportunity for Krampusnacht-lite or full on Krampusnacht with the scares.
         - If only the delivery of new or the return of the stolen coal is done, this helps but does not deter requests as much as if scaring were to be performed.
-        - If the party helps Krampus perform his Krampusnacht activities, which is sacring the spirit into people *at least*, which is against the wishes of Santa Claus, then you will decrease the amount of work necessary for the Santa community to pull of a satisfactory present delivery for Christmas
+        - If the party helps Krampus perform his Krampusnacht activities, which is sacring the spirit into people *at least*, which is against the wishes of Santa Claus, then you will decrease the amount of work necessary for the Santa community to pull off a satisfactory present delivery for Christmas
             - expectations lowered, more grateful for little things, & less requests
             - more belief, more *fear*, less love and security
     - **Meet Lil' Pete**: The able body made outcast misfit by workplace injury.
@@ -384,7 +384,7 @@ This is an instance of the adventure where the players are unified to help the h
             - temporary relief: meat, fur, milk
             - Tools: mammoth ivory bones (craft material), spears & fishing rods
             - The Giants need Yetis that prey upon their herd to be removed from their path
-                - The Yetis need to eat. South of the mountains they may find
+                - The Yetis need to eat. South of the mountains they may find more food, but that is asking them to relocate and spare the woolly mammoth meal already here. They will require some form of convincing.
         - Provide a path open southwards to more resource plentiful lands
             - They provide a path by trimming small branches or twigs from the world tree that can serve to fashion sleighs and similar items to traverse the aurora borealis when navigated by fae.
     - **Fishery Poaching**: Yetis have started hunting in the Santa Village's fisheries.
@@ -432,33 +432,34 @@ This is an instance of the adventure where the players are unified to help the h
         These are reached by flight or high altitude points, such as mountains, although with enough fae magic the right incantations, one can ascend upon fae-blessed wood or materials that originate from Yggdrasil.
 5. **Monsters:** Adjust as you see fit and to your PC's party level
     - 1d4 + 3 ice sprites
-    - 1d2 + 2 yetis
+    - 1d2 + 2 yetis per group (Mountain group + fishery poaching group)
     - 1d2 polar bears
     - 1d4 + 1 frost giants
         - 1d6 + 6 Mammoths
     - 1d4 + 4 Wooden golems painted and constructed as large nutcrackers
-6. **Nonplayer Characters:**
+6. **Nonplayer Characters:** And some with modern media characters to inform their archetype
     - Santa Claus, a male human turned immortal
     - Freya (Mrs. Claus), an elven woman
         - Lagertha from 2013 TV series Vikings
     - Krampus, a male woolly faun
         - The Grinch + Jinx from Arcane.
     - Lil' Pete, a male hulderálfr
-    - Twinklety, an young, optimistic female hulderálfr
+    - Twinklety, a young, optimistic female hulderálfr
         - She seeks to unionize the hulderálfar & works.
     - Revolutionist Beltznickle, a gruff male hulderálfr
         - He is the one who speaks to the player's in the example hook.
         - While also having partook in the scaring of naughty children, Beltznickle also prefers this new direction, but he cannot stand the exploitation of the middle and lower class hulderálfar. He particularly wants to see the fat trimmed from the upper class and better awareness, consideration, and action from the Claus family.
     - Gróa, a female Giant mammoth herder and tender to the world tree
         - A wise and patient woman whose witnessed many seasons, but is nonetheless fit and fierce. If the frost giants truly have boiling blood, then she's mastered her meditations and control of it. For this and her wisdom, she is well respected by her fellow giants as well as neighboring townsfolk.
-    - Kólga, a female troll pack leader. Hot headed, harsh, and hungry. Not unreasonable, but very aware of what the laws of nature allow and not, to put it simply. With her survival of the fittest and might makes right attitude, she still can respect her neighbors if they respect her... from a distance.
+    - Kólga, a female troll pack leader. Hot headed, harsh, and hungry. Not unreasonable, but very aware of what the laws of nature allow and not, to put it simply. With her "survival of the fittest" and "might makes right" attitude, she still can respect her neighbors if they respect her... from a distance.
 7. **Magic Items:** Only a few here. Tailor to your players.
     - A top of ceaseless spinning: Spins until grabbed or bumped enough
     - Everice Shard: said to come from beyond the Bifröst. Used within each icebreaker that forms ice in its surounding waters
     - Eternal Cinder: A rare everburning cinder said to have been the remains of burning trimmings of Yggdrasil.
         - A boon in these frozen lands
-    - Yule Logs : May be any log dedicated to the Yuletide burning, but ideally marked with and more so ideally from the trimmings of the Yggdrasil.
+    - Yule Logs : May be any log dedicated to the Yuletide burning, but ideally carved with yuletide markings and more so ideally from the trimmings of the Yggdrasil.
         - Burning lasts longer and can survive in strong winds and winter storms where typical logs would be put out. May be used to make a torch.
+        - Perhaps the Yuletide carved markings keep away mischevious fae looking to steal warmth? Perhaps, it provides them with their own heat without depriving the owner of the log of theirs.
 8. **Review Your Notes Before the Game**
 
 ### Potential Outcomes
