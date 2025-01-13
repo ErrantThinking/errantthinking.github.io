@@ -6,7 +6,7 @@ author = "Errant Thinking"
 description = "Asking insightful questions. Seeking thoughtful answers."
 compile_sass = true
 build_search_index = true
-#generate_feed = true
+generate_feed = true
 
 theme = "even"
 
