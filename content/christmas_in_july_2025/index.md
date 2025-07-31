@@ -7,7 +7,7 @@ tags = ["Tabletop Roleplaying Games", "Secret Santicorn", "OSR", "TTRPG History"
 ttrpg = ["Secret Santicorn", "OSR", "History", "Midsummer Santicorn"]
 +++
 
-With the end of July upon us, the seventh month of the year is coming to a clsoe and I have decided to challenge myself to write more blog posts (gestures to empty blog).
+With the end of July upon us, the seventh month of the year is coming to a close and I have decided to challenge myself to write more blog posts (gestures to empty blog).
 I started this blog with a response to a writing prompt from Archon's Secret Santicorn 2024 community blogging event in the [OSR Discord](https://discord.gg/6vqF25E), and back then I mused among others about delivering some of the publicly missing responses to writing prompts, or "sniping" as they call it in the OSR Discord.
 
 So I decided to deliver some Secret Santicorn wishes that have gone unfulfilled as a personal challenge.
