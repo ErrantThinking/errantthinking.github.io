@@ -145,3 +145,8 @@ Another monthly blogging event worth looking into is the [Blog Carnival](https:/
 />](https://ofdiceanddragons.com/rpg-blog-carnival/)
 
 For now, I'll focus on fulfilling some Santicorn wishes. I look forward to my Christmas in July challenge and to this years Secret Santicorn!
+
+Progress so far:
+- [Roadside Inns with their Quirks & Secrets](@/oh_no_its_snow/index.md)
+- [Oh no, it's snow!](@/oh_no_its_snow/index.md)
+- [A Snow Field Bonfire](@/oh_no_its_snow/index.md)
