@@ -13,8 +13,10 @@ theme = "even"
 
 taxonomies = [
     # You can enable/disable RSS
-    {name = "categories", feed = true},
     {name = "tags", feed = true},
+		{name = "ttrpg", feed = true},
+		#{name = "science", feed = true},
+		#{name = "philosophy", feed = true}
 ]
 
 [markdown]
@@ -33,8 +35,6 @@ katex_auto_render = true
 
 even_title = "Errant Thinking  :]"
 even_menu = [
-#    {url = "$BASE_URL", name = "Home"},
-#    {url = "$BASE_URL/categories", name = "Categories"},
     {url = "$BASE_URL/tags", name = "Tags"},
     {url = "$BASE_URL/about", name = "About"},
 ]
