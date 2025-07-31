@@ -8,7 +8,7 @@ ttrpg = ["Secret Santicorn", "OSR", "History", "Midsummer Santicorn"]
 +++
 
 With the end of July upon us, the seventh month of the year is coming to a close and I have decided to challenge myself to write more blog posts (gestures to empty blog).
-I started this blog with a response to a writing prompt from Archon's Secret Santicorn 2024 community blogging event in the [OSR Discord](https://discord.gg/6vqF25E), and back then I mused among others about delivering some of the publicly missing responses to writing prompts, or "sniping" as they call it in the OSR Discord.
+I started this blog with a [response to a writing prompt](@/the-elves-revolt.md) from Archon's Secret Santicorn 2024 community blogging event in the [OSR Discord](https://discord.gg/6vqF25E), and back then I mused among others about delivering some of the publicly missing responses to writing prompts, or "sniping" as they call it in the OSR Discord.
 
 So I decided to deliver some Secret Santicorn wishes that have gone unfulfilled as a personal challenge.
 A midsummer Santicorn if you will.
@@ -152,3 +152,4 @@ I started multiple over the past few days. I'll be publishing them as they come 
 - [Roadside Inns with their Quirks & Secrets](@/roadside_inns/index.md)
 - [Oh no, it's snow!](@/oh_no_its_snow/index.md)
 - [A Snow Field Bonfire](@/snow_field_bonfire/index.md)
+- [Enlightened Retro Sci-Fi Uplifted Dinosaur Kingdom](@/retro_sci-fi_uplifted_dinosaur_kingdom/index.md)
