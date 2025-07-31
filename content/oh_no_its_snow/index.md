@@ -17,12 +17,12 @@ At first, I interpreted this as make some snow problems to solve, monsters in pa
 I later realized that it is "Snow" not "snow" so its a named entity.
 So here's a **1d4** of cold based elementals and if I come back to this, I'll add some loose concept for a named entity of Snow, perhaps a character or a supernatural spirit.
 
+<!-- more -->
 ___
 
 :warning: This one is a stub. I'll come back and provide some stats.
 ___
 
-<!-- more -->
 
 ## Cold-based Elementals
 
