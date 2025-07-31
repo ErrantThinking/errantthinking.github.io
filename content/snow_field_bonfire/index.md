@@ -43,10 +43,12 @@ What do the players do?
 If let join the fire, it will sit on a log or chair and take up a lot of space, but is otherwise not very talkative beyond grumbles and is peaceful.
 If not attacked it will grumble and leave a reward for the players before it departs.
 
-### 4. Snow Elementals
+### 4. Cold Elementals
 
 Based on the cold elementals [Oh no! It's snow!](@/oh_no_its_snow/index.md), roll 1d4 to determine the total elementals and a 1d4 per elemental to find which one it is.
 The elementals love the cold and are here to extinguish the fire!
+
+Perhaps the party accidentally setup their bonfire over or near a cold elemental.
 
 ### 5. Granny Jam
 
