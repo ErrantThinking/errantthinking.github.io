@@ -17,7 +17,7 @@ It's *Christmas in July*!
 
 <!--[Santa_sunglasses_color_smaller.jpg](Santa_sunglasses_color_smaller.jpg)-->
 <img
-    src="santa_sunglasses_color.jpg"
+    src="santa_sunglasses_color_smaller.jpg"
     alt="Ink sketch of Santa with sunglasses."
     style="display:block; margin-left: auto; margin-right: auto;"
     loading="lazy"
