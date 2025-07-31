@@ -45,7 +45,7 @@ If not attacked it will grumble and leave a reward for the players before it dep
 
 ### 4. Cold Elementals
 
-Based on the cold elementals [Oh no! It's snow!](@/oh_no_its_snow/index.md), roll 1d4 to determine the total elementals and a 1d4 per elemental to find which one it is.
+Based on the cold elementals in [Oh no! It's snow!](@/oh_no_its_snow/index.md), roll 1d4 to determine the total elementals and a 1d4 per elemental to find which one it is.
 The elementals love the cold and are here to extinguish the fire!
 
 Perhaps the party accidentally setup their bonfire over or near a cold elemental.
