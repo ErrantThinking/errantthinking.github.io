@@ -7,7 +7,7 @@ tags = ["Tabletop Roleplaying Games", "Secret Santicorn", "OSR", "Christmas in J
 ttrpg = ["Secret Santicorn", "Midsummer Santicorn", "Tables", "Locations"]
 +++
 
-Its [Christmas in July](@/christmas_in_july_2025/index.md) and I'm delivering a missing present to Ighton of [Serene Library](https://serenelibrary.com/)
+It's [Christmas in July](@/christmas_in_july_2025/index.md) and I'm delivering a missing present to Ighton of [Serene Library](https://serenelibrary.com/)
 from Secret Santicorn 2022.
 
 ## The Prompt
