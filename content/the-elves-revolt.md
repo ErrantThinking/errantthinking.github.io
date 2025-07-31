@@ -3,21 +3,23 @@ title = "The Elves Revolt! An Adventure"
 date = 2024-12-28
 
 [taxonomies]
-categories = ["Tabletop Roleplaying Games"]
 tags = ["Tabletop Roleplaying Games", "Game Design", "Worldbuilding", "Setting", "Adventure", "Secret Santicorn"]
+ttrpg = ["Game Design", "Worldbuilding", "Setting", "Adventure", "Secret Santicorn"]
 +++
 
 I told myself I'd setup my blog this year, and with the year coming to a close I thought I'd finally make that happen.
 I decided to sign up for some external accountability in the form of something called the 2024 Secret Santicorn.
 This is a yearly event hosted by [Archon](https://archons-court.blogspot.com/) in the Old School Renaissance (OSR) Discord, which is a community focused on Tabletop Roleplaying Games (TTRPGs) that revitalizes the old school games in a modern way.
 That's the [OSR](https://lithyscaphe.blogspot.com/p/principia-apocrypha.html) part.
-Secret Santicorn is essentially a secret Santa for blogging where everyone submits a writing prompt, the prompts get shuffled, and each person writes a blog in response to the prompt they recieved.
+Secret Santicorn is essentially a secret Santa for blogging where everyone submits a writing prompt, the prompts get shuffled, and each person writes a blog in response to the prompt they received.
 
 ## The Prompt
 
-I was given [The Robgoblin](https://the-robgoblin.blogspot.com/)'s prompt where [he notes](https://the-robgoblin.blogspot.com/2024/12/1d6-celestial-phenomena.html) that Goblette (Goblina?) concieved the original idea of the Christmas elves forming a trade union. The prompt is:
+I was given [The Robgoblin](https://the-robgoblin.blogspot.com/)'s prompt where [he notes](https://the-robgoblin.blogspot.com/2024/12/1d6-celestial-phenomena.html) that Goblette (Goblina?) conceived the original idea of the Christmas elves forming a trade union. The prompt is:
 
 >The Elves are revolting: class struggle at the North Pole.
+
+<!-- more -->
 
 I admittedly thought much longer on this than I thought I would have, and I have delved deep into the lore of Santa Claus, his elves, and the North Pole.
 For this prompt, I have decided to write bits of a setting and pieces for a short adventure.
@@ -33,9 +35,9 @@ Lets start with what this prompt gives us and we will  "[Yes! And ...](https://e
 - **Who?** The elves and whom they revolt against. I include the Claus family, upper, middle, and lower classes of elves, the misfits to the Claus mission, and the outsiders who are the Christmas present recipients.
 - **What?** A class struggle brews an Christmas elf trade union or revolution where I've chosen it to be against the big man in red, the Claus family, and the upper class elves, that is, the elves in top management and whom benefit the most from the current system that is the Claus community.
 - **When?** Unspecified. Lets have this occur after at least  a century or two of Christmas deliveries and be in early December, or an equivalent time prior to the winter solstice in your world's northern hemisphere. A dire time for any strike or revolution that could severely impact the year's Christmas delivery.
-- **Where?** At the "North Pole" in the Artic. I base it on the real world Artic, but feel free to adjust as necessary. This is a partially land locked ocean covered in [drift ice](https://en.wikipedia.org/wiki/Drift_ice), which makes it difficult to satisfy basic needs. A harsh environment where only the fittest survive.
+- **Where?** At the "North Pole" in the Arctic. I base it on the real world Arctic, but feel free to adjust as necessary. This is a partially land locked ocean covered in [drift ice](https://en.wikipedia.org/wiki/Drift_ice), which makes it difficult to satisfy basic needs. A harsh environment where only the fittest survive.
 We primarily focus on the Santa's primary workshop and consider [the various locations](https://en.wikipedia.org/wiki/Santa_Claus#Home) where many modern day northern countries consider the North Pole or his workshop to reside.
-- **Why?**  Unspecified. This involves the crucial pieces that make sense of the revolution! I'll cover the main factions and charaters in play along with their motivations.
+- **Why?**  Unspecified. This involves the crucial pieces that make sense of the revolution! I'll cover the main factions and characters in play along with their motivations.
 - **How?** Unspecified. Strike, revolt, or submit? Options detailed below, albeit ultimately determined by the players' actions!
 
 
@@ -50,7 +52,7 @@ Notably I make up a name for the Christmas elves as the "hulderálfar", which li
 
 ### A Pitch
 
-Every game needs pitched to the players to guage interest.
+Every game needs pitched to the players to gauge interest.
 So, I begin with a hook of one such possible introductions, under the pretense of this being a holiday adventure that navigates the volatile formation of a Christmas elf trade union, or worse, a revolution  against Saint Nick himself:
 
 > Tis winter and snow falls heavy upon the frozen ground.
@@ -61,15 +63,15 @@ So, I begin with a hook of one such possible introductions, under the pretense o
     Surely not, you thought, for in the midst of this night, none could fathom such a ride.
     And thus you slept, shivering yet, but as dawn broke and you awoke, you found yourself not in the comfort of your abode, but in a bed of snow.
 >
->   You stir admist others lost in a daze as your eyes adjust to the snowblinding haze.
+>   You stir amidst others lost in a daze as your eyes adjust to the snowblinding haze.
     Before you stands a boy -- nay, a man -- cross armed and hooded, he stood yet rooted
     upon the ice; firmly he stands.
-    Whilst he's no taller than a boy, let alone a man, his eyes of ice hold you like a vice as his voice surpises you yet again.
+    Whilst he's no taller than a boy, let alone a man, his eyes of ice hold you like a vice as his voice surprises you yet again.
     "You've been summoned to join the hunt of Jolnir. Not the wild hunt of yesteryear, nor the years before that, but the hunt *of* Jolnir; to end the frenzied man."
 
 ## The Northern Folk
 
-Before we get to the core of the adventure and class struggle, lets get aquainted with the northern folk.
+Before we get to the core of the adventure and class struggle, lets get acquainted with the northern folk.
 Besides the humans and other common species in the frigid north, there are a few whom the folktales never fail to mention.
 Feel free to include any other fae mentioned in the folklore about the north.
 
@@ -86,11 +88,11 @@ We first introduce the huldufolk, literally "hidden folk", such as gnomes, brown
 The Christmas elves are a type of huldufolk known as the hulderálfar, which translates literally into the common mortal tongue as "hidden elf".
 They are the result of the intermingling of various fae, primarily including the álfar and huldufolk.
 
-Hulderálfar are recognized by their small stature, vivid colored eyes with hues from the auora borealis they traverse, and sharp pointy ears that stick out near perpendicularly from the sides of their heads.
+Hulderálfar are recognized by their small stature, vivid colored eyes with hues from the aurora borealis they traverse, and sharp pointy ears that stick out near perpendicularly from the sides of their heads.
 Some say the álfar ethereal beauty in their blood provides their flawless skin, rosy cheeks, and expressive demeanor.
-Most hulderálfr cultures appreciate aesthetics and will often decorate their living quaters and things along with themselves if they can.
+Most hulderálfr cultures appreciate aesthetics and will often decorate their living quarters and things along with themselves if they can.
 Some of the males sport beards or mustaches, typically well groomed as their daily living can allow.
-Their muscularture varies greatly on their day-to-day to activities.
+Their musculature varies greatly on their day-to-day to activities.
 While rarely equivalent to that of your average dwarf, they certainly can put on some bulk under the right conditions.
 
 Not all of the hulderálfar joined Santa Claus on his mission.
@@ -100,11 +102,11 @@ They are free spirited after all.
 ### The Polar Fae
 
 Not only are there more huldufolk, there are even more polar fae.
-The polar fae are the northern vareity of fae who over the years have evolved or survived the harsh and unforgiving cold.
+The polar fae are the northern variety of fae who over the years have evolved or survived the harsh and unforgiving cold.
 It is said they hail from a place in the heavens where a network of branching bridges of light trailing in the sky allows them to cross between not only our realm and theirs, but also move quickly over the earth to wherever those northern lights reach.
 To freely traverse the world tree, askr Yggdrasils, is a blessing indeed.
 
-We have already mentioned some of the polar fae, such as the **ice sprites** who are mischevious lil' buggers.
+We have already mentioned some of the polar fae, such as the **ice sprites** who are mischievous lil' buggers.
 These impish pixies be merry, sure, but in their fun you may lose not only your much needed coal and cinders, but could even lose yourself if you stray too far into the cold with these sprites.
 
 **Frost giants** are giant humans with long limbs who've acclimated to the frigid cold so much that it is said that their blood runs hot!
@@ -128,12 +130,12 @@ Their cloven hooves and bones tend to be larger than their southern kin, whose f
 
 ### The Snow Folk
 
-Admist the mortals and the polar fae, there are other spirits big and small who dwell within the snow.
+Amidst the mortals and the polar fae, there are other spirits big and small who dwell within the snow.
 Some may know these spirits as ice elementals, beings of living ice, but did you know they are quite varied?
 Some are made of solid ice and sit upon the icebergs or float peacefully among the drift ice.
-Others are made of snow where they shift from an amorphous form into snowmen or whirl with the wind and reform at their liesure.
+Others are made of snow where they shift from an amorphous form into snowmen or whirl with the wind and reform at their leisure.
 
-Much like the simplest of the fae, yet even more so, the snow folk are easily moved by the emotions of neighboring creatures and empathically mirror those around them.
+Much like the simplest of the fae, yet even more so, the snow folk are easily moved by the emotions of neighboring creatures and empathetically mirror those around them.
 I suppose we all have a bit of that in us, no?
 Our environment and the company we keep certainly affects us in nuanced ways.
 
@@ -143,7 +145,7 @@ Our environment and the company we keep certainly affects us in nuanced ways.
 ___
 
 :warning: **Player Warning!** :warning:
-The rest is written for the Game Master (GM), so all sercrets will be made apparent.
+The rest is written for the Game Master (GM), so all secrets will be made apparent.
 **If you are a player, beware that reading further will spoil the story!**
 ___
 
@@ -152,7 +154,7 @@ His common names include Saint Nicholas and its derivatives such as the Dutch na
 Some others being Father Christmas and Jolnir, or the "Yule One".
 Speaking of Jolnir, there is another whom is known by many names and hails from northern lands.
 That is Odin of Norse mythology.
-Our Santa Claus here is a saint and a cleric now, or at least on his path to true sainthood as the jolly Santa Claus we all know so well, but much like Odin and the nordic people, his path to sainthood was a tumultuous journey not without sin.
+Our Santa Claus here is a saint and a cleric now, or at least on his path to true sainthood as the jolly Santa Claus we all know so well, but much like Odin and the Nordic people, his path to sainthood was a tumultuous journey not without sin.
 Indeed, much like the mythological Odin, Nicholas at first sought power and knowledge beyond all else and his visage often earned the title of the "frenzied one", along with his frenzied followers.
 
 This is why the timing of **when** this adventure takes place is paramount.
@@ -191,7 +193,7 @@ His children have gone into the family business and tend to local outposts that 
 ### Santa Claus' Problem
 
 Everything seems pretty dandy for Santa.
-He has kept his promise and lives longer than any human, he's grown his operations to command many and spread cheer at a wonderous scale, he's experienced and learned much from his pilgrimage, he's known all across the lands, has greatly emotionally matured, has a lovely family, and something worth living for!
+He has kept his promise and lives longer than any human, he's grown his operations to command many and spread cheer at a wondrous scale, he's experienced and learned much from his pilgrimage, he's known all across the lands, has greatly emotionally matured, has a lovely family, and something worth living for!
 
 However, he faces an issue he never had before.
 The *problem of scale*.
@@ -229,11 +231,11 @@ In descending order of power within the community as well as descending satisfac
     - Accepting, and left
 
 The primary group struggling consists of the Lower and Middle classes of hulderálfar along with the Misfits who have remained.
-They struggle against the Upper class and Claus family, where in our story the upper class hs some improper management and exploitation, but not all of them are like this.
+They struggle against the Upper class and Claus family, where in our story the upper class has some improper management and exploitation, but not all of them are like this.
 The Claus family in our instance is doing their best with what little resources and energy they have.
 Perhaps their primary fault lies in not letting somethings go or fester briefly in order to restructure the hulderálfar classes to fix the tilted scales and rebalance power among their workers.
 Fundamentally, this community lacks any means of revenue as they entirely are a non-profit venture that provides only charity.
-Thus the resources they need are left up to them to aquire or to bargin with others through means of trading their services or crafts.
+Thus the resources they need are left up to them to acquire or to bargain with others through means of trading their services or crafts.
 So perhaps, they should be a toy store for the majority of the year to acquire revenue, but in our story they certainly have not gotten stable enough  neither as an organization nor in their available trade routes to establish something like that yet.
 Such a commercial materialistic business probably wouldn't excel in the pre-medieval times anyways where getting coal *is* a grand gift in a frigid winter, although I may not be fully appreciating how much the powerful and rich nobles could pay to support such a toymaker.
 
@@ -244,7 +246,7 @@ What of the fairies and snow spirits that dwell in the north?
 
 ### The Claus Family
 
-The primary family member to be included if any would be Mrs. Claus as she can provide a more intimate perspetive of Santa Claus to the players.
+The primary family member to be included if any would be Mrs. Claus as she can provide a more intimate perspective of Santa Claus to the players.
 She has a big heart and cares for the hulderálfar and others who work towards the Yuletide mission.
 
 I envision Santa Claus to have at least a few children and given our chosen emphasis on Santa as Odin, we can make one at least be Thor or have his essence.
@@ -260,7 +262,7 @@ United they can all come together and improve the current situation for everyone
 She recognizes that compromises will have to occur, but also knows that everyone is here for a single mission, to spread good will and cheer in a cold season of a life of turmoil.
 A flaw of hers is that she does not consider those who want to leave or those who do not wish to commit themselves to that mission.
 She is quite jovial, cheery, and optimistic.
-Mrs. Claus is fond of Twinklety's innocence and hope, although she recognizes Twinklety's niavety at times.
+Mrs. Claus is fond of Twinklety's innocence and hope, although she recognizes Twinklety's naivety at times.
 For Mrs. Claus knows well what it is like to struggle and fight to survive.
 
 
@@ -287,21 +289,21 @@ The issue is conditions have not improved for years now, and something needs to 
 Krampus is one of Santa Claus' frequent companions in the past and is associated with the less saintly actions of scaring children into behaving well by making example of the badly behaved ones by beating them with a birch rod.
 Krampus has also been said to abduct poorly behaved children to work in Santa's workshop as punishment for their bad behavior.
 
-Krampus is a half woolly faun and half human born on Earth and cursed with the inabiltiy to traverse the aurora borealis for long durations.
+Krampus is a half woolly faun and half human born on Earth and cursed with the inability to traverse the aurora borealis for long durations.
 An unfortunate result where he has a right foot of a man covered in fur and claw like nails and the other that of a goat.
 Perhaps it is his human foot that fails to carry him far along the winding sky bridge.
 He has the curling horns of a ram, but a pointed nose longer than most men's.
 His tongue is long and he is known for sticking it out and wagging it to mock or scare others.
-His visage is often monsterous and he is certainly rumored to be vile.
+His visage is often monstrous and he is certainly rumored to be vile.
 
 In this story, **Krampus is an instigator**.
 He is one of Santa's original frenzied followers who had the expectation that this pilgrimage of Santa's would result in greater power for them as individuals, and that they would dominate others in their search for newer and better lands.
 Perhaps even pillage the land of the elves or share in their riches.
-Either way, he'd finally overcome the weakness in his human tainted blood as a fae and escape this Earth where he is percieved as a monster.
+Either way, he'd finally overcome the weakness in his human tainted blood as a fae and escape this Earth where he is perceived as a monster.
 
 Krampus is a misfit to the current Yuletide mission.
 His old means of serving through providing negative reinforcement to children is no longer in vogue.
-And the wild hunt is certainly no longer the violent bloodbath it once was where he could be the monster everyone percieves him to be and be respected for it.
+And the wild hunt is certainly no longer the violent bloodbath it once was where he could be the monster everyone perceives him to be and be respected for it.
 Even be told he'd have a seat in Valhalla for his prowess.
 With the change in how the Yuletide mission is enacted, he feels he no longer belongs and indeed has had his prior services discontinued and retroactively disparaged.
 
@@ -316,9 +318,9 @@ There is a violent event in the past where Santa earned the name "Cinder Claws" 
 This is an event Santa now regrets and is ashamed of.
 You decide what that event is and if its ever found out.
 
-Krampus misses how it used to be and percieves the world through a harsh lens, which echoes that of a warrior.
+Krampus misses how it used to be and perceives the world through a harsh lens, which echoes that of a warrior.
 He believes it was simpler in the past, none of this hogwash about feelings, helping the weak, or that it matters which method is used to achieve victory as long as victory is achieved.
-He wants to beleive he is capable and wants respect from others for his abilities.
+He wants to believe he is capable and wants respect from others for his abilities.
 He is a misfit to the fae, the humans, and to his trusted group who actually accepted him.
 He wants to belong.
 
@@ -326,7 +328,7 @@ Perhaps, the [Yule Goat](https://en.wikipedia.org/wiki/Yule_goat) was actually K
 
 ## The Adventure Begins!
 
-The Player Characters (PCs) are brought into the thick of it due to various cirucmstances, some of which we shall detail here.
+The Player Characters (PCs) are brought into the thick of it due to various circumstances, some of which we shall detail here.
 Most of the PCs were summoned here by the group of elves leading the unionization effort.
 The example pitch above has the players abducted as if by fairies of the [wild hunt](https://en.wikipedia.org/wiki/Wild_Hunt), where they wake up to meet the hulderálfr revolutionist Beltznickle.
 
@@ -362,11 +364,11 @@ This is an instance of the adventure where the players are unified to help the h
         - Tells people of the ailing community and that the old way was the right way, where the weak became strong from the groups actions.
     - **Thieving Ice Sprites**: Ice sprites have been stealing coal and logs. Homes need heat. An opportunity for Krampusnacht-lite or full on Krampusnacht with the scares.
         - If only the delivery of new or the return of the stolen coal is done, this helps but does not deter requests as much as if scaring were to be performed.
-        - If the party helps Krampus perform his Krampusnacht activities, which is sacring the spirit into people *at least*, which is against the wishes of Santa Claus, then you will decrease the amount of work necessary for the Santa community to pull off a satisfactory present delivery for Christmas
+        - If the party helps Krampus perform his Krampusnacht activities, which is scaring the spirit into people *at least*, which is against the wishes of Santa Claus, then you will decrease the amount of work necessary for the Santa community to pull off a satisfactory present delivery for Christmas
             - expectations lowered, more grateful for little things, & less requests
             - more belief, more *fear*, less love and security
     - **Meet Lil' Pete**: The able body made outcast misfit by workplace injury.
-        - Resides in the misfits' igloo residence on the bounaries of Santa's village.
+        - Resides in the misfits' igloo residence on the boundaries of Santa's village.
         - He's been taken advantage of by upper class hulderálfar.
             - Krampus would propose an in-house Krampusnacht for the uppies.
     - **The Working Class Strikes**: 10 days prior to Christmas demanding
@@ -399,12 +401,12 @@ This is an instance of the adventure where the players are unified to help the h
     - **Meet Santa Claus**: Open to discuss problems and potential solutions.
         - After certain problems above are resolved, Santa can afford to meet the trade union's demands, thus helping to quell the revolution.
         - *Strongly opposed to fear and violence*
-        - However, he will do *whatever* is necessary to ensure at least a bare minium Christmas this year.
+        - However, he will do *whatever* is necessary to ensure at least a bare minimum Christmas this year.
     - **Stop (or join) the Revolution**
 3. **Secrets & Clues:**
     - The lower class and misfits live in the outskirts of Santa village. Out of sight, out of mind.
     - Krampus and Cinder Klaus: Krampus knows well Santa's darker past while the others old enough to know seem to willfully ignore it or say them in the softest of whispers behind closed doors.
-    - The upper hulderálfar hold an extravegant ball that is invite only. All the festivities will be available.
+    - The upper hulderálfar hold an extravagant ball that is invite only. All the festivities will be available.
     - Any of the above potential scenes serve as rumors as well. We couple some of them with their underlying causes or notable effects
         - Cause: supply lines are strained in part due to Fishery Poaching and Raging Snow Folk
             - Effect: Food shortage
@@ -418,17 +420,17 @@ This is an instance of the adventure where the players are unified to help the h
             - Cause: not prioritized enough by management: exploitation / improper management
             - Cause: Lack of funds. Must trade goods and services with outsiders.
 4. **Fantastic Locations:**
-    - **Santa's Village**: Less of a village and more of a mobile fleet of icebreaker ships. An array of wooden [icebreaker ships](https://en.wikipedia.org/wiki/Icebreaker) reinforced with metal float amongst the drift ice. They are connected to each other by floating planks of wood and from them eminates a cold magic that pulls in the heat from the surrounding water. This forms ice around them and provides internal heat within the boats.
+    - **Santa's Village**: Less of a village and more of a mobile fleet of icebreaker ships. An array of wooden [icebreaker ships](https://en.wikipedia.org/wiki/Icebreaker) reinforced with metal float amongst the drift ice. They are connected to each other by floating planks of wood and from them emanates a cold magic that pulls in the heat from the surrounding water. This forms ice around them and provides internal heat within the boats.
         - *Lower class*: Outskirts lower class: igloos upon stable snow covered ice floes just outside the village's outer boats
-            - **Lil' Pete's Igloo**: A small and recenlty built igloo with one ice block window and a couple of furs laid down inside. A small hulderálfr sits sniffling, bundled up in a fur cradling a broken arm.
+            - **Lil' Pete's Igloo**: A small and recently built igloo with one ice block window and a couple of furs laid down inside. A small hulderálfr sits sniffling, bundled up in a fur cradling a broken arm.
             - **Krampus' Igloo**: A well established igloo with a large interior covered in matted furs. Things be strewn about, but not in the way of the main bed and passageway. His igloo features a longer entry tunnel that stores his various belongings.
         - *Middle class*: In the village, but outer ring. Nicely decorated. Some get to have boat rooms.
             - for some igloos, they may enter the boats interior or smaller dingies
-        - *Upper class*: In middle of the village in extravegantly decorated houses next to the key workshops and offices, which are built upon two large icebreaker ships closely docked on either side of one larger ship. They too form icefloes upon the water's surface with similar magic.
+        - *Upper class*: In middle of the village in extravagantly decorated houses next to the key workshops and offices, which are built upon two large icebreaker ships closely docked on either side of one larger ship. They too form ice floes upon the water's surface with similar magic.
             - **Santa's Workshop**: and office where large nutcracker golems stand on either side of the entrance. Wooden poles painted in swirling stripes of red, white, and green hold up similarly colored flags that blow in the wind above the door.
-    - **Giant's Pasture**: Large mountains line this coast where a winding trail goes up and between two sharp peaks. Various grasses and phrobs available that the mammoths would graze upon.
+    - **Giant's Pasture**: Large mountains line this coast where a winding trail goes up and between two sharp peaks. Various grasses and vegetation available that the mammoths would graze upon.
     - **An Iceberg Cavern** : Home to the yetis or the ice sprites, this is a blue green ice cavern that floats away from the coast and Santa's village.
-    - **The Brnaching Aurora Borealis Bridge** : Whether on sleigh or by fae magic, the aurora borealis is able to be traversed as if walking within large branches of light.
+    - **The Branching Aurora Borealis Bridge** : Whether on sleigh or by fae magic, the aurora borealis is able to be traversed as if walking within large branches of light.
         These are reached by flight or high altitude points, such as mountains, although with enough fae magic the right incantations, one can ascend upon fae-blessed wood or materials that originate from Yggdrasil.
 5. **Monsters:** Adjust as you see fit and to your PC's party level
     - 1d4 + 3 ice sprites
@@ -454,12 +456,12 @@ This is an instance of the adventure where the players are unified to help the h
     - Kólga, a female troll pack leader. Hot headed, harsh, and hungry. Not unreasonable, but very aware of what the laws of nature allow and not, to put it simply. With her "survival of the fittest" and "might makes right" attitude, she still can respect her neighbors if they respect her... from a distance.
 7. **Magic Items:** Only a few here. Tailor to your players.
     - A top of ceaseless spinning: Spins until grabbed or bumped enough
-    - Everice Shard: said to come from beyond the Bifröst. Used within each icebreaker that forms ice in its surounding waters
+    - Everice Shard: said to come from beyond the Bifröst. Used within each icebreaker that forms ice in its surrounding waters
     - Eternal Cinder: A rare everburning cinder said to have been the remains of burning trimmings of Yggdrasil.
         - A boon in these frozen lands
     - Yule Logs : May be any log dedicated to the Yuletide burning, but ideally carved with yuletide markings and more so ideally from the trimmings of the Yggdrasil.
         - Burning lasts longer and can survive in strong winds and winter storms where typical logs would be put out. May be used to make a torch.
-        - Perhaps the Yuletide carved markings keep away mischevious fae looking to steal warmth? Perhaps, it provides them with their own heat without depriving the owner of the log of theirs.
+        - Perhaps the Yuletide carved markings keep away mischievous fae looking to steal warmth? Perhaps, it provides them with their own heat without depriving the owner of the log of theirs.
 8. **Review Your Notes Before the Game**
 
 ### Potential Outcomes
@@ -467,7 +469,7 @@ This is an instance of the adventure where the players are unified to help the h
 There is always more than one way to solve a problem.
 Some may be different in method, but result in a similar outcome.
 Perhaps, it is not only the outcome that matters, but also how we solve the problem?
-Nonethless, there are several potential outcomes for this class struggle which will ultimately be determined by the players' actions.
+Nonetheless, there are several potential outcomes for this class struggle which will ultimately be determined by the players' actions.
 This is a non-exhaustive list for ideas.
 
 - The Elves **Unite**: The vast majority come together for a singular cause
