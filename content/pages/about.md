@@ -1,5 +1,6 @@
 +++
 title = "About"
+description = "Information about Errant Thinking."
 path = "about"
 template = "about.html"
 +++
