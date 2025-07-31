@@ -3,8 +3,8 @@ title = "Granny Jam"
 date = 2025-07-31
 
 [taxonomies]
-tags = ["Tabletop Roleplaying Games", ]
-ttrpg = ["Character"]
+tags = ["Tabletop Roleplaying Games", "Collaborative Prompts"]
+ttrpg = ["Character", "Collaborative Prompts"]
 +++
 
 In the [NSR Cauldron Discord](https://discord.gg/tsJ93PyuJH), I wrote a community prompt in hopes that I could get a community effort to characterize Granny Jam, a character I made up who specializes in creating magical jams and jellies.
