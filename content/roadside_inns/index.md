@@ -149,11 +149,11 @@ The resistance often meets in the basement of this dwelling planning their next 
 
 ### 6. Treetop Lodge
 
-- **Location**: Within a forest atop their multiple tree
+- **Location**: Within a forest atop multiple trees
 - **Keeper**: A family of wood elves
 - **Building**: An array of tree houses connected by rope bridges
 - **Quirk**: Being in the tree tops, they either run a lift or if short staffed just strongly encourage people to stay the night.
-- **Secret**: A telescope on one of the observation decks points not to the sky by at a very specific location on the horizon. Folk tales say there be treasure that way, but not many come back alive to spend it.
+- **Secret**: A telescope on one of the observation decks points not to the sky but at a very specific location on the horizon. Folk tales say there be treasure that way, but not many come back alive to spend it.
 
 An inn in the treetops providing lodging, food, and drink.
 
@@ -161,7 +161,7 @@ An inn in the treetops providing lodging, food, and drink.
 
 - **Location**: Natural hot springs
 - **Keeper**: A family lives and manages the inn and hot springs
-- **Building**: Stone base and wood sides building. The building is wider than it is tall. If a second story, then its consists of both an expensive suite and separately where the family lives.
+- **Building**: Stone base and wood sides building. The building is wider than it is tall. If a second story exists, then it consists of both an expensive suite and a separate space where the family lives.
 - **Quirk**: Offers hot springs that soothe the soul and heal the body
 - **Secret**: The owner won this place from a bet. The prior owner resents them.
 
