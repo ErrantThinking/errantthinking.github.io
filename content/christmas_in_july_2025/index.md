@@ -1,5 +1,5 @@
 +++
-title = "Christmas in July: Secret Santicorn, A History"
+title = "Secret Santicorn, A History"
 date = 2025-07-30
 
 [taxonomies]
@@ -60,8 +60,8 @@ There was a "Secret Jackalope" event in Spring of 2020 and 2022 as well.
 
 Before 2018, it was referred to as "Secret Santicore" or simply "Santicore", and it seems to have occurred at least in part in the OSR Discord in 2017, although the Discord messages as a historic record are unreliable at best and messy with it being all conversational.
 The 2018 Secret Santicorn seems to have been encouraged by Jojiro
-(@jojirius) as a less formal version of Santicore.
-By the Discord archives, Torch Hollow (@hollowscribe) is the first to mention the term "Santicorn" accompanied with a modified traditional ink print of a unicorn wearing a real Santa hat.
+(jojirius) as a less formal version of Santicore.
+By the Discord archives, Torch Hollow (hollowscribe) is the first to mention the term "Santicorn" accompanied with a modified traditional ink print of a unicorn wearing a real Santa hat.
 
 <img
     src="santicorn.jpg"
@@ -98,6 +98,13 @@ https://docs.google.com/spreadsheets/d/1tsnUoUcCqOSbU4hUq-xP9m1mN8a7Z6dBXCgWaOkz
 compiled from the prior years' events as availability allowed.
 The green rows denote those that were originally missing in the Google Sheet but were publicly shared in the OSR Discord.
 The red rows indicate prompts without public responses in either the Google Sheet or the OSR Discord.
+
+**Background Color Key**
+- **White**: A prompt delivered for that year with an update to the public Google sheet.
+- **Green**: A prompt delivered for that year with an update in the Discord but not the Google sheet.
+- **Red**: A prompt with a missing response based on the Google Sheet and Discord.
+- **Pink**: A prior Red prompt queued for delivery by me.
+- **Gray**: An incomplete prompt.
 
 <iframe
     width="100%"
