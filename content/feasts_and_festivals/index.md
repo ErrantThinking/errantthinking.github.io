@@ -13,6 +13,13 @@ I will discuss some real world festivals and mythology as sources of inspiration
 
 <!-- more -->
 
+<img
+    src="still-life_fruits_metmuseum_DP820041_slim.jpg"
+    alt="Met Museum still-life fruits canvas painting"
+    style="display:block; margin-left: auto; margin-right: auto; width: 70%;"
+    decoding="async"
+/>
+
 ## What is Ophelos?
 
 Ophelos is an island ripe with culture and folklore inspired in by Hellenistic folklore combined with the mysticism of Tarot and the wonder of fae and spirits.
@@ -77,7 +84,7 @@ The famine caused by Demeter could also be a drought at the height of summer, wh
 #### Related Greek Festivals or Holidays
 
 Chloe is a feminine Greek name meaning "blooming", "fertility", "fresh and green foliage", or "shoots of plants in spring".
-It was one of the many epithets of Demeter[1].
+It was one of the many epithets of Demeter [[1]].
 The joyful festival of Chloeia celebrated the beginning of the spring and was held in Athens to honor Demeter Chloe ("the Green") and her bringing new vegetation.
 The celebrations included a goat sacrifice and merrymaking.
 
@@ -145,7 +152,7 @@ ___
 
 ## References
 
-1. Liddell, Henry George; Scott, Robert; Jones, Henry Stuart; McKenzie, Roderick. 1940.  "A Greek-English Lexicon". Ed: 9. Vol: I. Oxford: Clarendon Press. (archive.org)[1]
+1. Liddell, Henry George; Scott, Robert; Jones, Henry Stuart; McKenzie, Roderick. 1940.  "A Greek-English Lexicon". Ed: 9. Vol: I. Oxford: Clarendon Press. [archive.org][1]
 
 [1]: https://archive.org/details/b31364949_0001
 [2]: https://en.wikipedia.org/wiki/Celtic_Otherworld
