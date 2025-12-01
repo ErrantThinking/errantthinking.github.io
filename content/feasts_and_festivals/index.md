@@ -21,8 +21,6 @@ A particular inspiration from Hellenistic folklore is the intermingling of belie
 In Ophelos, these spirits do not tend to be all powerful deities.
 If any such deities are at play, then they are believed to more often act through the local spirits and their worshippers.
 
-The people believe only on rare occurrences would the deities partake in the mortal experience so directly, although they certainly would not risk insulting them in fear of their divine spite.
-
 With that said, there are five distinct deities within the culture of Ophelos.
 One for each of the four seasons and one for change.
 
