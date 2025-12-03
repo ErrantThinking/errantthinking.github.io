@@ -1,6 +1,10 @@
 +++
 title = "Secret Santicorn, A History"
 date = 2025-07-30
+description = "A history of the Secret Santicorn community event."
+
+[extra]
+image = "santicorn.jpg"
 
 [taxonomies]
 tags = ["Tabletop Roleplaying Games", "Secret Santicorn", "OSR", "TTRPG History", "Christmas in July"]

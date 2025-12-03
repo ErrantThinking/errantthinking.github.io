@@ -1,6 +1,10 @@
 +++
 title = "Enlightened Retro Sci-Fi Uplifted Dinosaur Kingdom"
 date = 2025-07-31
+description = "It's Christmas in July and I'm delivering a missing present to Fairdragoon from Secret Santicorn 2022. Prompt: Cities, politicians and/or ministries of the enlightened retro-sci-fi uplifted dinosaur kingdom for a political/intrigue style game"
+
+[extra]
+image = "tex_newly_awakened.jpg"
 
 [taxonomies]
 tags = ["Tabletop Roleplaying Games", "Secret Santicorn", "OSR", "Christmas in July"]

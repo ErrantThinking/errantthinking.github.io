@@ -1,6 +1,10 @@
 +++
 title = "Inspiring Real World Feasts and Festivals"
 date = 2025-11-30
+description = "I've decided to join in the festivities of this November's RPG Blog Carnival. This month's theme is \"Feasts and Festivals\" in tabletop role-playing games as hosted by 'of Dice and Dragons'. I will discuss some real world festivals and mythology as sources of inspiration for one of my custom settings, Ophelos."
+
+[extra]
+image = "still-life_fruits_metmuseum_DP820041_slim.jpg"
 
 [taxonomies]
 tags = ["Tabletop Roleplaying Games", "RPG Blog Carnival", "Feasts", "Festivals", "Seasons"]

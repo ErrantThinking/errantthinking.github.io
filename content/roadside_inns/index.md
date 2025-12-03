@@ -1,6 +1,10 @@
 +++
 title = "Roadside Inns with their Quirks & Secrets"
 date = 2025-07-31
+description = "It's Christmas in July and I'm delivering a missing present to Ighton of Serene Library from Secret Santicorn 2022. Prompt: dHoweverManyYouFeelLike Roadside Inns and their quirks and secrets."
+
+[extra]
+image = "riverside-sml.jpg"
 
 [taxonomies]
 tags = ["Tabletop Roleplaying Games", "Secret Santicorn", "OSR", "Christmas in July"]

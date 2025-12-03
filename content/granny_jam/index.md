@@ -1,6 +1,10 @@
 +++
 title = "Granny Jam"
 date = 2025-07-31
+description = "Who is Granny Jam? Can we tell by her wares?"
+
+[extra]
+image = "unmarked_jams_on_shelf_sml.jpg"
 
 [taxonomies]
 tags = ["Tabletop Roleplaying Games", "Collaborative Prompts"]
