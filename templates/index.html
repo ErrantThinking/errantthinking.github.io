@@ -19,15 +19,33 @@
         gtag('config', 'G-F5ZRGR74HW');
       </script>
 
-    {% if page %}
-      {% if page.description %}
-      <meta name="description" content="{{ page.description }}" />
-      {% elif config.description %}
-      <meta name="description" content="{{ config.description }}" />
-      {% endif %}
-    {% elif config.description %}
-      <meta name="description" content="{{ config.description }}" />
-    {% endif %}
+			<link rel="icon" href="/favicon.ico" sizes="any">
+
+			<meta name="description" content="{{ page.description | default(value=config.description) }}">
+
+			<!-- Open Graph Meta Data-->
+			<meta property="og:site_name" content="{{ config.title }}" />
+
+			<meta name="og:title" content="{{ page.title | default(value=config.title) }}">
+			<meta name="og:type" content="{{ page.type | default(value=config.extra.type) }}">
+			<meta name="og:description" content="{{ page.description | default(value=config.description) }}">
+			{% if page.image %}
+				<meta name="og:image" content="{{ get_url(path=page.image, trailing_slash=false) | default(value=config.extra.image) }}">
+			{% else %}
+				<meta name="og:image" content="{{ get_url(path=config.extra.image, trailing_slash=false) }}">
+			{% endif %}
+
+			<!-- Twitter Tag Meta Data-->
+			<meta name="twitter:card" content="summary_large_image">
+			<meta name="twitter:title" content="{{ page.title | default(value=config.title) }}">
+			<meta name="twitter:description" content="{{ page.description | default(value=config.description) }}">
+			<meta name="twitter:creator" content="{{ config.extra.twitter }}">
+			{% if page.image %}
+				<meta name="twitter:image" content="{{ get_url(path=page.image, trailing_slash=false) | default(value=config.extra.image) }}">
+			{% else %}
+				<meta name="twitter:image" content="{{ get_url(path=config.extra.image, trailing_slash=false) }}">
+			{% endif %}
+
 
       <title>{% block title %}{{ config.title }}{% endblock title %}</title>
 

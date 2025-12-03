@@ -1,13 +1,15 @@
 +++
 title = "New Year's Self-Reflection: Resolutions Revolutionized"
 date = 2025-12-02
+description = "New Year's Resolutions are ephemeral. Self-reflections chart your course for a journey."
+image = "stately-vessel-1600.jpg"
 
 [taxonomies]
 tags = ["Self-Reflection", "Philosophy"]
 +++
 
-New Year's Resolutions are one thing.
-Self-reflecting to chart your course is another entirely.
+New Year's Resolutions are ephemeral.
+Self-reflections chart your course for a journey.
 Let's revolutionize our resolutions with purposeful reflection.
 
 Around late November to after New Year's Day is a time of purposeful reflection for my friends and I.

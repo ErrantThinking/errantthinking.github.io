@@ -4,6 +4,7 @@ base_url = "https://errantthinking.com"
 title = "Errant Thinking"
 author = "Errant Thinking"
 description = "Asking insightful questions. Seeking thoughtful answers."
+
 compile_sass = true
 build_search_index = true
 generate_feeds = true
@@ -29,6 +30,9 @@ lazy_async_image = true
 
 [extra]
 author = "Errant Thinking"
+type = "website"
+image = "logo.png"
+twitter = "@errantthinking"
 # Put all your custom variables here
 katex_enable = true
 katex_auto_render = true
