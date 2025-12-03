@@ -29,23 +29,22 @@
 			<meta name="og:title" content="{{ page.title | default(value=config.title) }}">
 			<meta name="og:type" content="{{ page.type | default(value=config.extra.type) }}">
 			<meta name="og:description" content="{{ page.description | default(value=config.description) }}">
-			{% if page.image %}
-				<meta name="og:image" content="{{ get_url(path=page.image, trailing_slash=false) | default(value=config.extra.image) }}">
-			{% else %}
-				<meta name="og:image" content="{{ get_url(path=config.extra.image, trailing_slash=false) }}">
-			{% endif %}
 
 			<!-- Twitter Tag Meta Data-->
 			<meta name="twitter:card" content="summary_large_image">
 			<meta name="twitter:title" content="{{ page.title | default(value=config.title) }}">
 			<meta name="twitter:description" content="{{ page.description | default(value=config.description) }}">
 			<meta name="twitter:creator" content="{{ config.extra.twitter }}">
-			{% if page.image %}
-				<meta name="twitter:image" content="{{ get_url(path=page.image, trailing_slash=false) | default(value=config.extra.image) }}">
+
+			<!-- Both Open Graph and Twitter Tag Meta Data for Preview Image -->
+			{% if page.extra.image %}
+				{% set image_path = page.path ~ page.extra.image %}
+				<meta name="og:image" content="{{ get_url(path=image_path, trailing_slash=false) | default(value=config.extra.image) }}">
+				<meta name="twitter:image" content="{{ get_url(path=image_path, trailing_slash=false) | default(value=config.extra.image) }}">
 			{% else %}
+				<meta name="og:image" content="{{ get_url(path=config.extra.image, trailing_slash=false) }}">
 				<meta name="twitter:image" content="{{ get_url(path=config.extra.image, trailing_slash=false) }}">
 			{% endif %}
-
 
       <title>{% block title %}{{ config.title }}{% endblock title %}</title>
 

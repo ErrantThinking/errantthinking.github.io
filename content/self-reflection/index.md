@@ -2,7 +2,9 @@
 title = "New Year's Self-Reflection: Resolutions Revolutionized"
 date = 2025-12-02
 description = "New Year's Resolutions are ephemeral. Self-reflections chart your course for a journey."
-image = "stately-vessel-1600.jpg"
+
+[extra]
+image = "pexels-pixabay-37730_sunset_galleon_sail_sml.jpg"
 
 [taxonomies]
 tags = ["Self-Reflection", "Philosophy"]
