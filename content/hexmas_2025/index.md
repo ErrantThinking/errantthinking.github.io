@@ -42,7 +42,7 @@ The hexes for "The Island of Misfit Toys" and "King Kringle" currently do not ha
 This structure is subject to change,
 as Prismatic Wasteland noted that you can "do whatever and we handle it at end" in terms of piecing the hexes all together.
 What matters most is you have fun and create a hex!
-If your hex is missing or you want to connect next to another hex, please join the Discord discussion, or otherwise reach out to use on social media.
+If your hex is missing or you want to connect next to another hex, please join the Discord discussion, or otherwise reach out to us on social media.
 
 As of writing this blog post, the current creators and their entries are
 
@@ -57,7 +57,7 @@ As of writing this blog post, the current creators and their entries are
 7| Copper Shaman | [Babbling Baboon](https://coppershaman.com/merry-hexmas-babbling-baboon/) | 2025/12/03
 8| The Gloaming Log | [The Quiet Season](https://thegloaminglog.blogspot.com/2025/12/the-quiet-season.html) | 2025/12/04
 9| Komodo Games | [The Island of Misfit Toys](https://komodogames.substack.com/p/merry-hexmas-the-island-of-misfit) | 2025/11/09
-10| Errant Thinking | Their posts are linked below | 2025/12/05
+10| Errant Thinking | The four posts are linked below | 2025/12/05
 
 ### My current hex contribution
 
@@ -90,12 +90,6 @@ Has the ability to travel with a whirlwind, like all snow elementals.
 This helps avoid certain dangers.
 Its hard to destroy a snowman that can reshape itself afterwards!
 
-### Special Delivery Kluger
-
-A mailman who often traverses between settlements delivering letters and by nature of his occupation is well versed in the ongoings of the settlements he's visited.
-To be a mailman in the north pole is a dangerous endeavor.
-How does he do it?
-
 <img
     src="Rudolph_special_Sam_the_Snowman.webp"
     alt="Sam the snowman from Rudolph the Red Nose Reindeer."
@@ -103,6 +97,12 @@ How does he do it?
     loading="lazy"
     decoding="async"
 />
+
+### Special Delivery Kluger
+
+A mailman who often traverses between settlements delivering letters and by nature of his occupation is well versed in the ongoings of the settlements he's visited.
+To be a mailman in the north pole is a dangerous endeavor.
+How does he do it?
 
 ###  Clockwork horrors
 
