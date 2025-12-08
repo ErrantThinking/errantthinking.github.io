@@ -43,25 +43,52 @@ People get lost in this misty vale and many mysteries dwell within.
 
 If it is foggy, then 1d20 for snow: 1 to 10: no snow, 11 to 19: snow, 20. blizzard.
 If it snows or blizzards while there is a fog, this results in a freezing fog where the fog will freeze to surfaces forming [rime ice](https://en.wikipedia.org/wiki/Rime_ice).
-If it is snowing, then low winds and soft rime ice is formed.
-If it is blizzarding, then high winds and hard rime ice is formed.
-Getting caught in a blizzard may require finding or making shelter.
+If it is snowing, then low winds form soft rime ice.
+If a blizzard occurs, then high winds form hard rime ice.
+Getting caught in a blizzard may require finding or making shelter, otherwise it slows travel and tests ones survival.
 
 Cannot get lost in the fog when you have someone like Rudolph the Red-Nosed Reindeer guiding your way!
 
-## Rumors of Vorpal Vale
+## Rumors of the Vorpal Vale
 
-A headless knight in green prowls the vale at night. They call him Chevalier Vert. It is said he hunts for his missing head and disappears into a mist at dawn.
-Some say there is a sacred scroll in the Green Chapel that can be used to control him.
+### The Chevalier Vert
+
+A headless knight in green prowls the vale at night riding atop a large [boreal woodland caribou](https://en.wikipedia.org/wiki/Boreal_woodland_caribou).
+They call him **Chevalier Vert**.
+It is said he hunts in a frenzy for his missing head and helm all through the night.
+Yet once dawn strikes, he disappears into a mist.
+
+Some say there is a *sacred scroll* in the *Chapel of the Green* that can be used to control him.
 Others say if his head were to be returned to him, his wild spirit would finally know peace.
 
-He is said to carry a vorpal sword that could fell the great Jabberwocky.
-Too bad his gear along with himself all turns to mist at dawn!
+He is said to carry a vorpal sword that could cut clean the head of the great Jabberwock in a single snicker-snack!
+Too bad his gear along with himself all turn to mist at dawn!
+
+Chevvalier Vert was known to wear a magnificient antlered helm.
+However, he lost it prior to losing his head in the Vorpal Vale.
+There are rumors of a [Yule Barbarian](https://playtestdummies.substack.com/p/merry-hexmas-the-christmas-tree-forest), more westward than north of the vale, who possesses such an antlered helm.
+They say to "seek a henge of a dozen".
+
+#### Upon Return of his Head
+
+The Chevalier Vert will regain his sanity and cease his frenzy upon the return of his head.
+He is now able to escort the party with his faithful mount during the evening.
+However, until he regains his antlered helm, he cannot aid the party during the day.
+
+He'll tell the tale of how he lost his head here due to not wearing him great antlered helm.
+He lost his helm in a great fight against demonic wind mill.
+He swears it was a great foe.
+
+Once he is whole again with both his head and helm, he can reattach his helmed head and be free from his misty bonds to the Vorpal Vale.
+
+### The Jabberwock
+
+The Jabberwock is known to visit the Vorpal Vale during the day to prey upon those lost.
 
 ## Random Encounters
 There is a Vorpal Vale counter which accounts accumulation of the Vorpal Vale's curse on travellers.
 If the Vorpal Vale counter is less than four *after* incrementing, then nothing happens.
-If that is dissapointing, then choose an encounter or roll again.
+If that is disappointing, then choose an encounter or roll again.
 On the fourth count, reset the counter to zero and all of the following occurs:
 - Fog pours over Rime Ridge into the vale.
 - Vorpal Veil occurs.
@@ -77,7 +104,7 @@ On the fourth count, reset the counter to zero and all of the following occurs:
         - If he is not yet encountered: Encounter **Sir Tento Three**, the Lost.
         Lost in the mists of the Vorpal Vale, Sir Tento searches for "Happy" New Year, albeit not for "The Dark Year"'s purposes.
 3. **Bassians**: Whether hunting or one of their still water homes is happened upon by the adventurers.
-4. **The Jabberwocky**, but only roams during the daytime
+4. [**The Jabberwock**](https://en.wikipedia.org/wiki/Jabberwocky), but only roams during the daytime
     - If unavailable, treat as #6 for Daytime Roamers.
 5. **Aeon the Terrible**: Frequents the valley for a meal. Loves a good Bassian or Reindeer.
     - If unavailable, treat as #6 for Daytime Roamers.
@@ -100,7 +127,7 @@ On the fourth count, reset the counter to zero and all of the following occurs:
             2. 1d4 **Clockwork horrors**
             3. 2d4 **Gorcs**
             4. 2d4 **Ramkins**
-    - What?: Roll on this encoutner table again, If #1 or #2, do not increment the Vorpal Vale counter. If #1, the "Who" in question are resting, whether camping or a brief respite.
+    - What?: Roll on this encounter table again, If #1 or #2, do not increment the Vorpal Vale counter. If #1, the "Who" in question are resting, whether camping or a brief respite.
 
 ### Nighttime
 
@@ -111,7 +138,7 @@ On the fourth count, reset the counter to zero and all of the following occurs:
     - If it is already foggy in the Vorpal Vale, roll 1d6 for a new exit direction from this hex, starting with 1 at North, 2 at Northeast, and so on clockwise.
         - If he is not yet encountered: Encounter **Sir Tento Three**, the Lost.
         Lost in the mists of the Vorpal Vale, Sir Tento searches for "Happy" New Year, albeit not for "The Dark Year"'s purposes.
-3. An Auora Borealis is visible across the night sky.
+3. An Aurora Borealis is visible across the night sky.
     - If it is *not* foggy, increment the Vorpal Vale counter.
         - If he is not yet encountered: Encounter **Ruprecht Belznickle** herding his caribou.
     - If it is foggy, someone may attempt to use the cover of the fog to travel to and from the branches of Yggdrasil within this vale.
@@ -132,11 +159,13 @@ On the fourth count, reset the counter to zero and all of the following occurs:
             2. 1d4 **Clockwork horrors**
             3. 2d4 wolves
             5. 1d6 **Anglers**. Like the Bassians, but with an anglerfish head instead of the head of a bass.
-    - What?: Roll on this encoutner table again, If #1 or #2, do not increment the Vorpal Vale counter. If #1, the "Who" in question are resting, whether camping or a brief respite.
+    - What?: Roll on this encounter table again, If #1 or #2, do not increment the Vorpal Vale counter. If #1, the "Who" in question are resting, whether camping or a brief respite.
 
 ## Locations within the Vorpal Vale
 
 - Misty still waters
     - Bassians (pronounced as the Bass fish)
+    - Some are so still their reflections are like mirrors, even when frozen.
+    - From these mirror like pools the Jabberwock is said to emerge during the day and retreat during the night.
 
-
+- Somewhere in the Vorpal Vale is the Chevalier Vert's head.
