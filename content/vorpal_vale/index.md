@@ -10,13 +10,17 @@ tags = ["Tabletop Roleplaying Games", "Hexmas", "OSR", "Blog Bandwagon"]
 ttrpg = ["Hexmas"]
 +++
 
+A Rankin/Bass themed location for a [Merry Hexmas](@/hexmas_2025/index.md). A mysterious fog covered valley with a winding river between the various hills.
+
+<!-- more -->
+
 ___
 
 :warning: Currently a stub and is being further added to!
 
 ___
 
-## Vorpal Vale
+## Terrain and Biome
 
 A steep valley between the mountains in the north and south featuring its own bumpy hills with a winding river that traverses between those hills.
 The primary stream starts from streams and drainage of melting ice (when it does melt) from the northeastern Powder Plains.
@@ -24,7 +28,7 @@ The water from the mountains accumulates in the valley forming various small lak
 The clouds that accumulate from the ocean against Rime Ridge results in the heavy rains over The Green Chapel and its fields, and also in a thick fog that is nearly always present in the Vorpal Vale.
 People get lost in this misty vale and many mysteries dwell within.
 
-### Neighboring Hexes
+## Neighboring Hexes
 
 - North: [The Sleeping Slopes](@/sleeping_slopes/index.md)
 - Northeast: [The Powder Plains](@/powder_plains/index.md)
@@ -33,7 +37,7 @@ People get lost in this misty vale and many mysteries dwell within.
 - Southwest: [The Chapel of the Green](https://meadowofthewitch-hares.blogspot.com/2025/11/the-chapel-of-green-hexmas-blogwagon.html)
 - South: [Rime Ridge](@/rime_ridge/index.md)
 
-### Weather
+## Weather
 
 1d10 : if 10, then there is **no** fog, otherwise there is fog.
 
@@ -45,7 +49,7 @@ Getting caught in a blizzard may require finding or making shelter.
 
 Cannot get lost in the fog when you have someone like Rudolph the Red-Nosed Reindeer guiding your way!
 
-### Rumors of Vorpal Vale
+## Rumors of Vorpal Vale
 
 A headless knight in green prowls the vale at night. They call him Chevalier Vert. It is said he hunts for his missing head and disappears into a mist at dawn.
 Some say there is a sacred scroll in the Green Chapel that can be used to control him.
@@ -54,7 +58,7 @@ Others say if his head were to be returned to him, his wild spirit would finally
 He is said to carry a vorpal sword that could fell the great Jabberwocky.
 Too bad his gear along with himself all turns to mist at dawn!
 
-### Random Encounters
+## Random Encounters
 There is a Vorpal Vale counter which accounts accumulation of the Vorpal Vale's curse on travellers.
 If the Vorpal Vale counter is less than four *after* incrementing, then nothing happens.
 If that is dissapointing, then choose an encounter or roll again.
@@ -64,7 +68,7 @@ On the fourth count, reset the counter to zero and all of the following occurs:
 - Encounter 3x Daytime or Nighttime Roamers given the time of day.
 
 
-#### Daytime
+### Daytime
 1. Increment the Vorpal Vale counter, which starts at zero.
 2. **Vorpal Veil**: Keep your head on straight!
     - If it is *not* foggy, increment the Vorpal Vale counter.
@@ -98,7 +102,7 @@ On the fourth count, reset the counter to zero and all of the following occurs:
             4. 2d4 **Ramkins**
     - What?: Roll on this encoutner table again, If #1 or #2, do not increment the Vorpal Vale counter. If #1, the "Who" in question are resting, whether camping or a brief respite.
 
-#### Nighttime
+### Nighttime
 
 1. Increment the Vorpal Vale counter, which starts at zero.
 2. **Vorpal Veil**: Keep your head on straight!
@@ -107,12 +111,13 @@ On the fourth count, reset the counter to zero and all of the following occurs:
     - If it is already foggy in the Vorpal Vale, roll 1d6 for a new exit direction from this hex, starting with 1 at North, 2 at Northeast, and so on clockwise.
         - If he is not yet encountered: Encounter **Sir Tento Three**, the Lost.
         Lost in the mists of the Vorpal Vale, Sir Tento searches for "Happy" New Year, albeit not for "The Dark Year"'s purposes.
-3. 1d6 **Headless Skeletons**:  Wandering in search of their lost heads.
-4.  **The Headless Chevalier Vert**.
-    - If unavailable, treat as #6 for Nighttime Roamers.
-5. An Auora Borealis is visible across the night sky.
+3. An Auora Borealis is visible across the night sky.
     - If it is *not* foggy, increment the Vorpal Vale counter.
         - If he is not yet encountered: Encounter **Ruprecht Belznickle** herding his caribou.
+    - If it is foggy, someone may attempt to use the cover of the fog to travel to and from the branches of Yggdrasil within this vale.
+4.  **The Headless Chevalier Vert**.
+    - If unavailable, treat as #6 for Nighttime Roamers.
+5. 1d6 **Headless Skeletons**:  Wandering in search of their lost heads.
 6. Nighttime Roamers:
     - Who?: Roll for possible people to encounter.
         1. **Ruprecht Belznickle**
@@ -129,7 +134,7 @@ On the fourth count, reset the counter to zero and all of the following occurs:
             5. 1d6 **Anglers**. Like the Bassians, but with an anglerfish head instead of the head of a bass.
     - What?: Roll on this encoutner table again, If #1 or #2, do not increment the Vorpal Vale counter. If #1, the "Who" in question are resting, whether camping or a brief respite.
 
-### Locations within the Vorpal Vale
+## Locations within the Vorpal Vale
 
 - Misty still waters
     - Bassians (pronounced as the Bass fish)
