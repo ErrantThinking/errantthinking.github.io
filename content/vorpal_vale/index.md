@@ -92,10 +92,17 @@ Once he is whole again with both his head and helm, he can reattach his helmed h
 The Jabberwock is known to visit the Vorpal Vale during the day to prey upon those lost.
 
 ## Random Encounters
-There is a Vorpal Vale counter which accounts accumulation of the Vorpal Vale's curse on travellers.
-If the Vorpal Vale counter is less than four *after* incrementing, then nothing happens.
+
+The Vorpal Vale is a common path of travel in part due to it not being as long, laborous, and dangerous (relatively) as travelling through the adjacent mountains.
+There is
+
+### The Curse of the Vorpal Vale
+
+There is a Curse of the Vorpal Vale which accumulates upon travellers.
+Treat the curse as a counter for the adventurers that starts at zero and increments with every visit into the Vorpal Vale.
+If the Vorpal Vale Curse is less than four *after* incrementing, then nothing happens.
 If that is disappointing, then choose an encounter or roll again.
-On the fourth count, reset the counter to zero and all of the following occurs:
+On the fourth count, reset the counter to zero and *all* of the following occurs:
 - Fog pours over Rime Ridge into the vale.
 - Vorpal Veil occurs.
 - Encounter 3x Daytime or Nighttime Roamers given the time of day.
@@ -103,9 +110,9 @@ On the fourth count, reset the counter to zero and all of the following occurs:
 
 
 ### Daytime
-1. Increment the Vorpal Vale counter, which starts at zero.
+1. Increment the Vorpal Vale Curse, which starts at zero.
 2. **Vorpal Veil**: Keep your head on straight!
-    - If it is *not* foggy, increment the Vorpal Vale counter.
+    - If it is *not* foggy, increment the Vorpal Vale Curse.
         - If he is not yet encountered: Encounter **Ruprecht Belznickle** herding his caribou.
     - If it is already foggy in the Vorpal Vale, roll 1d6 for a new exit direction from this hex, starting with 1 at North, 2 at Northeast, and so on clockwise.
         - If he is not yet encountered: Encounter **Sir Tento Three**, the Lost.
@@ -134,13 +141,13 @@ On the fourth count, reset the counter to zero and all of the following occurs:
             2. 1d4 **Clockwork horrors**
             3. 2d4 **Gorcs**
             4. 2d4 **Ramkins**
-    - What?: Roll on this encounter table again, If #1 or #2, do not increment the Vorpal Vale counter. If #1, the "Who" in question are resting, whether camping or a brief respite.
+    - What?: Roll on this encounter table again, If #1 or #2, do not increment the Vorpal Vale Curse. If #1, the "Who" in question are resting, whether camping or a brief respite.
 
 ### Nighttime
 
-1. Increment the Vorpal Vale counter, which starts at zero.
+1. Increment the Vorpal Vale Curse, which starts at zero.
 2. **Vorpal Veil**: Keep your head on straight!
-    - If it is *not* foggy, increment the Vorpal Vale counter.
+    - If it is *not* foggy, increment the Vorpal Vale Curse.
         - If he is not yet encountered: Encounter **Ruprecht Belznickle** herding his caribou.
     - If it is already foggy in the Vorpal Vale, roll 1d6 for a new exit direction from this hex, starting with 1 at North, 2 at Northeast, and so on clockwise.
         - If he is not yet encountered: Encounter **Sir Tento Three**, the Lost.
@@ -166,7 +173,7 @@ On the fourth count, reset the counter to zero and all of the following occurs:
             2. 1d4 **Clockwork horrors**
             3. 2d4 wolves
             5. 1d6 **Anglers**. Like the Bassians, but with an anglerfish head instead of the head of a bass.
-    - What?: Roll on this encounter table again, If #1 or #2, do not increment the Vorpal Vale counter. If #1, the "Who" in question are resting, whether camping or a brief respite.
+    - What?: Roll on this encounter table again, If #1, #2, or #3, do not increment the Vorpal Vale Curse. If #1, the "Who" in question are resting, whether camping or a brief respite.
 
 ## Locations within the Vorpal Vale
 
