@@ -103,7 +103,7 @@ On the fourth count, reset the counter to zero and all of the following occurs:
         Lost in the mists of the Vorpal Vale, Sir Tento searches for "Happy" New Year, albeit not for "The Dark Year"'s purposes.
 3. 1d6 **Headless Skeletons**:  Wandering in search of their lost heads.
 4.  **The Headless Chevalier Vert**.
-    - If unavailable, treat as #6 for Daytime Roamers.
+    - If unavailable, treat as #6 for Nighttime Roamers.
 5. An Auora Borealis is visible across the night sky.
     - If it is *not* foggy, increment the Vorpal Vale counter.
         - If he is not yet encountered: Encounter **Ruprecht Belznickle** herding his caribou.
