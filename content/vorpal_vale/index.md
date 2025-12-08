@@ -26,21 +26,22 @@ People get lost in this misty vale and many mysteries dwell within.
 
 ### Neighboring Hexes
 
-- North: The Sleeping Slopes
-- Northeast: The Powder Plains
-- Northwest: The Orc Toy Factory
+- North: [The Sleeping Slopes](@/sleeping_slopes/index.md)
+- Northeast: [The Powder Plains](@/powder_plains/index.md)
+- Northwest: [The Orc Toy Factory](https://magnoliakeep.blogspot.com/2025/11/blog-bandwagon-orcish-toy-factory.html)
 - Southeast: [ Unspecified ]
-- Southwest: The Green Chapel
-- South: Rime Ridge
+- Southwest: [The Chapel of the Green](https://meadowofthewitch-hares.blogspot.com/2025/11/the-chapel-of-green-hexmas-blogwagon.html)
+- South: [Rime Ridge](@/rime_ridge/index.md)
 
 ### Weather
 
 1d10 : if 10, then there is **no** fog, otherwise there is fog.
 
-1d6: 1 to 4: no snow, 5: snow, 6. blizzard.
+If it is foggy, then 1d20 for snow: 1 to 10: no snow, 11 to 19: snow, 20. blizzard.
 If it snows or blizzards while there is a fog, this results in a freezing fog where the fog will freeze to surfaces forming [rime ice](https://en.wikipedia.org/wiki/Rime_ice).
 If it is snowing, then low winds and soft rime ice is formed.
 If it is blizzarding, then high winds and hard rime ice is formed.
+Getting caught in a blizzard may require finding or making shelter.
 
 ### Rumors of Vorpal Vale
 
