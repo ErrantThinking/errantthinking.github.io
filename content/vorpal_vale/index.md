@@ -37,7 +37,16 @@ People get lost in this misty vale and many mysteries dwell within.
 
 1d10 : if 10, then there is **no** fog, otherwise there is fog.
 
+1d6: 1 to 4: no snow, 5: snow, 6. blizzard.
+If it snows or blizzards while there is a fog, this results in a freezing fog where the fog will freeze to surfaces forming [rime ice](https://en.wikipedia.org/wiki/Rime_ice).
+If it is snowing, then low winds and soft rime ice is formed.
+If it is blizzarding, then high winds and hard rime ice is formed.
+
 ### Rumors of Vorpal Vale
+
+A headless knight in green prowls the vale at night. They call him Chevalier Vert. It is said he hunts for his missing head and disappears into a mist at dawn.
+Some say there is a sacred scroll in the Green Chapel that can be used to control him.
+Others say if his head were to be returned to him, his wild spirit would finally know peace.
 
 ### Random Encounters
 There is a Vorpal Vale counter which accounts accumulation of the Vorpal Vale's curse on travellers.
