@@ -43,11 +43,16 @@ If it is snowing, then low winds and soft rime ice is formed.
 If it is blizzarding, then high winds and hard rime ice is formed.
 Getting caught in a blizzard may require finding or making shelter.
 
+Cannot get lost in the fog when you have someone like Rudolph the Red-Nosed Reindeer guiding your way!
+
 ### Rumors of Vorpal Vale
 
 A headless knight in green prowls the vale at night. They call him Chevalier Vert. It is said he hunts for his missing head and disappears into a mist at dawn.
 Some say there is a sacred scroll in the Green Chapel that can be used to control him.
 Others say if his head were to be returned to him, his wild spirit would finally know peace.
+
+He is said to carry a vorpal sword that could fell the great Jabberwocky.
+Too bad his gear along with himself all turns to mist at dawn!
 
 ### Random Encounters
 There is a Vorpal Vale counter which accounts accumulation of the Vorpal Vale's curse on travellers.
