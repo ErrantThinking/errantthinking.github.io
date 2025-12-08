@@ -51,6 +51,12 @@ Cannot get lost in the fog when you have someone like Rudolph the Red-Nosed Rein
 
 ## Rumors of the Vorpal Vale
 
+The road from the Powder Plains to here has a battered wooden sign that reads:
+
+>Danger! Beware the Vorpal Vale's mists! Keep your head on straight!
+
+This road follows the banks of the winding river through the vale.
+
 ### The Chevalier Vert
 
 A headless knight in green prowls the vale at night riding atop a large [boreal woodland caribou](https://en.wikipedia.org/wiki/Boreal_woodland_caribou).
@@ -93,6 +99,7 @@ On the fourth count, reset the counter to zero and all of the following occurs:
 - Fog pours over Rime Ridge into the vale.
 - Vorpal Veil occurs.
 - Encounter 3x Daytime or Nighttime Roamers given the time of day.
+    - If night and not yet encountered, encounter the **Chevalier Vert** as one of these encountered roamers.
 
 
 ### Daytime
@@ -138,10 +145,10 @@ On the fourth count, reset the counter to zero and all of the following occurs:
     - If it is already foggy in the Vorpal Vale, roll 1d6 for a new exit direction from this hex, starting with 1 at North, 2 at Northeast, and so on clockwise.
         - If he is not yet encountered: Encounter **Sir Tento Three**, the Lost.
         Lost in the mists of the Vorpal Vale, Sir Tento searches for "Happy" New Year, albeit not for "The Dark Year"'s purposes.
-3. An Aurora Borealis is visible across the night sky.
-    - If it is *not* foggy, increment the Vorpal Vale counter.
-        - If he is not yet encountered: Encounter **Ruprecht Belznickle** herding his caribou.
-    - If it is foggy, someone may attempt to use the cover of the fog to travel to and from the branches of Yggdrasil within this vale.
+        - If not yet encountered, encounter the **Chevalier Vert**.
+3. An Aurora Borealis runs across the night sky.
+    - Same results as #2 **Vorpal Veil**.
+    - If it is foggy, someone may attempt to use the cover of the fog to mask their travel to and from the branches of Yggdrasil within this vale.
 4.  **The Headless Chevalier Vert**.
     - If unavailable, treat as #6 for Nighttime Roamers.
 5. 1d6 **Headless Skeletons**:  Wandering in search of their lost heads.
