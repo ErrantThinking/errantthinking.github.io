@@ -93,8 +93,8 @@ The Jabberwock is known to visit the Vorpal Vale during the day to prey upon tho
 
 ## Random Encounters
 
-The Vorpal Vale is a common path of travel in part due to it not being as long, laborous, and dangerous (relatively) as travelling through the adjacent mountains.
-There is
+The Vorpal Vale is a common path of travel in part due to it not being as long, laborious, and dangerous (relatively) as travelling through the adjacent mountains.
+You'll often meet other travelers on the road.
 
 ### The Curse of the Vorpal Vale
 
