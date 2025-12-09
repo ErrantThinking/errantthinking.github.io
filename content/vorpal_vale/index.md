@@ -113,7 +113,9 @@ On the fourth count, reset the counter to zero and *all* of the following occurs
 1. Increment the Vorpal Vale Curse, which starts at zero.
 2. **Vorpal Veil**: Keep your head on straight!
     - If it is *not* foggy, increment the Vorpal Vale Curse.
-        - If he is not yet encountered: Encounter **Ruprecht Belznickle** herding his caribou.
+        - If he is not yet encountered: Encounter
+        [**Ruprecht Belznickle**](@/hexmas_2025/index.md#ruprecht-belznickle-the-starry-eyed-redcap)
+        herding his caribou.
     - If it is already foggy in the Vorpal Vale, roll 1d6 for a new exit direction from this hex, starting with 1 at North, 2 at Northeast, and so on clockwise.
         - If he is not yet encountered: Encounter **Sir Tento Three**, the Lost.
         Lost in the mists of the Vorpal Vale, Sir Tento searches for "Happy" New Year, albeit not for "The Dark Year"'s purposes.
@@ -124,13 +126,14 @@ On the fourth count, reset the counter to zero and *all* of the following occurs
     - If unavailable, treat as #6 for Daytime Roamers.
 6. Daytime Roamers:
     - Who?: Roll for possible people to encounter.
-        1. **Ruprecht Belznickle**
+        1. [**Ruprecht Belznickle**](@/hexmas_2025/index.md#ruprecht-belznickle-the-starry-eyed-redcap)
         2. **Sir Tento Three**: Lost if not yet encountered here, otherwise 50/50 lost or not.
         3. **Yukon Cornelius** and his sled dogs.
         4. **Miser Minions**: Roll a 1d6
-            - If odd, Snow Miser minions, else Heat Miser minions
-            - If a 1, then they escort Snow Miser.
-            - If a 6, then they escort Heat Miser.
+            - Result + 2 is the number of minions.
+            - If even, Snow Miser minions, if odd Heat Miser minions
+            - If a 5, then they escort Heat Miser.
+            - If a 6, then they escort Snow Miser.
         5. **Sam the Snowman**
         6. **S. D. Kluger**
         7. wild animals:
@@ -161,13 +164,14 @@ On the fourth count, reset the counter to zero and *all* of the following occurs
 5. 1d6 **Headless Skeletons**:  Wandering in search of their lost heads.
 6. Nighttime Roamers:
     - Who?: Roll for possible people to encounter.
-        1. **Ruprecht Belznickle**
+        1. [**Ruprecht Belznickle**](@/hexmas_2025/index.md#ruprecht-belznickle-the-starry-eyed-redcap)
         2. **Sir Tento Three**: Lost if not yet encountered here, otherwise 50/50 lost or not.
         3. **Yukon Cornelius** and his sled dogs.
         4. **Miser Minions**: Roll a 1d6
-            - If even, Snow Miser minions, else Heat Miser minions
-            - If a 1, then they escort Heat Miser.
+            - If even, Snow Miser minions, if odd Heat Miser minions
+            - If a 5, then they escort Heat Miser.
             - If a 6, then they escort Snow Miser.
+            - Result + 2 is the number of minions, in addition to the possible master Miser.
         8. Roaming Hostiles:
             1. 1d4 **Keh Nights**
             2. 1d4 **Clockwork horrors**
