@@ -27,6 +27,15 @@ ___
 A mostly peaceful hex that features a few towns.
 Features January Junction, Cold-based elementals, Keh Night Automata, and a Cult of Janus.
 
+## Neighboring Hexes
+
+- North: [ Unspecified ]
+- Northeast: [ Unspecified ]
+- Northwest: [The Sleeping Slopes](@/sleeping_slopes/index.md)
+- Southeast: [ Unspecified ]
+- Southwest: [The Vorpal Vale](@/vorpal_vale/index.md)
+- South: [ Unspecified ]
+
 ## Weather of Powder Plains
 
 Cold and always snow covered.
@@ -38,6 +47,10 @@ Cold and always snow covered.
 4. Light snow, oh so fluffy
 5. Heavy fluffy snow
 6. White-out Blizzard
+
+## Random Encounters
+
+If you setup a camp outside of the villages, especially if you setup a bonfire, roll on [A Snow Field Bonfire](@/snow_field_bonfire/index.md) for encounters.
 
 ### Roaming Characters from the Powder Plains
 
