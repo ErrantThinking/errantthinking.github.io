@@ -138,7 +138,7 @@ I realized that I wouldn't go where I wanted to or live the life I wanted to if 
 
 I realized those small steps could be started *today*.
 
-The New Year's is naturally a self-reflective time.
+The days around the New Year is naturally a self-reflective time.
 Resolutions are a trend that attempt to change course, but without the understanding of how those steps take you to where you want to go, or why you even want to be there.
 Without that, we flounder to maintain our resolutions, especially once the habits we are trying to build become grueling.
 
