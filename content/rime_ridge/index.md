@@ -53,7 +53,7 @@ These mountains are perilous.
         - oinks, barks, and purrs
     - They are similar to the thick and stocky moblins of "The Legend of Zelda".
     - **The Great Gorc** rules **Gorcington** hidden within the Rime Ridge
-    - The Gorc-Bane Weapons: All burn in radiant fire in the presence of gorcs, and glow in the presence of orcs and goblins.
+    - The Gorc-Bane Weapons: All burn in radiant fire in the presence of gorcs, and glow in the presence of orcs, goblins, and cats.
         - Gorcrend: A Zweihander. with parierhaken
         - Gorcrist: A hand and a half sword
         - Beater: A mace
