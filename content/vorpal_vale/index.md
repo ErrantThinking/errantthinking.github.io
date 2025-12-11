@@ -28,15 +28,6 @@ The water from the mountains accumulates in the valley forming various small lak
 The clouds that accumulate from the ocean against Rime Ridge results in the heavy rains over The Green Chapel and its fields, and also in a thick fog that is nearly always present in the Vorpal Vale.
 People get lost in this misty vale and many mysteries dwell within.
 
-## Neighboring Hexes
-
-- North: [The Sleeping Slopes](@/sleeping_slopes/index.md)
-- Northeast: [The Powder Plains](@/powder_plains/index.md)
-- Northwest: [The Orc Toy Factory](https://magnoliakeep.blogspot.com/2025/11/blog-bandwagon-orcish-toy-factory.html)
-- Southeast: [ Unspecified ]
-- Southwest: [The Chapel of the Green](https://meadowofthewitch-hares.blogspot.com/2025/11/the-chapel-of-green-hexmas-blogwagon.html)
-- South: [Rime Ridge](@/rime_ridge/index.md)
-
 ## Weather
 
 1d10 : if 10, then there is **no** fog, otherwise there is fog.
@@ -187,3 +178,13 @@ On the fourth count, reset the counter to zero and *all* of the following occurs
     - From these mirror like pools the Jabberwock is said to emerge during the day and retreat during the night.
 
 - Somewhere in the Vorpal Vale is the Chevalier Vert's head.
+
+## Neighboring Hexes
+
+- North: [The Sleeping Slopes](@/sleeping_slopes/index.md)
+- Northeast: [The Powder Plains](@/powder_plains/index.md)
+- Northwest: [The Orc Toy Factory](https://magnoliakeep.blogspot.com/2025/11/blog-bandwagon-orcish-toy-factory.html)
+- Southeast: [ Unspecified ]
+- Southwest: [The Chapel of the Green](https://meadowofthewitch-hares.blogspot.com/2025/11/the-chapel-of-green-hexmas-blogwagon.html)
+- South: [Rime Ridge](@/rime_ridge/index.md)
+

@@ -27,15 +27,6 @@ ___
 A mostly peaceful hex that features a few towns.
 Features January Junction, Cold-based elementals, Keh Night Automata, and a Cult of Janus.
 
-## Neighboring Hexes
-
-- North: [ Unspecified ]
-- Northeast: [ Unspecified ]
-- Northwest: [The Sleeping Slopes](@/sleeping_slopes/index.md)
-- Southeast: [ Unspecified ]
-- Southwest: [The Vorpal Vale](@/vorpal_vale/index.md)
-- South: [ Unspecified ]
-
 ## Weather of Powder Plains
 
 Cold and always snow covered.
@@ -125,4 +116,15 @@ All have runes and different humanoid or animal features carved into and out of 
         - _Everice_ is ice taken from the *Bifrost* and is inherently magical, useful as a medium for ice spells. Only those who traverse the Bifrost or walk the branches of Yggdrasil can access the Everice for harvesting.
         - This "Heart of Ice" is not as strong as a true "Heart of Everice".
         - Dependent upon the emotional state of those at the time of creation.
+        - The Haert of Ice or Heart of Everice both can serve as the [Ice Crystal for the Tiny Bronco](https://www.fluoriteguillotine.com/blog/2025/11/08/blogwagon-broken-bronco-on-the-silver-steppe)
+
+
+## Neighboring Hexes
+
+- North: [ Unspecified ]
+- Northeast: [ Unspecified ]
+- Northwest: [The Sleeping Slopes](@/sleeping_slopes/index.md)
+- Southeast: [ Unspecified ]
+- Southwest: [The Vorpal Vale](@/vorpal_vale/index.md)
+- South: [ Unspecified ]
 
