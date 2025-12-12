@@ -28,7 +28,7 @@ The water from the mountains accumulates in the valley forming various small lak
 The clouds that accumulate from the ocean against Rime Ridge results in the heavy rains over The Green Chapel and its fields, and also in a thick fog that is nearly always present in the Vorpal Vale.
 People get lost in this misty vale and many mysteries dwell within.
 
-## Weather
+### Weather
 
 1d10 : if 10, then there is **no** fog, otherwise there is fog.
 
@@ -178,13 +178,18 @@ On the fourth count, reset the counter to zero and *all* of the following occurs
     - From these mirror like pools the Jabberwock is said to emerge during the day and retreat during the night.
 
 - Somewhere in the Vorpal Vale is the Chevalier Vert's head.
+   - If the party attempts to search for it they have chance of finding the one of many misty still waters in which the head is submerged.
+   - A 1 on the following dice results in finiding the correct location, where the next one die smaller is used for every attempt until 1d1.
+   - 1d20, 1d12, 1d10, 1d8, 1d6, 1d4, 1d2, 1d1
+   - Each time the adventurers get lost due to the **Vorpal Veil**, the die size decreases improving their odds. Perhaps even the spirits of the Vale pity the poor Chevalier Vert?
 
 ## Neighboring Hexes
 
-- North: [The Sleeping Slopes](@/sleeping_slopes/index.md)
-- Northeast: [The Powder Plains](@/powder_plains/index.md)
-- Northwest: [The Orc Toy Factory](https://magnoliakeep.blogspot.com/2025/11/blog-bandwagon-orcish-toy-factory.html)
-- Southeast: [The Autumn Valley](https://tree-climber.blogspot.com/2025/12/merry-hexmas-autumn-valley.html)
-- Southwest: [The Chapel of the Green](https://meadowofthewitch-hares.blogspot.com/2025/11/the-chapel-of-green-hexmas-blogwagon.html)
-- South: [Rime Ridge](@/rime_ridge/index.md)
-
+|Direction|Adjacent Hex Location|
+|---|---|
+| North | [The Sleeping Slopes](@/sleeping_slopes/index.md) |
+| Northeast | [The Powder Plains](@/powder_plains/index.md) |
+| Northwest | [The Orc Toy Factory](https://magnoliakeep.blogspot.com/2025/11/blog-bandwagon-orcish-toy-factory.html) |
+| Southeast | [The Autumn Valley](https://tree-climber.blogspot.com/2025/12/merry-hexmas-autumn-valley.html) |
+| Southwest | [The Chapel of the Green](https://meadowofthewitch-hares.blogspot.com/2025/11/the-chapel-of-green-hexmas-blogwagon.html) |
+| South | [Rime Ridge](@/rime_ridge/index.md) |

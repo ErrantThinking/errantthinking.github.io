@@ -29,11 +29,11 @@ Everything is rime covered.
 Takes **x3 typical travel time** to travel through the Rime Ridge hex.
 Can take longer depending on the weather and whether you follow the typical trails and mountain passes.
 
-## Weather
+### Weather
 
 1/10 chance the fog all froze over night leaving a rare clear morning only to be soon filled with fog come noon.
 
-## Rumours
+## Rumors
 
 These mountains are perilous.
 
@@ -77,9 +77,12 @@ These mountains are perilous.
 
 ## Neighboring Hexes
 
-- North: [The Vorpal Vale](@/vorpal_vale/index.md)
-- Northeast: [The Autumn Valley](https://tree-climber.blogspot.com/2025/12/merry-hexmas-autumn-valley.html)
-- Northwest: [The Chapel of the Green](https://meadowofthewitch-hares.blogspot.com/2025/11/the-chapel-of-green-hexmas-blogwagon.html)
-- Southeast: [ Unspecified ]
-- Southwest: The Sea of Swirly Twirly Gumdrops, mentioned by [The Candy Cane Forest](https://muto2525.substack.com/p/the-seven-levels-of-the-candy-cane)
-- South: [ Unspecified ]
+
+|Direction|Adjacent Hex Location|
+|---|---|
+| North | [The Vorpal Vale](@/vorpal_vale/index.md) |
+| Northeast | [The Autumn Valley](https://tree-climber.blogspot.com/2025/12/merry-hexmas-autumn-valley.html) |
+| Northwest | [The Chapel of the Green](https://meadowofthewitch-hares.blogspot.com/2025/11/the-chapel-of-green-hexmas-blogwagon.html) |
+| Southeast | [ Unspecified ] |
+| Southwest | The Sea of Swirly Twirly Gumdrops, mentioned by [The Candy Cane Forest](https://muto2525.substack.com/p/the-seven-levels-of-the-candy-cane) |
+| South | [ Unspecified ] |

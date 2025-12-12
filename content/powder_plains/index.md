@@ -13,6 +13,7 @@ ttrpg = ["Hexmas"]
 As part of [Prismatic Wasteland's Rankin/Bass-themed 2025 Merry Hexmas](@/hexmas_2025/index.md), I've contributed the Powder Plains as a snowfield hex.
 A relatively peaceful snowfield featuring multiple towns including Snowville, a village of cold elementals which neighbors the Snow Henge.
 January Junction makes an appearance along with Snowdin, inspired from Undertale.
+Also features  Keh Night Automata and a twisted Cult of Janus.
 
 <!-- more -->
 
@@ -22,12 +23,14 @@ ___
 
 ___
 
-## Powder Plains
+## Terrain and Biome
 
-A mostly peaceful hex that features a few towns.
-Features January Junction, Cold-based elementals, Keh Night Automata, and a Cult of Janus.
+A few towns are spread across the plains of this dry tundra.
+The snow forms dunes and is powdery.
+Great for skiiing.
+When the humidity from the southwest blows in the powder plains, the snow becomes more moist and is then better suited for building snowmen and snow forts!
 
-## Weather of Powder Plains
+### Weather of Powder Plains
 
 Cold and always snow covered.
 
@@ -77,7 +80,7 @@ A poor human town whose folklore celebrate the beginnings and the ending of thin
 - A *twisted* Cult of Janus
     - **Dominic Subter** is a seedy, slimey fellow, He has quests for adventures that pay handsomely.
         - Think Grima Wormtongue from "The Lord of the Rings".
-        - Will steer people towards the glory of Janus, to end their old ways that fetter them down, and open them to new beginnings.  A beginning where they no longer need to fear the dark. A promising pitch in a world where there are very real horros in neighboring hexes!
+        - Will steer people towards the glory of Janus, to end their old ways that fetter them down, and open them to new beginnings.  A beginning where they no longer need to fear the dark. A promising pitch in a world where there are very real horrors in neighboring hexes!
     - **Sady Mason**: One of the villagers with their head on right.  Takes care of others. Sees the world clearly for what it is and make plans to help the town and people. However sound her logic seems, she has a twisted perspective due to her past experiences.
         - Devoted demon worshiper or otherwise has some dark twist to emphasize 2 faces.
 
@@ -131,10 +134,11 @@ All have runes and different humanoid or animal features carved into and out of 
 
 ## Neighboring Hexes
 
-- North: [ Unspecified ]
-- Northeast: [ Unspecified ]
-- Northwest: [The Sleeping Slopes](@/sleeping_slopes/index.md)
-- Southeast: [ Unspecified ]
-- Southwest: [The Vorpal Vale](@/vorpal_vale/index.md)
-- South: [The Autumn Valley](https://tree-climber.blogspot.com/2025/12/merry-hexmas-autumn-valley.html)
-
+|Direction|Adjacent Hex Location|
+|---|---|
+| North | [ Unspecified ] |
+| Northeast | [ Unspecified ] |
+| Northwest | [The Sleeping Slopes](@/sleeping_slopes/index.md) |
+| Southeast | [ Unspecified ] |
+| Southwest | [The Vorpal Vale](@/vorpal_vale/index.md) |
+| South | [The Autumn Valley](https://tree-climber.blogspot.com/2025/12/merry-hexmas-autumn-valley.html) |

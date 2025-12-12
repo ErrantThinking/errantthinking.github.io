@@ -26,14 +26,14 @@ ___
 
 Mountainous tundra
 
-## Weather of the Slumbering Slopes
+### Weather of the Slumbering Slopes
 
 Cold, frigid, and snowy are the norms!
 Even worse now with Frenzied Frost raging all around in a whirlwind.
 
 Due to the dense mountain range, their perilous mountain paths, and frigid weather, it takes **x3 the typical time** to traverse this hex.
 
-## Rumours
+## Rumrs
 
 You are imminent danger when travelling the Slumbering Slopes!
 In addition to the harsh cold, expect to face dangerous creatures and spirits.
@@ -106,9 +106,11 @@ Yukon Cornelius would risk it if just Frenzied Frost were no longer a threat.
 
 ## Neighboring Hexes
 
-- North: [ Unspecified ]
-- Northeast: [Sadtown](https://ponderthegoose.blogspot.com/2025/12/merry-hexmas-sadtown.html)
-- Northwest: [ Unspecified ]
-- Southeast: [The Powder Plains](@/powder_plains/index.md)
-- Southwest: [The Orcish Toy Factory](https://magnoliakeep.blogspot.com/2025/11/blog-bandwagon-orcish-toy-factory.html)
-- South: [The Vorpal Vale](@/vorpal_vale/index.md)
+|Direction|Adjacent Hex Location|
+|---|---|
+| North | [ Unspecified ] |
+| Northeast | [Sadtown](https://ponderthegoose.blogspot.com/2025/12/merry-hexmas-sadtown.html) |
+| Northwest | [ Unspecified ] |
+| Southeast | [The Powder Plains](@/powder_plains/index.md) |
+| Southwest | [The Orcish Toy Factory](https://magnoliakeep.blogspot.com/2025/11/blog-bandwagon-orcish-toy-factory.html) |
+| South | [The Vorpal Vale](@/vorpal_vale/index.md) |
