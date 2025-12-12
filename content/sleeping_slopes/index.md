@@ -107,7 +107,7 @@ Yukon Cornelius would risk it if just Frenzied Frost were no longer a threat.
 ## Neighboring Hexes
 
 - North: [ Unspecified ]
-- Northeast: [ Unspecified ]
+- Northeast: [Sadtown](https://ponderthegoose.blogspot.com/2025/12/merry-hexmas-sadtown.html)
 - Northwest: [ Unspecified ]
 - Southeast: [The Powder Plains](@/powder_plains/index.md)
 - Southwest: [The Orcish Toy Factory](https://magnoliakeep.blogspot.com/2025/11/blog-bandwagon-orcish-toy-factory.html)

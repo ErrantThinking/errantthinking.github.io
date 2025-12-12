@@ -184,7 +184,7 @@ On the fourth count, reset the counter to zero and *all* of the following occurs
 - North: [The Sleeping Slopes](@/sleeping_slopes/index.md)
 - Northeast: [The Powder Plains](@/powder_plains/index.md)
 - Northwest: [The Orc Toy Factory](https://magnoliakeep.blogspot.com/2025/11/blog-bandwagon-orcish-toy-factory.html)
-- Southeast: [ Unspecified ]
+- Southeast: [The Autumn Valley](https://tree-climber.blogspot.com/2025/12/merry-hexmas-autumn-valley.html)
 - Southwest: [The Chapel of the Green](https://meadowofthewitch-hares.blogspot.com/2025/11/the-chapel-of-green-hexmas-blogwagon.html)
 - South: [Rime Ridge](@/rime_ridge/index.md)
 
