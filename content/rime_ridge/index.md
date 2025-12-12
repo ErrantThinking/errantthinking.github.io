@@ -10,8 +10,9 @@ tags = ["Tabletop Roleplaying Games", "Hexmas", "OSR", "Blog Bandwagon"]
 ttrpg = ["Hexmas"]
 +++
 
-The Rime Ridge is a dense mountain range thick with fog that tends to freeze into hard rime ice upon all surfaces.
-This is inspired by the Misty Mountains of the Hobbit.
+As part of [Prismatic Wasteland's Rankin/Bass-themed 2025 Merry Hexmas](@/hexmas_2025/index.md), I present
+the Rime Ridge, a dense mountain range thick with fog that tends to freeze into hard rime ice upon all surfaces.
+An icey mountain range inspired by the Misty Mountains of the Hobbit.
 
 <!-- more -->
 
@@ -57,10 +58,11 @@ These mountains are perilous.
         - Gorcrend: A Zweihander. with parierhaken
         - Gorcrist: A hand and a half sword
         - Beater: A mace
-- **Ramkins**: Are muscular beastmen with the torso and arms of a gorilla, the head of a ram with curling horns, and the hind legs and hooves of a ram. Their forearms are much more wooly and end with larger hands than a human and have three fingers that end similarly to deer toes. These muscular hands end with fingers and knuckles covered in a thick keratin that cover the joints but let them bend in wards. These hands are good for both running, climbing, grasping, and certainly punching.
+- **Ramkins**: Are muscular beastmen with the torso and arms of a gorilla, the head of a ram with curling horns, and the hind legs and hooves of a ram. Their forearms are much more wooly and end with larger hands than a human and have three fingers that end similarly to deer toes. These muscular hands end with fingers and knuckles covered in a thick keratin that cover the joints but let them bend inwards. These hands are good for both running, climbing, grasping, and certainly punching.
     - A ramekin is always found among their belongings, even when travelling.
 - **Tuskers**: Huge tusked trolls dwell in these mountains.
     - They thrive within the mists and caves of Rime Ridge where they avoid the sun which would turn them to stone
+    - On the rare clear mornings, they remain in their holes and sleep in.
 - **Catragon**: Rime Ridge has a feral catragon problem.
     - **Güneş** (Guenesh): A gargantuan female catragon.
 - **Mountain Elementals**: They'll pelt rocks at each other and passerbys for a fun game of catch.
