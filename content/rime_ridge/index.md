@@ -72,7 +72,7 @@ These mountains are perilous.
 - **Aeon's** Nest
 - **Blind Man's Bluff**
 - **Gorcington**
-- **Rimecrest**: A Dwarf fortress hidden in the mountains, now occupied by **Güneş** and her catragons.
+- **Rimecrest Keep**: A Dwarf fortress hidden in the mountains, now occupied by **Güneş** and her catragons.
     - Güneş dwells within purring atop a horde of silver and gold and other treasures.
     - Underneath the slumbering Güneş is the Heart of Fire, a large ruby red gemstone that is hot to the touch. A catragon would find this warmth quite inviting!
 - The titular Rime Ridge : a mountain ridge that connects various mountains in the middle of this mountain range.
