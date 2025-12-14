@@ -42,7 +42,7 @@ The volcano was once active long ago, but there is a tale of how someone once st
 
 The volcano has been hollowed out and mined deep into the Earth to harvest its resources.
 A mining fortress city was constructed within the volcano and its ruinous remains still dwell within.
-It is said the miners dug too deep and uncovered a deep darkness that began its ascent.
+It is said the miners dug too deep and uncovered a **deep darkness** that began its ascent.
 The inhabitants had to flee, leaving the volcano and the mines still in their slumber.
 
 Orcs were said to have infested the mines and frequent their shadowy halls.
@@ -53,11 +53,12 @@ The spire certainly connects to the mined out volcano below, but entry into the 
 Only entry is within the cold outside where sentries guard its gates, said to be able to see any warmth and snuff it out.
 
 Both Snow Miser and Heat Miser desire the Volcano and Spire.
-Snow Miser loves the spire and sees it as a wonderful ice palace he'd love to own.
+- Snow Miser loves the spire and sees it as a wonderful ice palace he'd love to own.
 It also serves as a mark of mastery over the snuffed out flames of the volcano.
-
-Heat miser wants to awaken the volcano and burn down the spire in its eruption.
+- Heat miser wants to awaken the volcano and burn down the spire in its eruption.
 To have an active volcano in the North would be a grand strategic positioning and point of pride for him in his war against his brother.
+
+Many creatures of the sleeping slopes have **thermal vision** as it helps them hunt and snuff out undesirable flames.
 
 ## Random Encounters
 
