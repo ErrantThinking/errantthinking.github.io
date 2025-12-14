@@ -90,7 +90,7 @@ You'll often meet other travelers on the road.
 ### The Curse of the Vorpal Vale
 
 There is a Curse of the Vorpal Vale which accumulates upon travellers.
-Treat the curse as a counter for the adventurers that starts at zero and increments with every visit into the Vorpal Vale.
+Treat the curse as a counter for the adventurers that starts at zero and increments when specified in the random encounters below.
 If the Vorpal Vale Curse is less than four *after* incrementing, then nothing happens.
 If that is disappointing, then choose an encounter or roll again.
 On the fourth count, reset the counter to zero and *all* of the following occurs:

@@ -42,6 +42,8 @@ Cold and always snow covered.
 5. Heavy fluffy snow
 6. White-out Blizzard
 
+## Rumors of the Powder Plains
+
 ## Random Encounters
 
 If you setup a camp outside of the villages, especially if you setup a bonfire, roll on [A Snow Field Bonfire](@/snow_field_bonfire/index.md) for encounters.

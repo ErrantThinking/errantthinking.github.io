@@ -34,7 +34,7 @@ Can take longer depending on the weather and whether you follow the typical trai
 
 1/10 chance the fog all froze over night leaving a rare clear morning only to be soon filled with fog come noon.
 
-## Rumors
+## Rumors of the Rime Ridge
 
 These mountains are perilous.
 
@@ -69,13 +69,15 @@ These mountains are perilous.
 
 ## Locations within the Rime Ridge
 
-- The Rime Ridge : an actual mountain ridge that connects various mountains in the middle.
+- **Aeon's** Nest
+- **Blind Man's Bluff**
+- **Gorcington**
+- **Rimecrest**: A Dwarf fortress hidden in the mountains, now occupied by **Güneş** and her catragons.
+    - Güneş dwells within purring atop a horde of silver and gold and other treasures.
+    - Underneath the slumbering Güneş is the Heart of Fire, a large ruby red gemstone that is hot to the touch. A catragon would find this warmth quite inviting!
+- The titular Rime Ridge : a mountain ridge that connects various mountains in the middle of this mountain range.
     - Walking atop the snow covered ridge lets you see above the rime and fog.
-- Blind Man's Bluff
-- Gorcington
 - Tusker Holes
-- Nest of **Aeon**
-- A Dwarf fortress hidden in the mountains.
 
 ## Neighboring Hexes
 
