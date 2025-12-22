@@ -131,6 +131,8 @@ They can use their own life essence as a source of power, which needs proper rec
 
 A gamble of one's own life with the power of the goddess.
 As long as the caster does not take damage, they are blessed and benefit from advantage.
+The cost to cast is a set pool of life force put up as stakes.at the beginning.
+Which is lost upon being hit, but regained if  not hit.
 
 #### "apologia pro vita sua" : "defense of one's life",
 
@@ -180,12 +182,20 @@ It is rumored that Poeh became the first living skeleton.
 I'd make this a literal timing challenge using something like the stopwatch challenges from [Dreaming Dragonslayer](https://dreamingdragonslayer.wordpress.com/2021/04/25/stopwatch-dueling-game-duels-vs-npcs/).
 The loser gets hit by some pile of bones.
 
+Some other spell ideas:
+- Bone Bolt: shoot a bone like a crossbow bolt
+- Wall of Bones: Conjure bones to erupt from the ground forming a wall
+
 ## Blood Arts
 
 A Vitamancer that specializes in blood as the medium of the life force that they manipulate.
 They're magic is limited to only blood effects, however due to their focus on that medium, they are able to better use such blood based spells than a typical Vitamancer.
 
 A normal Vitamancer can also harness the soul or spirit of living creatures and other parts of living creatures than just blood.
+
+Some other spell ideas, although beware the cost of resources!
+- Blood Bolt: shoot a bolt of blood like a crossbow bolt
+- Wall of Blood: As wall of water, but blood. An extra source, say livestock blood is recommended.
 
 ___
 
