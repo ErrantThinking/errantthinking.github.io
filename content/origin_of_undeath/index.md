@@ -4,6 +4,7 @@ date = 2025-12-22
 description = "Tales of the undead are perhaps as old as our oldest stories. We explore the concept of undeath, its history, and some origins for your roleplaying games."
 
 [extra]
+image = "sun_plague_doctor_sml_preview.jpg"
 
 [taxonomies]
 tags = ["Tabletop Roleplaying Games", "Secret Santicorn"]
@@ -22,6 +23,13 @@ And here, the main post including
 a short story and a couple of initial ideas for "classes" and their abilities pertaining to the type of undeath featured in the story.
 
 <!-- more -->
+
+<img
+    src="sun_plague_doctor_sml.jpg"
+    alt="Plague doctor photograph among grass"
+    style="display:block; margin-left: auto; margin-right: auto; width: 80%;"
+    decoding="async"
+/>
 
 ## The Tale of Poeh & the Wounded Knight
 
