@@ -1,13 +1,13 @@
 +++
 title = "The Origin of the Term Undeath"
-date = 2025-12-15
+date = 2025-12-22
 description = "Where did the term 'undead' come from?"
 
 [extra]
 
 [taxonomies]
-tags = ["Tabletop Roleplaying Games", "Secret Santicorn", "OSR", "Christmas in July"]
-ttrpg = ["Secret Santicorn", "Midsummer Santicorn", "Tables", "Locations"]
+tags = ["Tabletop Roleplaying Games", "Secret Santicorn"]
+ttrpg = ["Secret Santicorn"]
 +++
 
 As part of my

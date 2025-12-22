@@ -1,13 +1,13 @@
 +++
 title = "The Origin of Undeath"
-date = 2025-12-15
+date = 2025-12-22
 description = "Tales of the undead are perhaps as old as our oldest stories. We explore the concept of undeath, its history, and some origins for your roleplaying games."
 
 [extra]
 
 [taxonomies]
-tags = ["Tabletop Roleplaying Games", "Secret Santicorn", "OSR", "Christmas in July"]
-ttrpg = ["Secret Santicorn", "Midsummer Santicorn", "Tables", "Locations"]
+tags = ["Tabletop Roleplaying Games", "Secret Santicorn"]
+ttrpg = ["Secret Santicorn"]
 +++
 
 Another year, another December, another [Secret Santicorn](@/christmas_in_july_2025/index.md) present delivered.
