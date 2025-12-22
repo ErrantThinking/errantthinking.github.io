@@ -1,7 +1,7 @@
 +++
 title = "The Origin of Undeath"
 date = 2025-12-22
-description = "Tales of the undead are perhaps as old as our oldest stories. We explore the concept of undeath, its history, and some origins for your roleplaying games."
+description = "Tales of the undead are perhaps as old as our oldest stories. We explore the concept of undeath, its history, and an origin story for your roleplaying games."
 
 [extra]
 image = "sun_plague_doctor_sml_preview.jpg"
