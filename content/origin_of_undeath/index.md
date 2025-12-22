@@ -159,12 +159,10 @@ This is equivalent to a "Level 20 ability" or other kind of end-game abilities.
 A simpler form or "ad vitam aeternam" that is accessible as a ritual with a significant resource cost available to a journeyman or expert Vitamancer.
 
 
-
 ## Bone Caller
 
 A type of necromancer or vitamancer who specialized in bones and skeletons.
 It is rumored that Poeh became the first living skeleton.
-
 
 ### Spells
 
