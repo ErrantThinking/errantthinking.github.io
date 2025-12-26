@@ -1,13 +1,14 @@
 +++
 title = "The Origin of Undeath"
-date = 2025-12-15
-description = "Tales of the undead are perhaps as old as our oldest stories. We explore the concept of undeath, its history, and some origins for your roleplaying games."
+date = 2025-12-22
+description = "Tales of the undead are perhaps as old as our oldest stories. We explore the concept of undeath, its history, and an origin story for your roleplaying games."
 
 [extra]
+image = "sun_plague_doctor_sml_preview.jpg"
 
 [taxonomies]
-tags = ["Tabletop Roleplaying Games", "Secret Santicorn", "OSR", "Christmas in July"]
-ttrpg = ["Secret Santicorn", "Midsummer Santicorn", "Tables", "Locations"]
+tags = ["Tabletop Roleplaying Games", "Secret Santicorn"]
+ttrpg = ["Secret Santicorn"]
 +++
 
 Another year, another December, another [Secret Santicorn](@/christmas_in_july_2025/index.md) present delivered.
@@ -22,6 +23,13 @@ And here, the main post including
 a short story and a couple of initial ideas for "classes" and their abilities pertaining to the type of undeath featured in the story.
 
 <!-- more -->
+
+<img
+    src="sun_plague_doctor_sml.jpg"
+    alt="Plague doctor photograph among grass"
+    style="display:block; margin-left: auto; margin-right: auto; width: 80%;"
+    decoding="async"
+/>
 
 ## The Tale of Poeh & the Wounded Knight
 
@@ -111,7 +119,7 @@ In the end, the sand's thirst was quenched.
 
 ## Vitamancer
 
-A Vitamancer is someone, much like Poeh, who mastered the art of manipulating life magic.
+A Vitamancer is someone who mastered the art of manipulating life magic.
 Vitamancers are closely related to necromancers, yet they stand in sharp contrast in that their art is about manipulating the life force of living creatures, possibly putting that life force elsewhere, rather than capturing the lost souls of the dead or reanimating their corpses through unnatural means.
 This means they can control the flow of life and redirect the vital essence to accumulate where the wish, while limited by the law of conservation.
 
@@ -123,6 +131,8 @@ They can use their own life essence as a source of power, which needs proper rec
 
 A gamble of one's own life with the power of the goddess.
 As long as the caster does not take damage, they are blessed and benefit from advantage.
+The cost to cast is a set pool of life force put up as stakes.at the beginning.
+Which is lost upon being hit, but regained if  not hit.
 
 #### "apologia pro vita sua" : "defense of one's life",
 
@@ -172,12 +182,20 @@ It is rumored that Poeh became the first living skeleton.
 I'd make this a literal timing challenge using something like the stopwatch challenges from [Dreaming Dragonslayer](https://dreamingdragonslayer.wordpress.com/2021/04/25/stopwatch-dueling-game-duels-vs-npcs/).
 The loser gets hit by some pile of bones.
 
+Some other spell ideas:
+- Bone Bolt: shoot a bone like a crossbow bolt
+- Wall of Bones: Conjure bones to erupt from the ground forming a wall
+
 ## Blood Arts
 
 A Vitamancer that specializes in blood as the medium of the life force that they manipulate.
 They're magic is limited to only blood effects, however due to their focus on that medium, they are able to better use such blood based spells than a typical Vitamancer.
 
 A normal Vitamancer can also harness the soul or spirit of living creatures and other parts of living creatures than just blood.
+
+Some other spell ideas, although beware the cost of resources!
+- Blood Bolt: shoot a bolt of blood like a crossbow bolt
+- Wall of Blood: As wall of water, but blood. An extra source, say livestock blood is recommended.
 
 ___
 
