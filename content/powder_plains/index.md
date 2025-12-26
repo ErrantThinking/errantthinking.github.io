@@ -138,7 +138,7 @@ All have runes and different humanoid or animal features carved into and out of 
 
 |Direction|Adjacent Hex Location|
 |---|---|
-| North | [ Unspecified ] |
+| North | [Dry Dusty Desert](https://bommyknocker.bearblog.dev/barnyard-voltron/) |
 | Northeast | [ Unspecified ] |
 | Northwest | [The Sleeping Slopes](@/sleeping_slopes/index.md) |
 | Southeast | [ Unspecified ] |

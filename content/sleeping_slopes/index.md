@@ -112,9 +112,9 @@ Yukon Cornelius would risk it if just Frenzied Frost were no longer a threat.
 
 |Direction|Adjacent Hex Location|
 |---|---|
-| North | [ Unspecified ] |
+| North | [Talking Wishing Well](https://www.prismaticwasteland.com/blog/castle-claus-the-keep-on-the-north-pole) |
 | Northeast | [Sadtown](https://ponderthegoose.blogspot.com/2025/12/merry-hexmas-sadtown.html) |
-| Northwest | [ Unspecified ] |
+| Northwest | [Dry Dusty Desert](https://bommyknocker.bearblog.dev/barnyard-voltron/) |
 | Southeast | [The Powder Plains](@/powder_plains/index.md) |
 | Southwest | [The Orcish Toy Factory](https://magnoliakeep.blogspot.com/2025/11/blog-bandwagon-orcish-toy-factory.html) |
 | South | [The Vorpal Vale](@/vorpal_vale/index.md) |
