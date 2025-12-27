@@ -40,6 +40,9 @@ These tend to be essentially Megacities, which are expansive or even procedurall
         - High fantasy
         - https://en.wikipedia.org/wiki/City_State_of_the_Invincible_Overlord
         - https://rpggeek.com/rpgsetting/2122/wilderlands-of-high-fantasy
+    - Cities: A Gamemaster's Guide to Encounters and Other Rules For Fantasy Games
+        - System agnostic
+        - https://en.wikipedia.org/wiki/Cities:_A_Gamemaster%27s_Guide_to_Encounters_and_Other_Rules_For_Fantasy_Games
     - Lankhmar - City of Adventure, 1985-1992,
         - AD&D, DCC
         - Sword & Sorcery
@@ -61,9 +64,9 @@ These tend to be essentially Megacities, which are expansive or even procedurall
         - https://rpggeek.com/rpg/26952/blades-in-the-dark
     - Spire, 2018
         - The spire is a city
-    - Kingdom,
+    - Kingdom, 2013
         - A game for creating kingdoms and their stories
-        - Can be used with Microscope with some work.
+        - Can be used with Microscope with some work, by the same author Ben Robbins.
     - His Majesty the Worm 2024--
         - Features both procedural generation for mega dungeons and mega cities.
         - https://rpggeek.com/rpg/107191/his-majesty-the-worm
