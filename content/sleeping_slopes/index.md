@@ -22,6 +22,14 @@ ___
 
 ___
 
+<img
+    src="sleeping_slopes_pic.jpg"
+    alt="Volcano surounded by mountains"
+    style="display:block; margin-left: auto; margin-right: auto; width: 90%"
+    loading="lazy"
+    decoding="async"
+/>
+
 ## Terrain and Biome
 
 Mountainous tundra
@@ -64,14 +72,14 @@ Many creatures of the sleeping slopes have **thermal vision** as it helps them h
 
 ### Roaming Characters within the Sleeping Slopes
 
-- **Bumble the Abominable Snow Monster**
+- **The Abominable Snow Monster**
     - Fears the Tooth Fairy and dentist's offices
     - Thermal vision
 - **Frenzied Frost**
     - Mad from losing his love not once, but twice, this mad frost elemental is often called Jack Frost by the locals.
     - vehement fury against shining golden knights
-    - Thermal vision
-- **Ramkin**
+    - Only Thermal vision and a moderate soul sight.
+- **[Ramkin](@/ramkin/index.md)**
 - **Traveling Wood Elf** of the Ranskin/Bass Hobbit variety
 - **Ice Fairies**
     - Thermal vision
@@ -94,7 +102,7 @@ Yukon Cornelius would risk it if just Frenzied Frost were no longer a threat.
             - Confined within a frozen spire upon the highest peak, the sleeping volcano.
             Is she trapped or is this her chosen solitude?
             - Thermal vision
-    - Within: A **Mine City** that run deep.
+    - Within: **Mineralis** the city of mines that run deep.
         - The [Empty] Heart of the Mountain
         - **Slumbering Draco Lich**
             - A secret within the slumbering volcano.

@@ -58,7 +58,7 @@ These mountains are perilous.
         - Gorcrend: A Zweihander. with parierhaken
         - Gorcrist: A hand and a half sword
         - Beater: A mace
-5. **Ramkins**: Are muscular beastmen with the torso and arms of a gorilla, the head of a ram with curling horns, and the hind legs and hooves of a ram. Their forearms are much more wooly and end with larger hands than a human and have three fingers that end similarly to deer toes. These muscular hands end with fingers and knuckles covered in a thick keratin that cover the joints but let them bend inwards. These hands are good for both running, climbing, grasping, and certainly punching.
+5. **[Ramkin](@/ramkin/index.md)**: Are muscular beastmen with the torso and arms of a gorilla, the head of a ram with curling horns, and the hind legs and hooves of a ram. Their forearms are much more wooly and end with larger hands than a human and have three fingers that end similarly to deer toes. These muscular hands end with fingers and knuckles covered in a thick keratin that cover the joints but let them bend inwards. These hands are good for both running, climbing, grasping, and certainly punching.
     - A ramekin is always found among their belongings, even when travelling.
 6. **Tuskers**: Huge tusked trolls dwell in these mountains.
     - They thrive within the mists and caves of Rime Ridge where they avoid the sun which would turn them to stone
