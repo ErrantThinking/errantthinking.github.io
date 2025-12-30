@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Errant Thinking - Feasts</title>
+    <subtitle>Asking insightful questions. Seeking thoughtful answers.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://errantthinking.com/tags/feasts/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://errantthinking.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-11-30T00:00:00+00:00</updated>
+    <id>https://errantthinking.com/tags/feasts/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Inspiring Real World Feasts and Festivals</title>
+        <published>2025-11-30T00:00:00+00:00</published>
+        <updated>2025-11-30T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Errant Thinking
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://errantthinking.com/feasts-and-festivals/"/>
+        <id>https://errantthinking.com/feasts-and-festivals/</id>
+        
+        <summary type="html">&lt;p&gt;I&#x27;ve decided to join in the festivities of this November&#x27;s RPG Blog Carnival.
+This month&#x27;s theme is &quot;Feasts and Festivals&quot; in tabletop role-playing games as hosted by &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;ofdiceanddragons.com&#x2F;feasts-and-festivals-in-your-ttrpg-campaigns-rpg-blog-carnival&#x2F;&quot;&gt;of Dice and Dragons&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;I will discuss some real world festivals and mythology as sources of inspiration for one of my custom settings, Ophelos.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>
