@@ -11,20 +11,24 @@ ttrpg = ["Hexmas"]
 +++
 
 A Rankin/Bass themed location for a [Merry Hexmas](@/hexmas_2025/index.md). A mysterious fog covered valley with a winding river between the various hills.
+The headless Chevalier Vert roams the vale from dusk to dawn in search of his lost head.
+In the mornign he turns to mist and the Jabberwock takes his place, albeit hunting for other's heads to mash and nash and misplace.
 
 <!-- more -->
 
-___
-
-:warning: Currently a stub and is being further added to!
-
-___
+<img
+    src="pexels-photo-6128961_mountain_valley_fog_sml.jpg"
+    alt="Pool of water in green mountainous hills forming a river."
+    style="display:block; margin-left: auto; margin-right: auto;"
+    loading="lazy"
+    decoding="async"
+/>
 
 ## Terrain and Biome
 
 A steep valley between the mountains in the north and south featuring its own bumpy hills with a winding river that traverses between those hills.
-The primary stream starts from streams and drainage of melting ice (when it does melt) from the northeastern Powder Plains.
-The water from the mountains accumulates in the valley forming various small lakes and ponds and streams that drain into the main winding river which exits this hex westward towards the ocean.
+Various lakes and streams form from the melting mountain ice that gathers into
+the vale's primary winding river, which flows from the northeastern Powder Plains into the west towards the Swirly Twirly Sea of Gumdrops.
 The clouds that accumulate from the ocean against Rime Ridge results in the heavy rains over The Green Chapel and its fields, and also in a thick fog that is nearly always present in the Vorpal Vale.
 People get lost in this misty vale and many mysteries dwell within.
 
@@ -47,6 +51,14 @@ The road from the Powder Plains to here has a battered wooden sign that reads:
 >Danger! Beware the Vorpal Vale's mists! Keep your head on straight!
 
 This road follows the banks of the winding river through the vale.
+
+<img
+    src="headless_caribou-rider_Pfennig_Berga_1921_sml.gif"
+    alt="Headless Chevalier Vert de Caribou"
+    style="display:block; margin-left: auto; margin-right: auto; width: 90%"
+    loading="lazy"
+    decoding="async"
+/>
 
 ### The Chevalier Vert
 
@@ -72,15 +84,26 @@ The Chevalier Vert will regain his sanity and cease his frenzy upon the return o
 He is now able to escort the party with his faithful mount during the evening.
 However, until he regains his antlered helm, he cannot aid the party during the day.
 
-He'll tell the tale of how he lost his head here due to not wearing him great antlered helm.
-He lost his helm in a great fight against demonic wind mill.
-He swears it was a great foe.
+He'll tell the tale of how he lost his head here due to not wearing his great antlered helm.
+He lost his helm in an epic fight against a demonic wind mill.
+He swears it was a legendary foe.
 
 Once he is whole again with both his head and helm, he can reattach his helmed head and be free from his misty bonds to the Vorpal Vale.
+
+<img
+    src="Jabberwocky.gif"
+    alt="The Jabberwock"
+    style="display:block; margin-left: auto; margin-right: auto; width: 80%"
+    loading="lazy"
+    decoding="async"
+/>
 
 ### The Jabberwock
 
 The Jabberwock is known to visit the Vorpal Vale during the day to prey upon those lost.
+This mysterious beast is huge and is known to mash and nash and steal people's heads and misplace them.
+The jabberwock enters and leaves this vale through mirror like still waters that pool among the many hills in the vale.
+It is said that those mirror like still waters can serve as a portal to a whole new land, a wonderous land.
 
 ## Random Encounters
 
@@ -172,16 +195,82 @@ On the fourth count, reset the counter to zero and *all* of the following occurs
 
 ## Locations within the Vorpal Vale
 
-- Misty still waters
-    - Bassians (pronounced as the Bass fish)
-    - Some are so still their reflections are like mirrors, even when frozen.
-    - From these mirror like pools the Jabberwock is said to emerge during the day and retreat during the night.
+### Misty still waters
+- Some ponds are so still their reflections are like mirrors, even when frozen.
+- From these mirror like pools the Jabberwock is said to emerge during the day and retreat during the night.
+- Bassians (pronounced as the Bass fish) lurk in these waters.
+- Only around these still waters will you encounter **2d4 Cuttops**, which are small hunched over gremlins with webbed feat and the top of their head cut off holding within it no brains, but water from
+    - They like to sit still.  They meditate, or observe.
+    - They attack those who disturb their still waters.
+    - Though sometimes they just sit without eating for a while because none of them want to distrub the waters with their fishing.
+
+<img
+    src="pexels-photo-33982013_uk_sml.jpg"
+    alt="Pool of water in green mountainous hills forming a river."
+    style="display:block; margin-left: auto; margin-right: auto; width: 90%;"
+    loading="lazy"
+    decoding="async"
+/>
+
+#### The Pool of the Chevalier
 
 - Somewhere in the Vorpal Vale is the Chevalier Vert's head.
    - If the party attempts to search for it they have chance of finding the one of many misty still waters in which the head is submerged.
    - A 1 on the following dice results in finiding the correct location, where the next one die smaller is used for every attempt until 1d1.
    - 1d20, 1d12, 1d10, 1d8, 1d6, 1d4, 1d2, 1d1
    - Each time the adventurers get lost due to the **Vorpal Veil**, the die size decreases improving their odds. Perhaps even the spirits of the Vale pity the poor Chevalier Vert?
+
+
+<img
+    src="https://photos.smugmug.com/Other-Arts/Daily-Ink-Monsters/i-CF7rR6k/0/LBprVRPsb57xVxqNC8GZD2vbKmh44zSZbkJb2278v/X3/monster_0013_shinji_the_greedy_kappa-X3.jpg"
+    alt="Pool of water in green mountainous hills forming a river."
+    style="display:block; margin-left: auto; margin-right: auto; width: 90%;"
+    loading="lazy"
+    decoding="async"
+/>
+<p style="text-align:center;">
+Cuttops represented by
+<a href="https://denungeherrholm.smugmug.com/Other-Arts/Daily-Ink-Monsters/i-CF7rR6k/A">
+"Shinju, the Greedy Kappa" by Kim Holm, CC-BY 4.0.
+</a>
+</p>
+
+
+### A Snow Covered Cabin
+
+There are various cabins of different sizes within the vale, although they are often deserted.
+Sometimes, you'll find them welcoming as shelter from the cold.
+Othertimes, you'll find you weren't the only one seeking shelter!
+
+<img
+    src="pexels-photo-19850085_snow_valley_fog_pines_sml.jpg"
+    alt="Pool of water in green mountainous hills forming a river."
+    style="display:block; margin-left: auto; margin-right: auto; width: 90%;"
+    loading="lazy"
+    decoding="async"
+/>
+
+
+Inside some of these cabins or around them, you'll find the remanants of those who last stayed.
+Some of them include their own gardens, though the frost and cold can be quite harsh to vegetation.
+Among these gardens or even inside the cabin you'll find some of the produce frozen.
+These include pumpkins, turnips, and rutabaga.
+
+Sometimes, you find these vegetables carved with faces and hollowed out to serve as lanterns.
+It is said that these lanterns can resist the Vorpal Veil, letting someone journey through the vale without losing their way or their head.
+A carved **jack-o-lantern** lasts only for a few days and has *only one use* as a lantern in the Vorpal Vale to resist getting lost.
+
+If the headless Chevalier Vert pursues you, it is said that offering it this jack-o-lantern as a substitute head will appease the spirit for one night.
+It will at least accept the gift, adorn its new head, smile, and leave you in peace for the evening.
+
+<img
+    src="pexels-photo-10083580_jack-o-lantern.jpeg"
+    alt="Happy jack-o-lantern pumpkin in field"
+    style="display:block; margin-left: auto; margin-right: auto; width: 90%;"
+    loading="lazy"
+    decoding="async"
+/>
+
 
 ## Neighboring Hexes
 
