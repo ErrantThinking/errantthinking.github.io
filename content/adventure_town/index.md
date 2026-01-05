@@ -1,32 +1,211 @@
 +++
 title = "The Town is the Adventure"
-date = 2026-01-01
+date = 2026-01-04
 description = "Let's explore how to make the town be the adventure itself in our roleplaying games!"
 
 [extra]
+image = "../roadside-inns/shady-inn.jpg"
 
 [taxonomies]
 tags = ["Tabletop Roleplaying Games", "Secret Santicorn", "Collection"]
 ttrpg = ["Secret Santicorn", "Collection"]
 +++
 
-Settlemeents often serve as a safe haven or a base of operations in traditional roleplaying games, with cities being the most common case for an adventure site in itself.
-What about other settlements?
-As part of the New School Revolution RPG Cauldron Secret Santicorn I'm hosting in 2025, which is separate from the typical Rainbow OSR Secret Santicorn, I have recieved a request by [Sully Tames](https://sultansmusings.bearblog.dev/) to explore making the settlement itself the adventure site.
+Settlements often serve as a safe haven or a base of operations in traditional roleplaying games, with cities being the most common place for an adventure to occur in a settlement.
+*What about smaller settlements?*
+As part of the [RPG Cauldron Secret Santicorn](https://discourse.rpgcauldron.com/t/rpg-cauldron-secret-santicorn-2025/3365) I'm hosting in 2025, which is separate from the typical Rainbow OSR Secret Santicorn, I received a request by [Sully Tames](https://sultansmusings.bearblog.dev/) to explore making the settlement itself the adventure site.
 
 
 ## Prompt
 > The town/settlement as an adventure site in itself. What if you never had to leave the tavern to go on an adventure?
 
- I shall cover in brief part of the history of settlement based adventures in TTRPGs, identify some of their trends and properties, and provide my thoughts on how to make a satisfying adventure in a settlement.
+Alright! This is a good one that lets me use my research skills to understand what already exists out there and then provide some analysis of patterns and ways to make the adventure stay in a confined location.
+I use "settlement" to include a single more permanent building than a campsite in the smallest scale and a city in the largest scale.
 
 <!-- more -->
 
+
+<img
+    src="../roadside-inns/shady-inn.jpg"
+    alt="A public domain etching of a shady crowd in a smoky inn."
+    style="display:block; margin-left: auto; margin-right: auto;"
+    loading="lazy"
+    decoding="async"
+/>
+<p style="text-align:center;">
+The people make the place.
+</p>
+
+
+I open with my thoughts to directly answer the question of how this could be achieved, and then I list some of the different TTRPGs, settings, and adventures I discovered in my research of the [history & relevant works](@/adventure_town/index.md#history-relevant-works).
+
+## Properties of Settlement Adventures
+
+As we focus on adventures, there are various properties of what makes a good adventure worth considering.
+However, the in-depth analysis of what makes a good adventure will have to be saved for a future post, one I have been slowly gathering notes for over the past half a year.
+Here, we shall focus on what makes an adventure set in a settlement *unique*.
+
+A settlement is
+- made by **people**
+- to serve **a purpose**
+- that includes **longterm living arrangements**.
+
+An adventure set in a settlement entails the intertwining of **society** with that adventure.
+All three parts above serve to unveil what kind of society exists behind this settlement.
+When the settlement is small, say a single building isolated from the rest of its civilization, then it serves as a microcosm of that society.
+
+I'd argue that any settlement setting in an adventure will always be a microcosm of the society simply given it won't be a simulation of a full city and community.
+However, this is certainly emphasized in small scale for things such as towns or forts.
+
+The customs of the people who made the place, who live there currently
+The people color the world and the society
+
+### The People
+The people characterize the setting in how they treat it, live in it, and change it.
+The people of a settlement include
+- those **who made** the settlement,
+- those **who lived** in the settlement, and
+- those **who currently live** in the settlement.
+
+The aspect of time is featured throughout this list with focus on the past and present.
+At times it is worth considering whether those in the past considered those who would live here in the future.
+The things they did or didn't do for those in the future characterizes themselves and helps set the world for those to come.
+
+### The Purpose
+The purpose of the settlement will vary case by case, but typically always includes the purpose of *someone* or *something* to live at that location.
+It gets more interesting when we consider the society this settlement is a satellite of.
+Is this a settlement of a people who need a new home? Of those who were banished to the outer reaches of their core civilization? Or is it an outpost that serves to protect the rest of society from what could come from beyond?
+The purpose of the place can paint the originating society in broad strokes!
+
+### Longterm Living
+
+This emphasizes what the people need to live out here, along with their culture and way of life.
+What is prioritized in the living quarters can inform what it was like for those to live here, and at times more subtly inform how it was intended to be lived in.
+
+A cylindrical tower only intended by those *who made it* as a tactically placed watchtower may communicate this through its simple structure and minimal rooms.
+Those who once lived here may have embraced that intended purpose. Tally marks are scored in the walls to count down the days until they could return to a more fulfilling or at least entertaining society and way of life.
+Perhaps the ones who live here now challenge its intended design by the decorations to express their individuality and furniture to make the common room into a living room for playing games and merry making.
+
+### Emphasis on Society
+
+The emphasis on a current living society is what puts a settlement in stark contrast to a dungeon, a crypt, desolate ruins, or the wilderness.
+These others can characterize the world through answers to the above primarily through environmental story telling, however they tend to be less focused on the current living people and their culture compared to an adventure in a settlement.
+
+We see this occur in various ways for existing adventures.
+
+
+## Some Patterns
+
+I have noted some patterns from recounting my own experiences in playing settlement based adventures, as well as from my research in existing settlement focused games, settings, and adventures.
+The main patterns I note are
+- Settlements as a Dungeon,
+- Social Drama,
+- Slice of Life, and
+- Settlement Building,
+
+where the last three emphasize the living society the most.
+
+### The Settlement as a Dungeon
+
+Turn the typical formula of settlements as safe havens and dungeons as dangerous on its head.
+Make the settlement be a dungeon!
+
+- The classic settlement as a dungeon
+    - settlement as ruins, post-apocalypse, or in enemy territory
+    - besieged settlement
+    - settlement invaded or overrun
+- Change to a smaller perspective: Houses or other buildings become akin to dungeons for our small adventurers.
+- An inverted Bastionland: Where instead of the bastion being where you are safe, it is where you are in danger, yet you find yourself unfortunately within.
+    - Similar to a reverse-dungeon where the adventurers must escape the city.
+    - City where the citizens are turned into something like zombies
+
+### Social Drama
+
+The tension that arises from social drama can make a very rich story.
+
+- Mystery
+    - a popular adventure story pattern that makes up its own genre!
+    - who-done-it?
+    - murder mystery
+    - frame the party or an important allied NPC
+- Romance
+    - Many different types of romance worth exploring. This is worth its own future post!
+- Political Intrigue
+    - times when power changes hands
+        - voting, revolutions, coups
+    - territory or resource grabs within the settlement
+- Occupational
+    - commerce
+    - Hazardous occupations: firefighters, small town law enforcement
+    - Food: For example, a single [bakery](https://en.wikipedia.org/wiki/Bakery#History) was pivotal to the food supply of a historical medieval town, as well as their cultural foods.
+
+### Slice of Life
+
+A slice of life is a exactly a slice of a living society.
+To observe and — in the case of roleplaying games — experience the way of life of people in their culture.
+This emphasized everyday living over the dramatic, tense moments of life, but these can be combined to create a captivating world!
+
+### Settlement Building
+
+While this may be it own minigame in other games, and typically not an adventure in itself, these do share properties with such dedicated settlement building games that include a story to be told.
+Microscope is one example of such a game.
+
+
+## Settlement Adventure Guidelines
+
+After identifying some properties of settlement adventures,
+I now provide some guidelines to help create a settlement adventure.
+
+- Focus on the people
+    - Make factions with goals, and people with goals
+    - esp. conflicting goals,
+    - some of which should be petty goals when emphasizing the small scale concerns of those who live in the settlement.
+    - Interacting with the people of the settlement should be reward useful information.
+    - A small settlement is able to be fully characterized by a complete cast of characters.
+- Engage with the societal structure
+    - people within different occupations and different classes of society provide different perspectives.
+    - be aware of power and resource flow through the societal structure
+        - How could someone use this to further their goals or hinder another's?
+- Engage with a lived-in environment
+    - environmental investigation
+    - Who saw what? Who moved or misused the community well?
+    - Have the places be purposeful to their function and cultural value to the community
+- Paint in broad yet distinct strokes
+    - the juxtaposition between the intent of a settlement and its use can be quite informative and flavorful, but it helps to provide a strong contrast between those things for them to be readily picked up in play.
+
+Personally when planning character driven settings, I use Maslow's hierarchy of needs and address how the overall community sits on each point in this hierarchy, then the key factions and key people as necessary.
+Maslow's hierarchy of needs and some examples of each are as follows from the base needs that tend to be required prior to being able to satisfy the higher needs.
+
+1. **Physiological Needs**: air, water, food, shelter, clothing, sleep
+2. **Safety Needs**: personal security, health & well being, stable environment, financial security, safety nets
+3. **Love & Belonging**: community, relationships, group membership, affection & intimacy
+4. **Esteem**: Self-respect, confidence, respect from others, reputation, recognition and achievement
+5. **Self-Actualization**: creativity, personal growth, moral development, pursuit of purpose
+
+Higher level needs or wants can only be afforded if the lower levels are adequately met.
+The starving artist must still eat to continue to exist and create.
+However, some impassioned characters may sacrifice their own or other's base needs to achieve their higher needs in the short term.
+
+
+## Conclusion
+
+This was a good request and it turned out to relate to some of my prior interests that I've explored a bit before.
+I did not include much if any of my prior work from those here and I will definitely write a survey and my thoughts on those in the future.
+Those topics include game design for adventures in general, social drama and dynamics, mystery, political intrigue, and romance.
+
+This was a part of the [RPG Cauldron Secret Santicorn](https://discourse.rpgcauldron.com/t/rpg-cauldron-secret-santicorn-2025/3365) event.
+Check out what others have written!
+
+</br>
+
+___
+
 ## History & Relevant Works
 
-It is worth exploring some history and prior works that have prvoided such adventures within the settlements themselves as I think they will provide nice examples and inspiration while also providing some insight into how to do this in a general way.
+It is worth exploring some history and prior works that have provided such adventures within the settlements themselves as I think they will provide nice examples and inspiration while also providing some insight into how to do this in a general way.
 Most common are large scale settlements as cities and in general can even be treated as dungeons themselves.
 Call of Cthulhu and the like also tend to provide some adventures for specific settlements or even single buildings, such as manors.
+Of course, this list is not exhaustive.
 
 ### Cities
 
@@ -35,66 +214,84 @@ These tend to be essentially Megacities, which are expansive or even procedurall
 - Heroic or High Fantasy: Definitely swords and varying levels of sorcery
     - Wilderlands of High Fantasy, 1976-1983, 2004-2005
         - City State of the Invincible Overlord
-        - First ever published city setting for a TTRPG and the surrounding world arount it.
+        - First ever published city setting for a TTRPG and the surrounding world around it.
         - System: Generic D&D, D&D 3e.
         - Genre: High fantasy
-        - https://en.wikipedia.org/wiki/City_State_of_the_Invincible_Overlord
-        - https://rpggeek.com/rpgsetting/2122/wilderlands-of-high-fantasy
+        - [Wikipedia](https://en.wikipedia.org/wiki/City_State_of_the_Invincible_Overlord)
+        - [RPG Geek](https://rpggeek.com/rpgsetting/2122/wilderlands-of-high-fantasy)
     - Cities: A Gamemaster's Guide to Encounters and Other Rules For Fantasy Games
         - System: agnostic
-        - https://en.wikipedia.org/wiki/Cities:_A_Gamemaster%27s_Guide_to_Encounters_and_Other_Rules_For_Fantasy_Games
+        - [Wikipedia](https://en.wikipedia.org/wiki/Cities:_A_Gamemaster%27s_Guide_to_Encounters_and_Other_Rules_For_Fantasy_Games)
     - Lankhmar - City of Adventure, 1985-1992,
         - System: AD&D, DCC
-        - https://en.wikipedia.org/wiki/Lankhmar_%E2%80%93_City_of_Adventure
-        - https://rpggeek.com/rpgseries/28653/dungeon-crawl-classics-lankhmar
-        - https://rpggeek.com/rpgseries/48377/lankhmar-city-of-thieves
+        - [Wikipedia](https://en.wikipedia.org/wiki/Lankhmar_%E2%80%93_City_of_Adventure)
+        - [RPG Geek](https://rpggeek.com/rpgseries/28653/dungeon-crawl-classics-lankhmar)
+        - [RPG Geek](https://rpggeek.com/rpgseries/48377/lankhmar-city-of-thieves)
     - Thieves' World: The city of Sanctuary, the Rankan Empire, 1981-86, 2005-07
-        - Syste,: Generic, Runequest 3rd, d20 system
-        - https://en.wikipedia.org/wiki/Thieves'_World
+        - System: Generic, Runequest 3rd, d20 system
+        - [Wikipedia](https://en.wikipedia.org/wiki/Thieves'_World)
     - Freeport: The City of Adventure, 2000-present
         - System: Pathfinder, d20 system
         - Genre: Swashbuckling Medieval fantasy
-        - https://rpggeek.com/rpgitem/51418/freeport-the-city-of-adventure
+        - [RPG Geek](https://rpggeek.com/rpgitem/51418/freeport-the-city-of-adventure)
     - Doskvol 2017--present
         - System: Default setting of Blades in the Dark
         - Genre: Victorian London, Gothic fiction
-        - https://en.wikipedia.org/wiki/Blades_in_the_Dark
-        - https://rpggeek.com/rpg/26952/blades-in-the-dark
+        - [Wikipedia](https://en.wikipedia.org/wiki/Blades_in_the_Dark)
+        - [RPG Geek](https://rpggeek.com/rpg/26952/blades-in-the-dark)
     - Spire, 2018
         - The spire is a city
+        - [RPG Geek](https://rpggeek.com/rpg/43044/spire)
     - Kingdom, 2013
         - A game for creating kingdoms and their stories
         - Can be used with Microscope with some work, by the same author Ben Robbins.
+        - [RPG Geek](https://rpggeek.com/rpgitem/143792/kingdom)
     - His Majesty the Worm 2024--
         - Features both procedural generation for mega dungeons and mega cities.
-        - https://rpggeek.com/rpg/107191/his-majesty-the-worm
-    - Bazaar of Lies,  2025
+        - [RPG Geek](https://rpggeek.com/rpg/107191/his-majesty-the-worm)
+    - [Bazaar of Lies](https://1pagedungeons.itch.io/urban-crawl),  2025
         - One Page Dungeon urban heist crawl
-        - https://1pagedungeons.itch.io/urban-crawl
+    - [A Games Master's Guide to The Free City of Dunromin](https://rpggeek.com/rpgitemversion/662923/revised-pdf)
+    - [The Game Master's Book of Instant Towns and Cities](https://rpggeek.com/rpgitemversion/753612/pdf)
 - Cyberpunk
     - Cities Without Number
-        - https://rpggeek.com/rpg/79749/cities-without-number
+        - [RPG Geek](https://rpggeek.com/rpg/79749/cities-without-number)
     - Cyberpunk Night City
 
 ### Towns & Villages
 
 - Post-apocalyptic
     - The Quiet Year
-        - https://en.wikipedia.org/wiki/The_Quiet_Year
+        - [Wikipedia](https://en.wikipedia.org/wiki/The_Quiet_Year)
         - Each player represents parts of a community and describes their everyday activities
-- Cozy Town
-    - Quiet-Year variant
 - Modern or Historic Fiction
-    - Village Dynasties
+    - [Village Dynasties](https://joshforjay.itch.io/village-dynasties)
+
         - A small PbtA hack
-        - https://joshforjay.itch.io/village-dynasties
-    - Call of Cthulhu
-- Stonetop "Hearth Fantasy" Powered by the Apocalypse.
-    - completed [kickstart page](https://www.kickstarter.com/projects/1735046512/stonetop)
-    - [fandom wiki](https://stonetop-campaign.fandom.com/wiki/Stonetop_Campaign_Wiki)
-- Iron Valley (community integration, “cozy RPG”)
-- Unincorporated (small town drama)
-- Golden Sky Stories (small town slice of life)
+    - Various Call of Cthulhu adventures and settings
+    - [Good Society](https://storybrewersroleplaying.com/good-society/?v=0b3b97fa6688), 2018
+        - Jane Austen, Victorian drama
+        - [Wikipedia](https://en.wikipedia.org/wiki/Good_Society_(game))
+    - [Kagematsu](https://boardgamegeek.com/rpgitem/55827/kagematsu)
+        - 1572 Japan. A village is defended by one ronin whose affection is sought after by multiple women.
+- Fantasy
+    - Stonetop "Hearth Fantasy" Powered by the Apocalypse.
+        - completed [Kickstart page](https://www.kickstarter.com/projects/1735046512/stonetop)
+        - [fandom wiki](https://stonetop-campaign.fandom.com/wiki/Stonetop_Campaign_Wiki)
+    - [Polaris](https://rpggeek.com/rpg/602/polaris-chivalric-tragedy-at-utmost-north)
+        - A tragic fantasy tale of defending the northernmost city from its end.
+- Modern or Historic Fantasy
+    - [Unincorporated](https://ethanharvey.itch.io/unincorporated), 2021-present
+        - small town drama
+- Slice of Life, Cozy
+    - [Iron Valley](https://mkirin.itch.io/iron-valley)
+        - a cozy solo RPG based on Iron Sworn with community integration
+    - [Cozy Town](https://temporalhiccup.itch.io/cozy-town)
+        - Quiet-Year variant
+    - [Golden Sky Stories](https://starline.itch.io/gss), 2020
+        - small town slice of life
+
+
 
 ### Isolated Buildings
 
@@ -123,34 +320,34 @@ The culture and customs are still present, albeit different based on the local c
             - The Mound in the Yard (80’s Slasher Horror), a town
             - St. Cecila's Blasphemous Bordello (Old West – Down Darker Trails)
             - An Opera Unceasing (Victorian Horror)
-    - Yazeba’s Bed and Breakfast
+    - [Yazeba’s Bed and Breakfast](https://rpggeek.com/rpgitem/391428/yazebas-bed-and-breakfast)
         - a directed roleplaying slice-of-life game about relationships and people in a bed and breakfast.
-- Stewpot: Tales From a Fantasy Tavern (tavern tabletop RPG)
+- [Stewpot: Tales From a Fantasy Tavern](https://noroadhome.itch.io/stewpot)
+    - for 3-4 players
+    - play retired adventurers running a tavern
 
 
 ### Settlement (Setting) Building
 
 These games either constrain their focus to a village or town or could be played with such a constraint.
 
-[Microscope](https://en.wikipedia.org/wiki/Microscope_(role-playing_game)) is a roleplaying game where players create a fictional timeline and role-play pspecific events in that timeline.
+[Microscope](https://en.wikipedia.org/wiki/Microscope_(role-playing_game)) is a roleplaying game where players create a fictional timeline and role-play specific events in that timeline.
 This could be used to tell the story of a village, town, or otherwise.
 This being a game itself could be the game and "adventure" told through Microscope alone.
 Otherwise, this could establish the town as a setting to be played through.
 
-Ugly Gryphon Inn / The Broken Cask (solo tavern management)
-
-
-Villages of Valeria
-
-Machi Koro (town build card system)
-
+- Settlement Building Minigames or Procedures
+    - His Majesty the Worm city building
+    - Mausritter includes some [settlement building](https://mausritter.com/srd/recruiting-help)
+    - [Villages of Valeria](https://boardgamegeek.com/boardgame/180040/villages-of-valeria) A village building card game.
+    - [Ugly Gryphon Inn](https://boardgamegeek.com/boardgame/322709/ugly-gryphon-inn): solo tavern management
 - Settlement Management
     - [Settlement Management Itch.io Collection by Zima](https://itch.io/c/4700613/settlement-managment-rpg-)
     - [Realm Management Wiki on r/rpg](https://www.reddit.com/r/rpg/wiki/realmrpgs/)
-
 - Settlement Generation
     - Game component methods
-        - [Hex generation for settlements using Tarot cards[(https://www.matthewdavisprojects.com/thoughts/extended-hex-dungeon-and-settlement-generation-tools)
+        - Machi Koro (town build card system)
+        - [Hex generation for settlements using Tarot cards](https://www.matthewdavisprojects.com/thoughts/extended-hex-dungeon-and-settlement-generation-tools)
     - Online web tools
         - [Online Fantasy Town Generator](https://www.fantasytowngenerator.com/)
         - [Settlement Generator](https://www.7tools.dev/settlementgenerator)
@@ -160,55 +357,15 @@ Machi Koro (town build card system)
 Through the blogosphere, Reddit, and elsewhere, we can find some other wonderful lists or ideas.
 
 - [Survival in Settlements](https://murkdice.substack.com/p/bad-part-of-town) by murkdice
-    - Survival from famine, natural disasters, uprisings, martial law, or industrial accidents
+    - e.g., survival from famine, natural disasters, uprisings, martial law, or industrial accidents
     - A brief blog post pertaining to creating towns with adventure within.
-    - Key locations with placement.
-    - NPCs & Factions with their own behaviors & goals. Place in map.
-    - Events & encounters and emphasize escalation and link to NPCs, factions, and locations.
-    - Resource pressure, good for survival games and building tension.
+        - Key locations with placement.
+        - NPCs & Factions with their own behaviors & goals. Place in map.
+        - Events & encounters and emphasize escalation and link to NPCs, factions, and locations.
+        - Resource pressure, good for survival games and building tension.
 
-## Properties of Settlement Adventures
 
-## Some Patterns
-
-### The Settlement as a Dungeon
-
-Turn the typical formula of settlements as safe havens and dungeons as dangerous on its head.
-Make the settlement be a dungeon!
-
-- Mausritter: Houses or other buildings become akin to dungeons.
-- An inverted bastionland: Where instead of the bastion being where you are safe, it is where you are in danager.
-    - A city overrun with undead monsters that holds many secrets and the means to librerate the city to recover the bastion. The outside is restricted by limited resources and weather or other such conditions that force people to leave due to resource scarcity or threat to health. You get a week there for rest, but then must return to the city.
-
-### Mystery
-
-Whodunit, murder mystery,
-
-### Social Drama
-
-#### Romance
-
-#### Political Intrigue
-
-#### Occupational: Commerce
-
-### Slice of Life
-
-### Settlement Building
-
-While this may be it own minigame in other games, and typically not an adventure in itself, these do share properties with such dedicated settlement building games that include a story to be told.
-
-- His Majesty the Worm city building
-- Mausritter settlement building
-
-## Conclusion
-
-This was a good request and it turned out to relate to some of my prior interests that I've explored a bit before.
-I did not include much if any of my prior work from those here and I will definitely write a survey and my thoughts on those in the future.
-Those topics include game design for adventures in general, social drama and dynamics, mystery, political intrigue, and romance.
-
-This was a part of the [RPG Cauldron Secret Santicorn](https://discourse.rpgcauldron.com/t/rpg-cauldron-secret-santicorn-2025/3365) event.
-Check out what others have written!
+</br>
 
 ___
 
