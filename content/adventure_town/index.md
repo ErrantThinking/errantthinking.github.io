@@ -193,6 +193,8 @@ This was a good request and it turned out to relate to some of my prior interest
 I did not include much if any of my prior work from those here and I will definitely write a survey and my thoughts on those in the future.
 Those topics include game design for adventures in general, social drama and dynamics, mystery, political intrigue, and romance.
 
+I hope my analysis is interesting helps to find some patterns that may be used in the design of settlement adventures!
+
 This was a part of the [RPG Cauldron Secret Santicorn](https://discourse.rpgcauldron.com/t/rpg-cauldron-secret-santicorn-2025/3365) event.
 Check out what others have written!
 
