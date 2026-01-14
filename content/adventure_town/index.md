@@ -73,7 +73,7 @@ The things they did or didn't do for those in the future characterizes themselve
 
 ### The Purpose
 The purpose of the settlement will vary case by case, but typically always includes the purpose of *someone* or *something* to live at that location.
-It gets more interesting when we consider the society this settlement is a satellite of.
+It gets more interesting when we consider the society that this settlement is a satellite of.
 Is this a settlement of a people who need a new home? Of those who were banished to the outer reaches of their core civilization? Or is it an outpost that serves to protect the rest of society from what could come from beyond?
 The purpose of the place can paint the originating society in broad strokes!
 
@@ -83,13 +83,14 @@ This emphasizes what the people need to live out here, along with their culture 
 What is prioritized in the living quarters can inform what it was like for those to live here, and at times more subtly inform how it was intended to be lived in.
 
 A cylindrical tower only intended by those *who made it* as a tactically placed watchtower may communicate this through its simple structure and minimal rooms.
-Those who once lived here may have embraced that intended purpose. Tally marks are scored in the walls to count down the days until they could return to a more fulfilling or at least entertaining society and way of life.
-Perhaps the ones who live here now challenge its intended design by the decorations to express their individuality and furniture to make the common room into a living room for playing games and merry making.
+Those who once lived here may have embraced that intended purpose. Tally marks are scored in the walls to count down the days until they could return to a more fulfilling, or at least a more entertaining, way of life.
+Perhaps the ones who live here now challenge its intended design through their decorations that express their individuality and furniture to make the common room into a *living room* for playing games and merry making.
 
 ### Emphasis on Society
 
 The emphasis on a current living society is what puts a settlement in stark contrast to a dungeon, a crypt, desolate ruins, or the wilderness.
 These others can characterize the world through answers to the above primarily through environmental story telling, however they tend to be less focused on the current living people and their culture compared to an adventure in a settlement.
+Of course, the wilds are quite alive with their ecology and ecosystem, but they typically lack a civilization.
 
 We see this occur in various ways for existing adventures.
 
@@ -137,13 +138,13 @@ The tension that arises from social drama can make a very rich story.
 - Occupational
     - commerce
     - Hazardous occupations: firefighters, small town law enforcement
-    - Food: For example, a single [bakery](https://en.wikipedia.org/wiki/Bakery#History) was pivotal to the food supply of a historical medieval town, as well as their cultural foods.
+    - Food: For example, a single [bakery](https://en.wikipedia.org/wiki/Bakery#History) was pivotal to the food supply of a historical medieval town, as well as their cultural foods, such as a birthday cake or other holiday baked goods.
 
 ### Slice of Life
 
 A slice of life is a exactly a slice of a living society.
-To observe and — in the case of roleplaying games — experience the way of life of people in their culture.
-This emphasized everyday living over the dramatic, tense moments of life, but these can be combined to create a captivating world!
+To observe and — in the case of roleplaying games — experience the people's way of life in their culture.
+This emphasizes everyday living over the dramatic, tense moments of life, but these can be combined to create a captivating world!
 
 ### Settlement Building
 
@@ -158,23 +159,29 @@ I now provide some guidelines to help create a settlement adventure.
 
 - Focus on the people
     - Make factions with goals, and people with goals
-    - esp. conflicting goals,
-    - some of which should be petty goals when emphasizing the small scale concerns of those who live in the settlement.
-    - Interacting with the people of the settlement should be reward useful information.
+        - esp. conflicting goals,
+        - some of which should be petty goals when emphasizing the small scale concerns of those who live in the settlement.
+    - Interacting with the people of the settlement should be rewarding
+        - at least provide useful information to the objective or a direction to go to find more.
     - A small settlement is able to be fully characterized by a complete cast of characters.
+    - The local culture can shine and define a society
+        - Taboos: Never wear a hat indoors, no idols, or do not tread dirt inside the house.
+        - Etiquette: A proper bow, handshake, or the order in which you use your silverware.
+            - Always greet someone with your name, title, and homeland.
 - Engage with the societal structure
     - people within different occupations and different classes of society provide different perspectives.
     - be aware of power and resource flow through the societal structure
         - How could someone use this to further their goals or hinder another's?
 - Engage with a lived-in environment
     - environmental investigation
-    - Who saw what? Who moved or misused the community well?
+    - Who saw what? Who moved or misused the community well or ceremonial wheelbarrow?
     - Have the places be purposeful to their function and cultural value to the community
 - Paint in broad yet distinct strokes
     - the juxtaposition between the intent of a settlement and its use can be quite informative and flavorful, but it helps to provide a strong contrast between those things for them to be readily picked up in play.
 
 Personally when planning character driven settings, I use Maslow's hierarchy of needs and address how the overall community sits on each point in this hierarchy, then the key factions and key people as necessary.
-Maslow's hierarchy of needs and some examples of each are as follows from the base needs that tend to be required prior to being able to satisfy the higher needs.
+The base needs in the hierarchy that tend to be required prior to being able to satisfy the higher needs.
+The hierarchy and some examples of each are:
 
 1. **Physiological Needs**: air, water, food, shelter, clothing, sleep
 2. **Safety Needs**: personal security, health & well being, stable environment, financial security, safety nets
@@ -193,10 +200,10 @@ This was a good request and it turned out to relate to some of my prior interest
 I did not include much if any of my prior work from those here and I will definitely write a survey and my thoughts on those in the future.
 Those topics include game design for adventures in general, social drama and dynamics, mystery, political intrigue, and romance.
 
-I hope my analysis is interesting helps to find some patterns that may be used in the design of settlement adventures!
+I hope my analysis is interesting and helps reveal some patterns that may be used in the design of settlement adventures!
 
 This was a part of the [RPG Cauldron Secret Santicorn](https://discourse.rpgcauldron.com/t/rpg-cauldron-secret-santicorn-2025/3365) event.
-Check out what others have written!
+Check out what others have written and join the discussion!
 
 </br>
 
@@ -207,7 +214,7 @@ ___
 It is worth exploring some history and prior works that have provided such adventures within the settlements themselves as I think they will provide nice examples and inspiration while also providing some insight into how to do this in a general way.
 Most common are large scale settlements as cities and in general can even be treated as dungeons themselves.
 Call of Cthulhu and the like also tend to provide some adventures for specific settlements or even single buildings, such as manors.
-Of course, this list is not exhaustive.
+Of course, this list is not exhaustive and some of these can go beyond the scale I've placed them within.
 
 ### Cities
 
@@ -227,8 +234,8 @@ These tend to be essentially Megacities, which are expansive or even procedurall
     - Lankhmar - City of Adventure, 1985-1992,
         - System: AD&D, DCC
         - [Wikipedia](https://en.wikipedia.org/wiki/Lankhmar_%E2%80%93_City_of_Adventure)
-        - [RPG Geek](https://rpggeek.com/rpgseries/28653/dungeon-crawl-classics-lankhmar)
-        - [RPG Geek](https://rpggeek.com/rpgseries/48377/lankhmar-city-of-thieves)
+        - DCC [RPG Geek](https://rpggeek.com/rpgseries/28653/dungeon-crawl-classics-lankhmar)
+        - City of Thieves added material [RPG Geek](https://rpggeek.com/rpgseries/48377/lankhmar-city-of-thieves)
     - Thieves' World: The city of Sanctuary, the Rankan Empire, 1981-86, 2005-07
         - System: Generic, Runequest 3rd, d20 system
         - [Wikipedia](https://en.wikipedia.org/wiki/Thieves'_World)
@@ -242,17 +249,19 @@ These tend to be essentially Megacities, which are expansive or even procedurall
         - [Wikipedia](https://en.wikipedia.org/wiki/Blades_in_the_Dark)
         - [RPG Geek](https://rpggeek.com/rpg/26952/blades-in-the-dark)
     - Spire, 2018
-        - The spire is a city
+        - The spire is a city with a focus on the players as Drow aiming to overthrow the city's oppressive societal structure.
         - [RPG Geek](https://rpggeek.com/rpg/43044/spire)
     - Kingdom, 2013
         - A game for creating kingdoms and their stories
         - Can be used with Microscope with some work, by the same author Ben Robbins.
         - [RPG Geek](https://rpggeek.com/rpgitem/143792/kingdom)
-    - His Majesty the Worm 2024--
-        - Features both procedural generation for mega dungeons and mega cities.
+    - His Majesty the Worm 2024
+        - Features some generation rules for dungeons and cities.
+            - Appendix D: City Generation using Tarot Cards
+            - Appendix E: Underworld Generation also using Tarot Cards
         - [RPG Geek](https://rpggeek.com/rpg/107191/his-majesty-the-worm)
     - [Bazaar of Lies](https://1pagedungeons.itch.io/urban-crawl),  2025
-        - One Page Dungeon urban heist crawl
+        - One Page Dungeon urban heist crawl focusing on a heist in a public marketplace
     - [A Games Master's Guide to The Free City of Dunromin](https://rpggeek.com/rpgitemversion/662923/revised-pdf)
     - [The Game Master's Book of Instant Towns and Cities](https://rpggeek.com/rpgitemversion/753612/pdf)
 - Cyberpunk
@@ -265,11 +274,10 @@ These tend to be essentially Megacities, which are expansive or even procedurall
 - Post-apocalyptic
     - The Quiet Year
         - [Wikipedia](https://en.wikipedia.org/wiki/The_Quiet_Year)
-        - Each player represents parts of a community and describes their everyday activities
+        - Each player represents parts of a community and describes their everyday activities.
 - Modern or Historic Fiction
     - [Village Dynasties](https://joshforjay.itch.io/village-dynasties)
-
-        - A small PbtA hack
+        - A small PbtA hack focused on the small lives of a family in a quiet village.
     - Various Call of Cthulhu adventures and settings
     - [Good Society](https://storybrewersroleplaying.com/good-society/?v=0b3b97fa6688), 2018
         - Jane Austen, Victorian drama
@@ -284,7 +292,7 @@ These tend to be essentially Megacities, which are expansive or even procedurall
         - A tragic fantasy tale of defending the northernmost city from its end.
 - Modern or Historic Fantasy
     - [Unincorporated](https://ethanharvey.itch.io/unincorporated), 2021-present
-        - small town drama
+        - petty small town drama
 - Slice of Life, Cozy
     - [Iron Valley](https://mkirin.itch.io/iron-valley)
         - a cozy solo RPG based on Iron Sworn with community integration
