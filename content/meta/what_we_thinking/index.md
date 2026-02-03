@@ -1,8 +1,12 @@
 +++
-title = "What Shall We Think About?"
+title = "What We Thinking?"
 date = 2026-02-03
 weight = 3
-path = "what-shall-we-think-about"
+path = "what-we-thinking"
+description = "What I'm thinking about and plans for the future!"
+
+[extra]
+image = "pexels-pixabay-355952_chalkboard_lighbulb.jpg"
 
 [taxonomies]
 tags = ["Meta", "Planning"]
@@ -17,22 +21,20 @@ In my daily life, I am a computer scientist.
 I research topics, analyze problems, design mathematical models & develop algorithmic solutions!
 Here, I will do the same for my hobbies, sharing more freeform thoughts that occur over time as I learn, and revising some pages as a wiki for the refined concepts.
 
-<!--
 <img
-    src="pexels-pixabay-355952_chalkboard_lighbulb.jpg"
-    alt="Ink sketch of Santa with sunglasses."
+    src="what-we-thinking/pexels-pixabay-355952_chalkboard_lighbulb_sml.jpg"
+    alt="Chalkboard with a real lightbulb within a drawn thought bubble."
     style="display:block; margin-left: auto; margin-right: auto;"
     loading="lazy"
     decoding="async"
 />
--->
 
 <!-- more -->
 
 ## Community Creative Events
 
 So far, my blog's content has mostly been for community blogging events, especially the [OSR Secret Santicorn](@/christmas_in_july_2025/index.md).
-My first post was a TTRPG adventure I made in three days for last year's Santicorn, and since then I've compiled a history of that event, wrote some more for past blog prompts, participated in Prismaticwastelands' [Merry Hexmas 2025](@/hexmas_2025/index.md), and hosted my own [Secret Sanitcorn in 2025](@/adventure_town/index.md).
+My [first post](@/the-elves-revolt.md) was a TTRPG adventure I made in three days for last year's Santicorn, and since then I've compiled a history of that event, wrote some more for past blog prompts, participated in Prismaticwastelands' [Merry Hexmas 2025](@/hexmas_2025/index.md), and hosted my own [Secret Sanitcorn in 2025](@/adventure_town/index.md).
 I also have more unpublished responses to undelivered present's of Christmas' past worth sharing after a polish (I'm looking at you, 1d12 of Cyborg Angels).
 
 This year, I intend to continue to regularly participate in community blog events and even host my own.
@@ -120,24 +122,28 @@ The things I do with this website or in general as a level above the main things
 - update website theme/style to something custom and clean
 - add useful functionality to website,
     - meta tag feed under About, so it serves as a "now" page too.
-    - Comments on site somehow, as independent yet cross platform as possible. I have a [subreddit](https://www.reddit.com/r/ErrantThinking/) for this purpose for now, if you're interested to discuss these blog posts.
+    - Comments on site somehow, as independent yet cross platform as possible. I have a [subreddit](https://www.reddit.com/r/ErrantThinking/) for this purpose for now, if you're interested to discuss on the topics I'm writing about.
     - Newsletter eventually.
 - properly setup tag system for Atom/RSS
     - Feeds already exist but may change unless I can keep em as is.
     - I have programmer and design thoughts on tags and how they are terrific. Worth a blog post, perhaps more about "blogging" or "technology" than meta.
 
 ### 3. Writing and Philosophy
+
+Science and technology could get jostled up in priority on a whim.
+
 - On writing, I have thoughts on the information contained within --or, more interestingly,  _not_ contained within--  a __poem__, or the various meanings of __idioms__.
 - I have long had thoughts about [self-reflection](@/self-reflection/index.md), especially around November--New Years.
 ### 4. Science & Technology
 - No idea atm. I know I can talk about probability & statistics and modeling problems.  That will probably occur throughout my other interests.
 - I was considering some Hydroponics experiments late last summer, but I messed up growing the seedlings. RIP.
 
-### 5. Other:  I also want to include some recipes, which I've already [snuck a couple in a prior post](@/roadside_inns/index.md#1-moss-dragon-inn).
+### 5. Other:
 
-Science and technology could get jostled up in priority on a whim.
-Although, this is my current intent, and hopefully the act of listing it out will  give me some form of accountability to eventually deliver that which I either am or wish to be creating.
+I also want to include some recipes, which I've already [snuck a couple in a prior post](@/roadside_inns/index.md#1-moss-dragon-inn).
 
 ## Join in on the Fun!
 
-Thanks for reading. If you want to follow along or perhaps even join me on my creative endeavors, feel free to reach out on your choice of social media!
+This is my current intent, and hopefully the act of listing it out will  give me some form of accountability to eventually deliver that which I either am or wish to be creating.
+
+Thanks for reading. If you want to follow along or perhaps even join me on my creative endeavors, feel free to reach out on your choice of social media! I'm `ErrantThinking` everywhere. :]
