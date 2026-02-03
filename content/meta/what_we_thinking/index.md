@@ -21,6 +21,9 @@ In my daily life, I am a computer scientist.
 I research topics, analyze problems, design mathematical models & develop algorithmic solutions!
 Here, I will do the same for my hobbies, sharing more freeform thoughts that occur over time as I learn, and revising some pages as a wiki for the refined concepts.
 
+
+<!-- more -->
+
 <img
     src="pexels-pixabay-355952_chalkboard_lighbulb_sml.jpg"
     alt="Chalkboard with a real lightbulb within a drawn thought bubble."
@@ -28,8 +31,6 @@ Here, I will do the same for my hobbies, sharing more freeform thoughts that occ
     loading="lazy"
     decoding="async"
 />
-
-<!-- more -->
 
 ## Community Creative Events
 
