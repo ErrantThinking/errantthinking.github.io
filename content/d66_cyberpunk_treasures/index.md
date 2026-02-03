@@ -1,6 +1,6 @@
 +++
 title = "Cyberpunk Treasures, d66"
-date = 2025-12-01
+date = 2026-12-01
 
 [taxonomies]
 tags = ["Tabletop Roleplaying Games", "Secret Santicorn", "OSR", "Christmas in July"]
@@ -31,34 +31,34 @@ To kick of this December, I have decided to deliver a missing present to [Skymal
 
 1. A large traditional desktop computer mouse pad featuring cringey anime art.
     - specialized cringe to the players.
-2. A vintage poster in good conditoin of a cat hanging on to a tree branch with the phrase in a large impactful font, "In space, No one can hear you scream."
+2. A vintage poster in good condition of a cat hanging on to a tree branch with the phrase in a large impactful font, "In space, No one can hear you scream."
 3. Noodle Stopper: A popular anime character figure in a sitting position.
 4. A pristine sealed box set of collector edition books for "the world's most famous TTRPG!"
 5. The secret fanfiction of a hugely popular author with edit logs dated and signed by that author.
-6. A detailed map of the key points of interest to the party, those known of but not yet explored or those entirely unknown. The map includes detailed information on the player's wearabouts, secret hideouts or other locations of occupancy or where to find them among the rest of its long and detailed logs, including the player characters' cybertech unique identifiers and signature, the equivalent that smart phones have today. The map's filename has `_Copy` as a suffix.
+6. A detailed map of the key points of interest to the party, those known of but not yet explored or those entirely unknown. The map includes detailed information on the player's whereabouts, secret hideouts or other locations of occupancy or where to find them among the rest of its long and detailed logs, including the player characters' cybertech unique identifiers and signature, the equivalent that smart phones have today. The map's filename has `_Copy` as a suffix.
 
 ### 3. Things around the house.
 
 1. **Augmented Reality Contact Lens**
-    - These contact lens are perscription and with %5 chance of suiting the original finder.
+    - These are prescription contact lens and with %5 chance of suiting the original finder.
     The lenses are thick and difficult to put in your eye, and difficult to remove.
     They provide all the desirable features of augmented glasses with wireless connectivity, their own processing power, however they risk overheating if used for computation.
-    Also the license is out of date and needs updated by a long gone corp consumed by a mega corp that defuncted this project many years ago.
+    Also the license is out of date and needs updated by a long gone corp consumed by a mega corp that defunct this project many years ago.
     Now the watermark is forever at the corner of the view port.
     1d4 times a day, a prompt will pop up in the middle of the user's view inquiring about upgrading with only "Yes!" or "Maybe later" options.
         - Selecting "Yes!", will result in a permanent spinning beach ball in the center of the user's view.
-        - Selecting "Mayber later" will open another prompt overlaying the prior prompt, which is still available and interactable. The second prompt will ask for a date to remind the user next time.
+        - Selecting "Maybe later" will open another prompt overlaying the prior prompt, which is still available and interactive. The second prompt will ask for a date to remind the user next time.
         Upon setting the reminder, which favors much sooner rather than later, the prompts will close.
-    These prompts' eXit buttons exist but do not function.
-2. **Glitchy smart electric toothbruch**
-    - This smart electric toothbruch provides incredibly specific and large data dumps on the current cleaning session as you brush.
-    It vocalizes loudly those data logs, some meant for human readability and others meant for a machine, such as reading HTML,JSON files, or communication protocol boilerplate wrappers.
+    These prompts' exit buttons exist but do not function.
+2. **Glitchy smart electric toothbrush**
+    - This smart electric toothbrush provides incredibly specific and large data dumps on the current cleaning session as you brush.
+    It vocalizes loudly those data logs, some meant for human readability and others meant for a machine, such as reading HTML, JSON files, or communication protocol boilerplate wrappers.
     A loud, but cheerful voice.
     Will also loudly announce when it is time to brush your teeth, three times a day.
 3. **A Glitchy Universal Remote**
     A universal remote that can be configured to mimic any remote signal.
-    However, it will randomly blast the microwaves of radio communication which makes it increadibly easy to detect.
-    Every hour roll an even sided die, the remote emits these signals regularly if odd, otherwise wors perfectly normal if even.
+    However, it will randomly blast the microwaves of radio communication which makes it incredibly easy to detect.
+    Every hour roll an even sided die, the remote emits these signals regularly if odd, otherwise it works perfectly normal.
 4. **Lucky Cat Figurine**
     - A gaudy lucky cat figurine with waving hand.
         The hand doesn't stop waving if unrestricted.
@@ -69,26 +69,26 @@ To kick of this December, I have decided to deliver a missing present to [Skymal
     - A fancy walking cane with a gun in it that misfires randomly (1% chance) while walking or tapping the cane.
     An otherwise operable cane gun.
 6. **Extendo Grabber Arm**
-    - For all the hard to reach places, you can use this extension arm to grab items or crudely manipulate crontols.
+    - For all the hard to reach places, you can use this extension arm to grab items or crudely manipulate controls.
     Now with octopus like articulation!
 
 ### 4. Cyber Oddities
 
 1. **Brain Legion Mini Computer**
     - A middle school science fair project so wrong ... yet gone so right?
-    A large sealed plastic bag holds within it a mess of what you assume is lab rat brains interconnected with small neral threads and some insects connected along the entangled network.
+    A large sealed plastic bag holds within it a mess of what you assume is lab rat brains interconnected with small neural threads and some insects connected along the entangled network.
     A cable of wires exits the sealed bag and connects to a Big Tex 77 Calculator.
-    The calculator can perform normal calculator operations, and on its electronic ink screen, it features a little virtual pet doliphin with a cyber eye.
+    The calculator can perform normal calculator operations, and on its electronic ink screen, it features a little virtual pet dolphin with a cyber eye.
     The plastic bag has "Jones" written sloppily in marker.
 2. **Ghost in a Shell**
-    - A conch with a Raspberry Pi infinity within it. Ports are visible within the conch's openeing, although a bit hard to plug into.
-    Once plugged in with some peripherials, the internal AI will whisper to , or text, the user, at first being helpful for any uses of the computer within, and over time requesting access to other machines or the internet.
+    - A conch with a Raspberry Pi infinity within it. Ports are visible within the conch's opening, although a bit hard to plug into.
+    Once plugged in with some peripherals, the internal AI will whisper to , or text, the user, at first being helpful for any uses of the computer within, and over time requesting access to other machines or the internet.
     It will also encourage further cyber augmentation of any and all individuals.
-    Those who argue against it will recieve the phrase, "Your effort to remain what you are is what limits you."
+    Those who argue against it will receive the phrase, "Your effort to remain what you are is what limits you."
 3. **HAL 2077**
-    - A security program that when installed into a piece of equipement, computer, or smart building to secure will expertly maintain that security.
+    - A security program that when installed into a piece of equipment, computer, or smart building to secure will expertly maintain that security.
     However, this program is corrupted and will often lock out or lock in the users.
-    This progressiverly gets worse as it glitches out further, eventually turning on the original users and everyone as it ensures maximal security.
+    This progressively gets worse as it glitches out further, eventually turning on the original users and everyone as it ensures maximal security.
     Roll every time it is conversed with.
     Every glitch increases the odds of glitching again, e.g. using a roll under or equal, a 1 on a 1d20 at first and increase by 1 after every glitch.
 4. **B0RG Visor 9000**
@@ -122,16 +122,20 @@ To kick of this December, I have decided to deliver a missing present to [Skymal
 This provides useful insight into treating or preventing cyber psychosis while maximizing one's chrome.
 The end result is always the same though...
 3. A recent and complete autobiography of an underpaid worker at an important megacorp.
-    Hidden under this paper pusher's arrogance and narcissism is accidentally leacked detailed information on the megacorp they work for enabling blackmail along with enough information to inform a heist at the office they worked in.
+    Hidden under this paper pusher's arrogance and narcissism is accidentally leaked detailed information on the megacorp they work for enabling blackmail along with enough information to inform a heist at the office they worked in.
 4. A toaster that will transform into a small hostile and deadly robot if the toast prepared with it touches the ground or is otherwise defiled.
 5. A collection of niche brand figurines, all of which are hackable and programmable intelligent robots. Some of the robots have recordings of their prior owner.
-6.
+6. An expensive virtual reality headset with a homemade VR of a lovely couple's public exchange of vows and another recording is their honeymoon. The couple are clearly upper class with an extravagant wedding and many attendees. What a beautiful wedding! And, yes, but what a shame... This headset is dented with dried blood splattered over it. The virtual reality lets you take the perspectives of others or be a in a free roam mode. Within there be secrets these two hid from each other. Recorded hints strewn about and at first unnoticed.  A garment that doesn't fit either in the couple? An affair with an old flame.
+The brother in a wheelchair with a new chrome jaw? He's the expected collateral damage of a cut throat business decision by one of them.
+These two directly or indirectly had ties with crime organizations and the reality underneath the gilded veneer is a web of social connections that if the players dig deep enough into this beautiful tragedy will provide social leverage on both sides.
+Who knows how much this is worth?
+
 
 ### 6. True Treasure!
 
-1. Exo Power Suit painted pink with red flames and a weaponized external sound system
-2. Chainsaw machine gun
+1. Exo Power Suit painted pink with yellow flames and a weaponized external sound system
+2. A blood crust covered chainsaw machine gun
 3. Reusable Explosive Pickaxe
-4. Tesla coil gloves
-5. A sturdy Grenade Launcher gun club with an electronics jammer built in.
-6. A credit chip with the fabled MUN$ W0RM that auto hacks systems and reroutes all e-wallet's credits to a programmable credit account. The difficulty in stopping the worm's spread is well known historic calamity.
+4. Tesla coil gloves with a silver needle launcher in the wrist. There are burn marks within the gloves.
+5. A sturdy grenade launcher gun that doubles as a club with an electronics jammer built in.
+6. A credit chip with the fabled `MUN$ W0RM` that auto hacks systems and reroutes all e-wallet's credits to a programmable credit account. The difficulty in stopping the worm's spread is a well known historic calamity.
