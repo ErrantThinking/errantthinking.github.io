@@ -6,7 +6,7 @@ path = "what-we-thinking"
 description = "What I'm thinking about and plans for the future!"
 
 [extra]
-image = "pexels-pixabay-355952_chalkboard_lighbulb.jpg"
+image = "some-of-my-favorite-things.jpg"
 
 [taxonomies]
 tags = ["Meta", "Planning"]
@@ -82,6 +82,17 @@ TTRPGs have been a love of mine since I was young and I recently delved deeper i
 
 Truly a great creative outlet.
 Perhaps best of all, I get to have fun with my friends and the lovely community of TTRPG designers!
+
+<img
+    src="what-we-thinking/some-of-my-favorite-things.jpg"
+    alt="A top down view of a table with two rows of books from left to right with the first row including 'Mothership', 'Arc', and 'Wanderhome', and then on the second row 'The Wind in the Willows', 'Monsters, Aliens, and Holes in the Ground', and 'His Majesty the Worm'. Several large foam polyhedral dice are strewn atop with an actual set of metal polyhedral dice and two transparent d6 dice with skulls and weapons in them."
+    style="display:block; margin-left: auto; margin-right: auto;"
+    loading="lazy"
+    decoding="async"
+/>
+<p style="text-align:center;">
+Some of my favorite things.
+</p>
 
 ## Current Priorities
 
