@@ -22,7 +22,7 @@ I research topics, analyze problems, design mathematical models & develop algori
 Here, I will do the same for my hobbies, sharing more freeform thoughts that occur over time as I learn, and revising some pages as a wiki for the refined concepts.
 
 <img
-    src="what-we-thinking/pexels-pixabay-355952_chalkboard_lighbulb_sml.jpg"
+    src="pexels-pixabay-355952_chalkboard_lighbulb_sml.jpg"
     alt="Chalkboard with a real lightbulb within a drawn thought bubble."
     style="display:block; margin-left: auto; margin-right: auto;"
     loading="lazy"
@@ -84,7 +84,7 @@ Truly a great creative outlet.
 Perhaps best of all, I get to have fun with my friends and the lovely community of TTRPG designers!
 
 <img
-    src="what-we-thinking/some-of-my-favorite-things.jpg"
+    src="some-of-my-favorite-things.jpg"
     alt="A top down view of a table with two rows of books from left to right with the first row including 'Mothership', 'Arc', and 'Wanderhome', and then on the second row 'The Wind in the Willows', 'Monsters, Aliens, and Holes in the Ground', and 'His Majesty the Worm'. Several large foam polyhedral dice are strewn atop with an actual set of metal polyhedral dice and two transparent d6 dice with skulls and weapons in them."
     style="display:block; margin-left: auto; margin-right: auto;"
     loading="lazy"
@@ -122,7 +122,7 @@ My biggest being Small Souls and the underlying game system, which you'll hear m
     - **Affinity Divined** : A Tarot card based retroactive story telling game inspired by For the Queen and Decuma for world building and backstories.
     - Loose Ideas: Mecha Game, Cyberpunk game (Cyber Souls).
 - My own settings / adventures:
-    - **The Hunt of Jolnir** : An epic Christmas folklore adventure.
+    - **The Hunt of Jolnir** : An epic Christmas folklore adventure as a refinement of my [original adventure](@/the-elves-revolt.md).
     - **Ophelos**: A medieval fantasy island setting inspired by Hellenistic and maybe Mediterranean folklore.
         - "*The Verdant Voyager*" : a seafaring adventure on the way to Ophelos.
     - **The Rawring Twenties**: A cyberpunk setting inspired by 1920s class meets 2020s brain rot (and older 2000s memes lol)
