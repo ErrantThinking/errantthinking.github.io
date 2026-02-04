@@ -21,7 +21,6 @@ In my daily life, I am a computer scientist.
 I research topics, analyze problems, design mathematical models & develop algorithmic solutions!
 Here, I will do the same for my hobbies, sharing more freeform thoughts that occur over time as I learn, and revising some pages as a wiki for the refined concepts.
 
-
 <!-- more -->
 
 <img
@@ -124,7 +123,7 @@ My biggest being Small Souls and the underlying game system, which you'll hear m
     - Loose Ideas: Mecha Game, Cyberpunk game (Cyber Souls).
 - My own settings / adventures:
     - **The Hunt of Jolnir** : An epic Christmas folklore adventure as a refinement of my [original adventure](@/the-elves-revolt.md).
-    - **Ophelos**: A medieval fantasy island setting inspired by Hellenistic and maybe Mediterranean folklore.
+    - **Ophelos**: A sword & sorcery fantasy island setting inspired by Hellenistic and maybe Mediterranean folklore.
         - "*The Verdant Voyager*" : a seafaring adventure on the way to Ophelos.
     - **The Rawring Twenties**: A cyberpunk setting inspired by 1920s class meets 2020s brain rot (and older 2000s memes lol)
 - A TTRPG blogosphere quickstart guide, esp. for a TTRPG game designer. This will essentially be an annotated sign post to map out useful concepts across the web.
