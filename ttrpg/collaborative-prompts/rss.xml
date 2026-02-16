@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Errant Thinking - Collaborative Prompts</title>
+      <link>https://errantthinking.com</link>
+      <description>Asking insightful questions. Seeking thoughtful answers.</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://errantthinking.com/ttrpg/collaborative-prompts/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Thu, 31 Jul 2025 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Granny Jam</title>
+          <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+          <author>Errant Thinking</author>
+          <link>https://errantthinking.com/granny-jam/</link>
+          <guid>https://errantthinking.com/granny-jam/</guid>
+          <description xml:base="https://errantthinking.com/granny-jam/">&lt;p&gt;In the &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;tsJ93PyuJH&quot;&gt;NSR Cauldron Discord&lt;&#x2F;a&gt;, I wrote a community prompt in hopes that I could get a community effort to characterize Granny Jam, a character I made up who specializes in creating magical jams and jellies.
+Under the pretense of creating magical jam and jelly items coupled with sharing stories of a time when Granny Jam used those jams, I was hoping we would discover the emergent character of Granny Jam and come to a better understanding of who she is as more people shared (made up) stories about her and her wares.&lt;&#x2F;p&gt;
+&lt;p&gt;It never took off, but I do love the initial concept of Granny Jam and this idea for emergent characters from collaborative prompts.
+I wanted to share her here, at least through what I originally wrote up for the collaborative prompts.&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>

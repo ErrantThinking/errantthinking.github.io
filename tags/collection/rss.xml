@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Errant Thinking - Collection</title>
+      <link>https://errantthinking.com</link>
+      <description>Asking insightful questions. Seeking thoughtful answers.</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://errantthinking.com/tags/collection/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sun, 04 Jan 2026 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>The Town is the Adventure</title>
+          <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+          <author>Errant Thinking</author>
+          <link>https://errantthinking.com/adventure-town/</link>
+          <guid>https://errantthinking.com/adventure-town/</guid>
+          <description xml:base="https://errantthinking.com/adventure-town/">&lt;p&gt;Settlements often serve as a safe haven or a base of operations in traditional roleplaying games, with cities being the most common place for an adventure to occur in a settlement.
+&lt;em&gt;What about smaller settlements?&lt;&#x2F;em&gt;
+As part of the &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;discourse.rpgcauldron.com&#x2F;t&#x2F;rpg-cauldron-secret-santicorn-2025&#x2F;3365&quot;&gt;RPG Cauldron Secret Santicorn&lt;&#x2F;a&gt; I&#x27;m hosting in 2025, which is separate from the typical Rainbow OSR Secret Santicorn, I received a request by &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;sultansmusings.bearblog.dev&#x2F;&quot;&gt;Sully Tames&lt;&#x2F;a&gt; to explore making the settlement itself the adventure site.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;the-request&quot;&gt;The Request&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The town&#x2F;settlement as an adventure site in itself. What if you never had to leave the tavern to go on an adventure?&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Alright! This is a good one that lets me use my research skills to understand what already exists out there and then provide some analysis of patterns and ways to make the adventure stay in a confined location.
+I use &quot;settlement&quot; to include a single more permanent building than a campsite in the smallest scale and a city in the largest scale.&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>

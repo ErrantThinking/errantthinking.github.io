@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Errant Thinking - Collection</title>
+    <subtitle>Asking insightful questions. Seeking thoughtful answers.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://errantthinking.com/ttrpg/collection/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://errantthinking.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2026-01-04T00:00:00+00:00</updated>
+    <id>https://errantthinking.com/ttrpg/collection/atom.xml</id>
+    <entry xml:lang="en">
+        <title>The Town is the Adventure</title>
+        <published>2026-01-04T00:00:00+00:00</published>
+        <updated>2026-01-04T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Errant Thinking
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://errantthinking.com/adventure-town/"/>
+        <id>https://errantthinking.com/adventure-town/</id>
+        
+        <summary type="html">&lt;p&gt;Settlements often serve as a safe haven or a base of operations in traditional roleplaying games, with cities being the most common place for an adventure to occur in a settlement.
+&lt;em&gt;What about smaller settlements?&lt;&#x2F;em&gt;
+As part of the &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;discourse.rpgcauldron.com&#x2F;t&#x2F;rpg-cauldron-secret-santicorn-2025&#x2F;3365&quot;&gt;RPG Cauldron Secret Santicorn&lt;&#x2F;a&gt; I&#x27;m hosting in 2025, which is separate from the typical Rainbow OSR Secret Santicorn, I received a request by &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;sultansmusings.bearblog.dev&#x2F;&quot;&gt;Sully Tames&lt;&#x2F;a&gt; to explore making the settlement itself the adventure site.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;the-request&quot;&gt;The Request&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The town&#x2F;settlement as an adventure site in itself. What if you never had to leave the tavern to go on an adventure?&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Alright! This is a good one that lets me use my research skills to understand what already exists out there and then provide some analysis of patterns and ways to make the adventure stay in a confined location.
+I use &quot;settlement&quot; to include a single more permanent building than a campsite in the smallest scale and a city in the largest scale.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Errant Thinking - Philosophy</title>
+      <link>https://errantthinking.com</link>
+      <description>Asking insightful questions. Seeking thoughtful answers.</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://errantthinking.com/tags/philosophy/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Tue, 02 Dec 2025 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>New Year&#x27;s Self-Reflection: Resolutions Revolutionized</title>
+          <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+          <author>Errant Thinking</author>
+          <link>https://errantthinking.com/self-reflection/</link>
+          <guid>https://errantthinking.com/self-reflection/</guid>
+          <description xml:base="https://errantthinking.com/self-reflection/">&lt;p&gt;New Year&#x27;s Resolutions are ephemeral.
+Self-reflections chart your course for a journey.
+Let&#x27;s revolutionize our resolutions with purposeful reflection.&lt;&#x2F;p&gt;
+&lt;p&gt;Around late November to after New Year&#x27;s Day is a time of purposeful reflection for my friends and I.
+We dedicate time to consider what we are thankful for, the difficulties we&#x27;ve faced, our achievements, where we are, and where we choose to go in the new year.
+All this with an ample amount of answering the question, &quot;Why?&quot;!
+We&#x27;ve been self-reflecting and discussing every new year for the past three years, making this upcoming new year our fourth.&lt;&#x2F;p&gt;
+&lt;p&gt;I want to share our process with you.&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
