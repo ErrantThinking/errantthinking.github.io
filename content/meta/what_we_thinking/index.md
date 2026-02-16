@@ -33,8 +33,8 @@ Here, I will do the same for my hobbies, sharing more freeform thoughts that occ
 
 ## Community Creative Events
 
-So far, my blog's content has mostly been for community blogging events, especially the [OSR Secret Santicorn](@/christmas_in_july_2025/index.md).
-My [first post](@/the-elves-revolt.md) was a TTRPG adventure I made in three days for last year's Santicorn, and since then I've compiled a history of that event, wrote some more for past blog prompts, participated in Prismaticwastelands' [Merry Hexmas 2025](@/hexmas_2025/index.md), and hosted my own [Secret Sanitcorn in 2025](@/adventure_town/index.md).
+So far, my blog's content has mostly been for community blogging events, especially the [OSR Secret Santicorn](@/community/santicorn/christmas_in_july_2025/index.md).
+My [first post](@/community/santicorn/the-elves-revolt.md) was a TTRPG adventure I made in three days for last year's Santicorn, and since then I've compiled a history of that event, wrote some more for past blog prompts, participated in Prismaticwastelands' [Merry Hexmas 2025](@/community/hexmas/hexmas_2025/index.md), and hosted my own [Secret Sanitcorn in 2025](@/community/santicorn/adventure_town/index.md).
 I also have more unpublished responses to undelivered present's of Christmas' past worth sharing after a polish (I'm looking at you, 1d12 of Cyborg Angels).
 
 This year, I intend to continue to regularly participate in community blog events and even host my own.
@@ -122,7 +122,7 @@ My biggest being Small Souls and the underlying game system, which you'll hear m
     - **Affinity Divined** : A Tarot card based retroactive story telling game inspired by For the Queen and Decuma for world building and backstories.
     - Loose Ideas: Mecha Game, Cyberpunk game (Cyber Souls).
 - My own settings / adventures:
-    - **The Hunt of Jolnir** : An epic Christmas folklore adventure as a refinement of my [original adventure](@/the-elves-revolt.md).
+    - **The Hunt of Jolnir** : An epic Christmas folklore adventure as a refinement of my [original adventure](@/community/santicorn/the-elves-revolt.md).
     - **Ophelos**: A sword & sorcery fantasy island setting inspired by Hellenistic and maybe Mediterranean folklore.
         - "*The Verdant Voyager*" : a seafaring adventure on the way to Ophelos.
     - **The Rawring Twenties**: A cyberpunk setting inspired by 1920s class meets 2020s brain rot (and older 2000s memes lol)
@@ -151,7 +151,7 @@ Science and technology could get jostled up in priority on a whim.
 
 ### 5. Other:
 
-I also want to include some recipes, which I've already [snuck a couple in a prior post](@/roadside_inns/index.md#1-moss-dragon-inn).
+I also want to include some recipes, which I've already [snuck a couple in a prior post](@/community/santicorn/roadside_inns/index.md#1-moss-dragon-inn).
 
 ## Join in on the Fun!
 
