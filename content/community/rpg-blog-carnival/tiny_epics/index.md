@@ -52,8 +52,9 @@ As this month's host, I want to hear all about your
 - **Designs**
     - Recommendations for playing smaller creatures in our natural world.
     - How can we capture that David vs Goliath experience or that Shadow of the Colossus boss battle?
+        - What of the lowly souls who live under fearsome gods?
     - Take your typical adventure and consider how smaller creatures could solve it.
-        How could a mouse fell a dragon? What about a vampire lord?
+        - How could a mouse fell a dragon? What about a vampire lord?
     - What is a world like with sentient creatures both small and large? Do their societies intermingle?
 
 Or anything else you can think of that pertains to being or feeling small or large! Create it and share it and let's have some fun.
