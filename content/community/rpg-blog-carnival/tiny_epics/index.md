@@ -153,7 +153,7 @@ Arthur Rackham's illustration from
 
 Simply write up a blog post this March and link back to here!
 Then share it with me on your preferred communication channel, such as social media.
-I currently don't have a comment section, so feel free to comment on [this post in my subreddit](https://www.reddit.com/r/ErrantThinking/).
+I currently don't have a comment section, so feel free to comment on [this post in my subreddit](https://www.reddit.com/r/ErrantThinking/comments/1rhxvpf/tiny_epics_small_souls_in_a_big_world/).
 Otherwise use whatever you want.
 I'm `ErrantThinking` everywhere. Feel free to `@` me.
 
