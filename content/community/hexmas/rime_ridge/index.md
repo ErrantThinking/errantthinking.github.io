@@ -9,7 +9,7 @@ image = "pexels-eberhardgross-19779482_sml.jpg"
 
 [taxonomies]
 tags = ["Tabletop Roleplaying Games", "Hexmas", "OSR", "Blog Bandwagon"]
-ttrpg = ["Hexmas"]
+ttrpg = ["Hexmas", "Blog Bandwagon"]
 +++
 
 As part of [Prismatic Wasteland's Rankin/Bass-themed 2025 Merry Hexmas](@/community/hexmas/hexmas_2025/index.md), I present
