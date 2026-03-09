@@ -113,7 +113,7 @@ The children's books written and illustrated by [Beatrix Potter](https://en.wiki
         - Sequel: Bambi's Children 1939
     - [Fifteen Rabbits](https://en.wikipedia.org/wiki/Redwall) 1929:
     - Perri: The Youth of a Squirrel 1923
-- Guardians of Ga'Hoole
+- [Guardians of Ga'Hoole](https://en.wikipedia.org/wiki/Guardians_of_Ga%27Hoole)
 - Gulliver's Travels 1728 satirical prose novel by Anglo-Irish writer & clergyman Jonathan Swift
     - Introduced the Liliputians for the first time
 - [The Littles](https://en.wikipedia.org/wiki/The_Littles) by John Peterson in 1967:
@@ -122,17 +122,17 @@ The children's books written and illustrated by [Beatrix Potter](https://en.wiki
 - "[The Mouse and the motorcycle](https://en.wikipedia.org/wiki/Redwall)" by Beverly Cleary in 1965 :
 - [Mouseheart](https://en.wikipedia.org/wiki/Watership_Down) by Lisa Fielder 2014-2015
 - [Redwall](https://en.wikipedia.org/wiki/Redwall) series by Brian Jacques 1986-2011
-- The Rescuers 1959 Margery Sharp. Disney film 1977.
+- [The Rescuers](https://en.wikipedia.org/wiki/The_Rescuers_(book)) 1959 Margery Sharp. Disney film 1977.
     - Sequel "Miss Bianca" 1962
     - Sequel film "The Rescuers Down Under" 1990
-- The Secret of NIMH
+- "Mrs. Frisby and the Rats of NIMH", which The Secret of NIMH was based on
     - Had a Direct-to-video sequel Dec 2, 1998 "The Secret of NIMH 2: Timmy to the Rescue"
         - Poor reception. "C- grade".
     - There were books, which in classic book-to-film-adaptation fashion, much was lost in the adapatation.
-        - [1971 book](https://en.wikipedia.org/wiki/Watership_Down) by Robert C. O'Brien
+        - [1971 book](https://en.wikipedia.org/wiki/Mrs._Frisby_and_the_Rats_of_NIMH) by Robert C. O'Brien
         - [sequel](https://en.wikipedia.org/wiki/Racso_and_the_Rats_of_NIMH)
-- The Spiderwick Chronicles for small fairies. 2003.
-- Stuart Little 1945 novel by E. B. White, which the 1999 film was inspired from.
+- [The Spiderwick Chronicles](https://en.wikipedia.org/wiki/The_Spiderwick_Chronicles) for small fairies. 2003.
+- [Stuart Little](https://en.wikipedia.org/wiki/Stuart_Little) 1945 novel by E. B. White, which the 1999 film was inspired from.
 - The Tale of Desperaux by Kate DiCamillo
     - Has a film & a video game
 - Terry Pratchet
@@ -140,7 +140,7 @@ The children's books written and illustrated by [Beatrix Potter](https://en.wiki
         - [Wee Mad Arthur](https://en.wikipedia.org/wiki/Watership_Down) 1989-2011
     - The Nome Trilogy (The Bromeliad Trilogy)
     - The Carpet People, where carpet hair is as large as a tree
-- Warrior Cats
+- [Warrior Cats](https://en.wikipedia.org/wiki/Warriors_(novel_series))
 - [Watership down](https://en.wikipedia.org/wiki/Watership_Down)
     - Similar works
         - [The Constant Rabbit](https://en.wikipedia.org/wiki/The_Wind_in_the_Willows) 2020 sci-fi by Jasper Fforde (English)
@@ -152,7 +152,6 @@ The children's books written and illustrated by [Beatrix Potter](https://en.wiki
 ## Sequential Art
 ### Comics
 - The Adventures of Peter Wheat by Walt Kelly 1948-1956
-- Blacksad
 - [The Bird feeder](https://thebirdfeeder.com/)
 - [Breaking Cat News](https://www.breakingcatnews.com/)
 - Mutts
@@ -322,4 +321,4 @@ Some of their little folk trope pages:
     - > I made this list because I love stories of little people interacting with objects made for larger people (e.g. Thumbelina's cot is a walnut shell and the Borrowers use thimbles for cups and live in walls) and was hoping the Goodreads community would add some similar stories as recommendations.
       > - by Diana
 - year 2000s onwards [books including anthropomorphism](https://writingatlas.com/tag/anthropomorphism/)
-- [Scholastic teachers' top 100](https://brookletgames.itch.io/beetle-knight-quickstart) chapter books poll, will include anthropomorphic animals
+- [Scholastic teachers' top 100](https://web.archive.org/web/20120713031015/http://blog.schoollibraryjournal.com/afuse8production/2012/07/07/top-100-chapter-book-poll-results) chapter books poll, will include anthropomorphic animals
