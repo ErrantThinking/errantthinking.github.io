@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Errant Thinking - Blog Bandwagon</title>
+      <link>https://errantthinking.com</link>
+      <description>Asking insightful questions. Seeking thoughtful answers.</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://errantthinking.com/ttrpg/blog-bandwagon/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Tiny Epics: Small Souls in a Big World!</title>
+          <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+          <author>Errant Thinking</author>
+          <link>https://errantthinking.com/tiny-epics/</link>
+          <guid>https://errantthinking.com/tiny-epics/</guid>
+          <description xml:base="https://errantthinking.com/tiny-epics/">&lt;p&gt;The small ones among us are sometimes overlooked, but they surely have grand tales to tell! This March, let&#x27;s explore these tiny epics for the
+&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;ofdiceanddragons.com&#x2F;rpg-blog-carnival&#x2F;&quot;&gt;RPG Blog Carnival&lt;&#x2F;a&gt;.
+This is a community event, so we&#x27;ll ponder some ideas for this theme, then get to creating and start some discussion!
+Share your creations with me early and I&#x27;ll do weekend updates along with a final roundup on March 31st.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>The Rime Ridge</title>
+          <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+          <author>Errant Thinking</author>
+          <link>https://errantthinking.com/rime-ridge/</link>
+          <guid>https://errantthinking.com/rime-ridge/</guid>
+          <description xml:base="https://errantthinking.com/rime-ridge/">&lt;p&gt;As part of &lt;a href=&quot;https:&#x2F;&#x2F;errantthinking.com&#x2F;hexmas-2025&#x2F;&quot;&gt;Prismatic Wasteland&#x27;s Rankin&#x2F;Bass-themed 2025 Merry Hexmas&lt;&#x2F;a&gt;, I present
+the Rime Ridge, a dense mountain range thick with fog that tends to freeze into hard rime ice upon all surfaces.
+An icey mist covered mountain range inspired by the Misty Mountains of Rankin&#x2F;Bass&#x27;s films 1977 &quot;The Hobbit&quot; and 1964 &quot;Rudolph&#x27;s Shiny New Year&quot;.&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>

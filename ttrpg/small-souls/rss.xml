@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Errant Thinking - Small Souls</title>
+      <link>https://errantthinking.com</link>
+      <description>Asking insightful questions. Seeking thoughtful answers.</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://errantthinking.com/ttrpg/small-souls/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sun, 08 Mar 2026 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>List of Little Folk Stories and Media</title>
+          <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+          <author>Errant Thinking</author>
+          <link>https://errantthinking.com/little-folk-media/</link>
+          <guid>https://errantthinking.com/little-folk-media/</guid>
+          <description xml:base="https://errantthinking.com/little-folk-media/">&lt;p&gt;This is a non-exhaustive collection of stories and media that features little folk, whether people or other creatures.
+I gathered this raw list in my notes due to my interest over the past year in creating my Tabletop Roleplaying Game, Small Souls, which is for telling adventures and scenarios within this genre.
+Knowing the different kinds of stories that already exist helps me keep in mind the different tales players may want to tell with the game system.
+This really is a genre in itself, which I didn&#x27;t fully appreciate prior to this proejct!
+I think that &quot;Little folk&quot; probably best describes it.&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
