@@ -278,6 +278,14 @@ Perhaps it will help you similarly.
 
 Perhaps for fun, I'll turn this into a table of entries with some categorization of their properties, instead of a list like this.
 
+<img
+    src="toad_map.jpg"
+    alt=""
+    style="display:block; margin-left: auto; margin-right: auto; width: 80%;"
+    loading="lazy"
+    decoding="async"
+/>
+
 ### Collaborative Collecting
 This list started from a small community discussion in the [NSR RPG Cauldron Discord](https://discourse.rpgcauldron.com/) back in mid January 2025.
 Some of these people includes
