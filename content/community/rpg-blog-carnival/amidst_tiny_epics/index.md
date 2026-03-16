@@ -13,7 +13,7 @@ ttrpg = ["RPG Blog Carnival", "Blog Bandwagon"]
 +++
 
 We're midway through March and already people have shared their creations for this month's RPG Blog Carnival on the theme "[Tiny Epics: Small Souls in a Big World!](@/community/rpg-blog-carnival/tiny_epics/index.md)".
-This community event is ongoing, and I wanted to discuss some people's published content as well as some discussion that have been happening around the internet.
+This community event is ongoing, and I wanted to discuss some people's published content as well as some discussion that has been happening around the internet.
 Share your creations with me early, and I'll do weekend updates in addition to the final roundup on March 31st.
 
 <!-- more -->
