@@ -8,8 +8,8 @@ description = "The small ones among us are sometimes overlooked, but they surely
 image = "squirrels_sneak_owl_shut-eyes_mice_in_talons_1600.jpg"
 
 [taxonomies]
-tags = ["Tabletop Roleplaying Games", "RPG Blog Carnival", "Blog Bandwagon"]
-ttrpg = ["RPG Blog Carnival", "Blog Bandwagon"]
+tags = ["Tabletop Roleplaying Games", "RPG Blog Carnival", "Blog Bandwagon", "Tiny Epics"]
+ttrpg = ["RPG Blog Carnival", "Blog Bandwagon", "Tiny Epics"]
 +++
 
 The small ones among us are sometimes overlooked, but they surely have grand tales to tell! This March, let's explore these tiny epics for the
@@ -84,13 +84,6 @@ There are various games out there already that explore this theme, such as the g
 - [Household](https://twolittlemice.net/household/) and its [quickstart](https://www.drivethrurpg.com/en/product/421014/household-quickstart) for little fairy or "boggart" adventures.
 
 If you're looking for more related media, I'll soon release a collection post of all the different little people stories, film, videogames, and other TTRPGs for your further inspiration and curiosity.
-
-<img
-    src=""
-    alt=""
-    style="display:block; margin-left: auto; margin-right: auto; width: 80%;"
-    decoding="async"
-/>
 
 <div style="display: flex">
 <div style="flex: 40%">

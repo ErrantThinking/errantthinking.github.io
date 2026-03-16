@@ -9,8 +9,8 @@ description = "A collection of stories and media that features little folk, whet
 image = "bpotter_mice_sew.jpg"
 
 [taxonomies]
-tags = ["Tabletop Roleplaying Games", "Small Souls", "Collection"]
-ttrpg = ["Small Souls", "Collection"]
+tags = ["Tabletop Roleplaying Games", "Small Souls", "Collection", "Tiny Epics"]
+ttrpg = ["Small Souls", "Collection", "Tiny Epics"]
 +++
 
 This is a non-exhaustive collection of stories and media that features little folk, whether people or other creatures.
@@ -58,9 +58,9 @@ The children's books written and illustrated by [Beatrix Potter](https://en.wiki
 - [Brambly Hedge](https://en.wikipedia.org/wiki/Brambly_Hedge) series by Jill Barklem since 1980-2020
 - [The Butterfly's Ball and the Grasshopper's Feast](https://en.wikipedia.org/wiki/The_Butterfly%27s_Ball,_and_the_Grasshopper%27s_Feast) 1802
     - poem 1802 and children's book 1973 based on the poem. 1974 animated short.
-- [Curious George](https://en.wikipedia.org/wiki/Curious_George)_
+- [Curious George](https://en.wikipedia.org/wiki/Curious_George)
 - [Geronimo Stilton](https://en.wikipedia.org/wiki/Geronimo_Stilton) by Elisabetta Dami in Feb 2004
-- If You Give a Mouse a Cookie and the following series.
+- [If You Give a Mouse a Cookie](https://en.wikipedia.org/wiki/If_You_Give_a_Mouse_a_Cookie) and the following series.
 - Lewis Carroll's "Alice in Wonderland" features shrinking Alice in her adventures in wonderland.
 - The Little Warranty People
     - which was the source of the adaptation [The Fixies](https://tvtropes.org/pmwiki/pmwiki.php/Animation/TheFixies)
@@ -98,7 +98,7 @@ The children's books written and illustrated by [Beatrix Potter](https://en.wiki
 - Animal Farm: A Fairy Story by George Orwell in 1945.
 - The Animals of Farthing Wood 1979 by Colin Dann (English)
 - [Arthur series](https://en.wikipedia.org/wiki/Arthur_(Besson_book_series)) 2002-2005
-- The Borrowers by English author Mary Norton in 1952
+- [The Borrowers](https://en.wikipedia.org/wiki/The_Borrowers_(novel)) by English author Mary Norton in 1952
 - The Brownies and the Goblins by N.M. Banta 1915
     - [Brownies and Bogles](https://tvtropes.org/pmwiki/pmwiki.php/Literature/Gnomes) late 19th century :
         - [some neat art](https://archive.org/details/browniesandbogle39782gut/39782-h/images/) from that book
