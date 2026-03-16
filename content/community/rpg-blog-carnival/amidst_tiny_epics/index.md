@@ -38,7 +38,7 @@ This discussion helped me realize the intrigue of *feeling* small when the rest 
 Velocitree shared some existing works with me that emphasize this perspective, which I had not known about.
 So I wanted to share them with you.
 
-- Luke Rejec's [Purple Worm 2012 One Page Dungeon](https://friendorfoe.com/d/One%20Page%20Dungeon/1PDC%202012/Luka%20Rejec%20%E2%80%93%20Deep%20in%20the%20Purple%20Worm.pdf)
+- Luka Rejec's [Purple Worm 2012 One Page Dungeon](https://friendorfoe.com/d/One%20Page%20Dungeon/1PDC%202012/Luka%20Rejec%20%E2%80%93%20Deep%20in%20the%20Purple%20Worm.pdf)
 - Gus L.'s 2015 "[Comes the Mountain](https://alldeadgenerations.blogspot.com/p/pdf-adventure-archives.html)" 4 page adventure idea, among others.
     - Another here pertaining to size is the "Lone Colossus of the Akolouthos Sink"
 - [Skerple's Roving Wheel One Page Dungeon](https://coinsandscrolls.blogspot.com/2018/08/osr-one-page-dungeon-roving-wheel.html)
