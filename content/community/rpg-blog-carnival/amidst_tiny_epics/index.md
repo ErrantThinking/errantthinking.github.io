@@ -2,7 +2,7 @@
 title = "Amidst Tiny Epics"
 date = 2026-03-15
 path = "amidst-tiny-epics"
-description = "An update on recent contributions to the Tiny Epic March RPG Blog Carnival and a discussion ideas."
+description = "An update on recent contributions to the Tiny Epic March RPG Blog Carnival and a brief discussion of ideas."
 
 [extra]
 image = "tittle_mouse_honey-dew.jpg"
@@ -13,7 +13,7 @@ ttrpg = ["RPG Blog Carnival", "Blog Bandwagon"]
 +++
 
 We're midway through March and already people have shared their creations for this month's RPG Blog Carnival on the theme "[Tiny Epics: Small Souls in a Big World!](@/community/rpg-blog-carnival/tiny_epics/index.md)".
-This community event is ongoing, and I wanted to discuss some people's published content as well as some discussion that has been happening around the internet.
+This community event is ongoing, and I wanted to discuss some people's published content as well as some discussion that occurred around the internet.
 Share your creations with me early, and I'll do weekend updates in addition to the final roundup on March 31st.
 
 <!-- more -->
