@@ -13,7 +13,7 @@ ttrpg = ["RPG Blog Carnival", "Blog Bandwagon"]
 +++
 
 More have joined in on the March of "[Tiny Epics!](@/community/rpg-blog-carnival/tiny_epics/index.md)" for the RPG Blog Carnival.
-This community event is ongoing, and I wanted to discuss some people's published content as well as some discussion that occurred around the internet.
+This community event is ongoing, and I wanted to discuss some people's shared creations!
 Share your creations with me early, and I'll do weekend updates in addition to the final roundup on March 31st.
 
 <!-- more -->
@@ -56,8 +56,8 @@ Also, heck yes to taking woodworm tunnels as map design inspiration.
 On March 21st, Christopher Kurts of Playtest Dummies recounts his campaign [Tiny Tales](https://playtestdummies.substack.com/p/tiny-tales).
 He shares with us a campaign inspired by a childhood of imagining miniature worlds.
 Exactly the kind of inspiration I love to see for such things.
-Fellowship's design choice of letting the player define the culture of their ancestry is a nice a tough and something worth keeping in mind for anyone who wants to give some more authoritative power to their players.
-I try to keep in mind different way to do just that for my players, so I try incorporating this at my table sometime!
+Fellowship's design choice of letting the player define the culture of their ancestry is a nice touch and something worth keeping in mind for anyone who wants to give some more authoritative power to their players.
+I try to keep in mind different way to do just that for my table, so I'll try incorporating this sometime!
 Ooh some of these player created ancestries are very fun concepts.
 I'm enjoying the fungus inhabiting different husks.
 I did not know of [Mitchim](https://grimogre.itch.io/michtim) before!
