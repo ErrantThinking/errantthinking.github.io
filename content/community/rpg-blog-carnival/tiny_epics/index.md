@@ -83,7 +83,7 @@ There are various games out there already that explore this theme, such as the g
 - Pico with their [free playtest document](https://felixisaacs.itch.io/pico-hogwild-playtest-pre-gens) for tiny bug adventures.
 - [Household](https://twolittlemice.net/household/) and its [quickstart](https://www.drivethrurpg.com/en/product/421014/household-quickstart) for little fairy or "boggart" adventures.
 
-If you're looking for more related media, I'll soon release a collection post of all the different little people stories, film, videogames, and other TTRPGs for your further inspiration and curiosity.
+If you're looking for more related media, I'll soon release a [collection post](@/soul_system/little_folk_media/index.md) of all the different little people stories, film, videogames, and other TTRPGs for your further inspiration and curiosity.
 
 <div style="display: flex">
 <div style="flex: 40%">
