@@ -85,7 +85,7 @@ The children's books written and illustrated by [Beatrix Potter](https://en.wiki
 <p style="text-align:center;">
 Tom Kitten tumbles into Samuel Whisker's bed.
 Beatrix Potter's illustration for her book
-<a href="https://www.gutenberg.org/files/15575/15575-h/15575-h.htm" target="_blank">The Tailor of Samuel Whiskers</a>.
+<a href="https://www.gutenberg.org/files/15575/15575-h/15575-h.htm" target="_blank">The Tale of Samuel Whiskers</a>.
 </p>
 
 ### Short Stories, Folklore
