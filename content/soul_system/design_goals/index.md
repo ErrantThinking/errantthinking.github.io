@@ -91,7 +91,7 @@ To keep the game simple and quick to play, I seek minimal computational complexi
 That is, minimal to no math or human computation outside of the narrative, especially during the vast majority of play.
 Using computational design of machines from computer science theory can help model and minimize this complexity.
 
-Computational actions of machines involve reading and writing to some state. The locality of that state becomes another concern. Where that state is or what other machines can access it help
+Computational actions of machines involve reading and writing to some state. The locality of that state becomes another concern: Where that state is or what other machines can access it.
 
 - In TTRPGs, reading & writing becomes: read, communicate, compare, count, addition or other mathematics.
 - Read is further specified by the locality of the information read and time or energy spent reading.
