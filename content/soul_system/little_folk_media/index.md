@@ -16,7 +16,7 @@ ttrpg = ["Small Souls", "Collection", "Tiny Epics"]
 This is a non-exhaustive collection of stories and media that features little folk, whether people or other creatures.
 I gathered this raw list in my notes due to my interest over the past year in creating my Tabletop Roleplaying Game, Small Souls, which is for telling adventures and scenarios within this genre.
 Knowing the different kinds of stories that already exist helps me keep in mind the different tales players may want to tell with the game system.
-This really is a genre in itself, which I didn't fully appreciate prior to this proejct!
+This really is a genre in itself, which I didn't fully appreciate prior to this project!
 I think that "Little folk" probably best describes it.
 
 <!-- more -->
@@ -28,12 +28,16 @@ I think that "Little folk" probably best describes it.
     loading="lazy"
     decoding="async"
 />
+<p style="text-align:center;">
+Beatrix Potter's illustration for her book
+<a href="https://www.oldbookillustrations.com/illustrations/sew-them/" target="_blank">The Tailor of Gloucester</a>.
+</p>
 
 ## Written Works
 ### Epics Poems
-We start off strong with a comic epic poem parody of the Illiad.
+We start off strong with a comic epic poem parody of the Iliad.
 [Batrachomyomachia](https://en.wikipedia.org/wiki/Batrachomyomachia) "Battle of the Frogs and Mice" is a comic epic or parody of the Iliad.
-Dating around 5th centiry BC through 2nd centry AD, so alongside ancient works like Aesop's fables and other folklore stories, this is an early contender!
+Dating around 5th century BC through 2nd century AD, so alongside ancient works like Aesop's fables and other folklore stories, this is an early contender!
 
 <img
     src="Froschmäusekrieg_1878_25.jpg"
@@ -45,9 +49,9 @@ Dating around 5th centiry BC through 2nd centry AD, so alongside ancient works l
 
 ### Children's Books
 
-The children's books written and illustrated by [Beatrix Potter](https://en.wikipedia.org/wiki/Beatrix_Potter) are classic with a nostaligic charm.
+The children's books written and illustrated by [Beatrix Potter](https://en.wikipedia.org/wiki/Beatrix_Potter) are classic with a nostalgic charm.
     - [The Tailor of Gloucester](https://en.wikipedia.org/wiki/The_Tale_of_Squirrel_Nutkin) 1902
-        - Mice finish a tailor's waistcoat in a classic fairytale fahsion.
+        - Mice finish a tailor's waistcoat in a classic fairytale fashion.
     - [The Tale of Squirrel Nutkin](https://en.wikipedia.org/wiki/The_Tale_of_Squirrel_Nutkin) 1903
         - The illustrations in this one one are some of my favorite!
     - [The Tale of Peter Rabbit](https://en.wikipedia.org/wiki/The_Tale_of_Peter_Rabbit) 1902
@@ -78,6 +82,11 @@ The children's books written and illustrated by [Beatrix Potter](https://en.wiki
     loading="lazy"
     decoding="async"
 />
+<p style="text-align:center;">
+Tom Kitten tumbles into Samuel Whisker's bed.
+Beatrix Potter's illustration for her book
+<a href="https://www.gutenberg.org/files/15575/15575-h/15575-h.htm" target="_blank">The Tailor of Samuel Whiskers</a>.
+</p>
 
 ### Short Stories, Folklore
 - Aesop's fables
@@ -115,7 +124,7 @@ The children's books written and illustrated by [Beatrix Potter](https://en.wiki
     - Perri: The Youth of a Squirrel 1923
 - [Guardians of Ga'Hoole](https://en.wikipedia.org/wiki/Guardians_of_Ga%27Hoole)
 - Gulliver's Travels 1728 satirical prose novel by Anglo-Irish writer & clergyman Jonathan Swift
-    - Introduced the Liliputians for the first time
+    - Introduced the Lilliputians for the first time
 - [The Littles](https://en.wikipedia.org/wiki/The_Littles) by John Peterson in 1967:
     - Animated series 1983-1985.
 - [Mistmantle Chronicles](https://en.wikipedia.org/wiki/Redwall) 2005-2010
@@ -128,7 +137,7 @@ The children's books written and illustrated by [Beatrix Potter](https://en.wiki
 - "Mrs. Frisby and the Rats of NIMH", which The Secret of NIMH was based on
     - Had a Direct-to-video sequel Dec 2, 1998 "The Secret of NIMH 2: Timmy to the Rescue"
         - Poor reception. "C- grade".
-    - There were books, which in classic book-to-film-adaptation fashion, much was lost in the adapatation.
+    - There were books, which in classic book-to-film-adaptation fashion, much was lost in the adaptation.
         - [1971 book](https://en.wikipedia.org/wiki/Mrs._Frisby_and_the_Rats_of_NIMH) by Robert C. O'Brien
         - [sequel](https://en.wikipedia.org/wiki/Racso_and_the_Rats_of_NIMH)
 - [The Spiderwick Chronicles](https://en.wikipedia.org/wiki/The_Spiderwick_Chronicles) for small fairies. 2003.
@@ -147,7 +156,7 @@ The children's books written and illustrated by [Beatrix Potter](https://en.wiki
 - [Welkin Weasels](https://en.wikipedia.org/wiki/Garry_Kilworth#Welkin_Weasels)
 - [Wind in the Willows](https://en.wikipedia.org/wiki/The_Wind_in_the_Willows)
     - Little emphasis on being small, with varying unrealistic sizes.
-        - Toad drives and crashes a human made car, afterall.
+        - Toad drives and crashes a human made car, after all.
 
 ## Sequential Art
 ### Comics
@@ -159,8 +168,8 @@ The children's books written and illustrated by [Beatrix Potter](https://en.wiki
     - [TTRPG based](https://rpggeek.com/rpg/799/mouse-guard) on the Burning Wheel TTRPG.
     - [Board game](https://boardgamegeek.com/boardgame/162315/mouse-guard-swords-and-strongholds)
 - [Scurry](https://www.scurrycomic.com/) webcomic 2016
-    - A very cool web comic of mice surviving. Original sotry is finished, and some more on the way.
-- Professor Schimauski by German artist Walter Moers disocovered his toaster worked due to a little dragon in it.
+    - A very cool web comic of mice surviving. Original story is finished, and some more on the way.
+- Professor Schimauski by German artist Walter Moers discovered his toaster worked due to a little dragon in it.
 - The Smurfs
 - [The Teenie Weenies](https://en.wikipedia.org/wiki/Arrietty) 1914-1964
 
@@ -216,8 +225,8 @@ There is a notable surplus of creature specific games here mostly targeting mice
     - Inspired by the 1972 novel "Watership Down"
     - Inspired or spiritual successor: [The Warren](https://rpggeek.com/rpgitem/175766/the-warren)
 - [Crash Pandas](https://gshowitt.itch.io/crash-pandas), by Grant Howitt, creator of the similarly fun and funny game "Honey Heist".
-    - >You're a bunch of raccoons, all tryiing to drive the same car looking to make their names in the dangerous world of LA street racing.
-    - The size difference of being racoons in a human made car is the gimmick and a good one at that!
+    - >You're a bunch of raccoons, all trying to drive the same car looking to make their names in the dangerous world of LA street racing.
+    - The size difference of being raccoons in a human made car is the gimmick and a good one at that!
 - [Golden Sky Stories](https://rpggeek.com/rpg/2428/yuuyake-koyake) 2013.
     - A heartwarming, cozy slice-of-life game.
     - Little to no emphasis on being small in design
@@ -284,6 +293,9 @@ Perhaps for fun, I'll turn this into a table of entries with some categorization
     loading="lazy"
     decoding="async"
 />
+<p style="text-align:center;">
+E. H. Shepard's illustration of Toad from Wind in the Willows.
+</p>
 
 ### Collaborative Collecting
 This list started from a small community discussion in the [NSR RPG Cauldron Discord](https://discourse.rpgcauldron.com/) back in mid January 2025.
