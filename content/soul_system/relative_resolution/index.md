@@ -29,7 +29,7 @@ Let's dive in!
     loading="lazy"
     decoding="async"
 />
-Sketch of the 💢 Vigor aspect on a mock Small Souls character sheet. Current/total value on top. Bane range, and current/total scale on bottom. The leaves are total resilience and circles above are current resilience. They total 3 states: empty, 1, and 2 filled.
+Sketch of the 💢 Vigor aspect on a mock Small Souls character sheet. Current/total value on top. Bane range, and current/total scale on bottom. The leaves are total resilience and circles above are current resilience. Resilience has 3 states: empty, 1, and 2 filled.
 
 
 ## A Character's Aspects
@@ -66,7 +66,7 @@ Every aspect includes the following state and inform the outcomes of the **d20s*
 - **Resilience**: The extra hits to an aspect you can take before decrementing an aspect value. Also tracks progress in increasing your total aspect value.
     - Current
     - Total
-- **Bane Threshold**: Rolls greater than or equal to this value is a Bane in the dice pool. Default is 20.
+- **Bane Threshold**: Rolls greater than or equal to this value is a bane in the dice pool. Default is 20.
 
 <img
     src="d20_dice.jpg"
@@ -84,13 +84,13 @@ Soul System makes good use of my d20s, especially in soloplay!
 The resolution mechanic is a counted dice pool where the goal is to roll-under your aspect value.
 The dice pool starts with **2d20** and maxes out at **8d20**, where these are *counted*, not summed.
 The player may use character equipment, skills, or relevant experiences to improve their odds of success prior to making the save.
-Those may add more dice to the pool, which means there is more chance for things to go right, as well as more things that could go wrong, albeit less likely depending on the Bane range.
+Those may add more dice to the pool, which means there is more chance for things to go right, as well as more things that could go wrong, albeit less likely depending on the bane range.
 
 The relative difference in scale of saves is the key behind relative resolution:
 - <= -1: Automatic success: Your ability is beyond this task in this situation.
 - 0: Automatic success, *but* we roll for how well you succeed and any side effects.
     - You may succeed in sneaking away, but how obvious are your tracks?
-- Minimum required Boons:
+- Minimum required boons:
     - 1: Standard, the default case when uncertainty, consequences, and limited time are in play.
     - 2: Difficult
     - 3: Incredibly difficult, unlikely to succeed if your aspect is at or below 4 (max probability of a success for 8d20 <= 4 is ~20%).
@@ -98,7 +98,7 @@ The relative difference in scale of saves is the key behind relative resolution:
 
 This provides a spectrum of possibilities between automatic success and automatic failure, which is nice in games where you want players to just be able to succeed at something because they are more than capable, or you want something in between.
 
-*Any* Banes means *something* went wrong.
+*Any* banes means *something* went wrong.
 The higher the difference in scale, the character is *exponentially* less likely to succeed!
 This phenomena occurs in classic single threshold 1d20 games as well.
 Disadvantage (roll 2 keep worse) is much more dramatic absolute difference in probability than advantage (roll 2 keep best).
@@ -106,7 +106,7 @@ Disadvantage (roll 2 keep worse) is much more dramatic absolute difference in pr
 The probability of success is low in this game by default, but when you earn or spend to have more dice, then you can improve your odds.
 The average default case is 2d20 <= 4 and has a probability of success at 36%.
 2d20 <= 8 is 64% probability of success, which is similar to the 65% probability of success in DnD for characters that are good at something.
-I have been considering maxing at an aspect level of 7 per scale though.
+I have been considering maxing at an aspect total of 7 per scale though.
 
 I'll write up an analysis of the probability of this counted dice pool among other dice pool mechanics in the future.
 
@@ -267,11 +267,12 @@ In v0.1.0, I had them carry less too, but tying physical inventory slots to Vigo
 Birds tend to be weaker than mammals of their size and so can take less hits and carry less than them.
 This makes them the natural glass cannon, as they can swoop and do fly by attacks with their face knife or feet knives.
 
-### Down & Incapacitated
+### Downed & Incapacitated
 
 When an aspect becomes 1 or the character experiences aspect loss greater than or equal to half rounded up their aspect's current value, then the character is **downed**.
 They have only one Action and one Reaction per turn and can slowly crawl, use an item, or speak.
 If they attack, then in their strain they gain a befitting wound.
+Downed characters need tended to to get back up, even if their aspect value remains at 1.
 
 If an aspect is 0, the character is incapacitated befitting the aspect:
 - If Vigor is 0, then they are **unconscious**.
@@ -289,7 +290,7 @@ Itself is something to play with!
 
 There is more work to be done, however it is already quite promising in both concept and play.
 Some things I am currently working on include:
-- Ailments: This character specification informs the different types of negative effects we can afflict on a character, while typically avoiding aspect loss as that's assumed to be a given when acquiring wounds. This leaves expanding the Bane range per aspect, decreasing an aspect's scale, or decreasing an aspect's total resilience. I have also considered extra Bane dice that the narrator rolls to compare against the character's Bane range.
+- Ailments: This character specification informs the different types of negative effects we can afflict on a character, while typically avoiding aspect loss as that's assumed to be a given when acquiring wounds. This leaves expanding the bane range per aspect, decreasing an aspect's scale, or decreasing an aspect's total resilience. I have also considered extra bane dice that the narrator rolls to compare against the character's bane range.
     - Harm -> Wounds -> Scars
     - Panic! and other horror elements.
         - Currently Panic! is in reverse to the wounds table. The lower your aspect, typically Spirit, the worse panic conditions become available. Fear can worsen panic outcomes.
