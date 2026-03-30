@@ -250,9 +250,16 @@ What is neat about these, is they can be determined from a single roll of the at
 If they auto hit, then you round up the aspect value to the closest even polyhedral die.
 This helps keep the amount of rolling down even though we may roll to hit at times.
 
-The way to determine the wound is the attacker picks one of their boons as the wound value and then the rest serve as a currency for either another wound by summing them up or to use a combat maneuver such as shove, trip, disarm, or grapple.
+The way to determine the wound is the attacker picks one of their boons as the wound value and then the rest serve as a currency for either another wound by counting (not summing) them up or to use a combat maneuver such as shove, trip, disarm, or grapple.
 I'm currently figuring out a proper price for combat maneuvers.
 This approach can be used similarly for breaking up the result of a auto hit if desired.
+
+To clarify, your aspects take values within [1, 8] and so your max damage is tied to your aspect value, which is also responsible for your probability to hit.
+This could be undesirable, but I think it needs playtested further to find out.
+To get higher values, you would need better position that would increase your relative scale or decrease the difficulty, such as coup de grace in DnD, where I currently use extra scales to just add to the resulting roll, so the floor and ceiling increase together.
+Otherwise, currently your weapons increase the upper end of probabiltiy up to 12 maximum, as that's deadly.
+This means that damage are quite low, though typical for a game using d12s as the harder hitting weapons.
+Dealing severe wounds are the competitive tactic, as those end the game.
 
 In opposed rolls, the defender's boons may be used to remove their choice of the attacker's boons, which will tend to be their highest dice to avoid the more severe wounds.
 Banes also serve as the opponent's currency for combat maneuvers, which include a counter attack, and makes combat far more risky for all involved.
