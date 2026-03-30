@@ -65,8 +65,8 @@ Every aspect includes the following state and inform the outcomes of the **d20s*
     - Total: Starts at 0 unless you're in a game starting with some higher scaled aspects.
 - **Resilience**: The extra hits to an aspect you can take before decrementing an aspect value. Also tracks progress in increasing your total aspect value.
     - Current
-    - Total
-- **Bane Threshold**: Rolls greater than or equal to this value is a bane in the dice pool. Default is 20.
+    - Total: I set this to min 0 and max 2.
+- **Bane Threshold**: Rolls greater than or equal to this value are banes in the dice pool. Default is 20.
 
 <img
     src="d20_dice.jpg"
