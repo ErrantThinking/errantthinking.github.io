@@ -77,6 +77,18 @@ For each they provide TTRPGs that do just that and offer insights into how they 
 Vdonnut also notes some TTRPGs that *do not* emphasize this feeling and what their games ignore that you can further emphasize.
 Considering these different perspectives together is good food for thought!
 
+### A Big Idea: Borrowers but Punk Rock
+
+[My Big Idea: Borrowers but Punk Rock](https://dungeonsandpossums.com/2026/03/march-rpg-blog-carnival-tiny-epics/) by Dungeons & Possums on March 29th provides a lovely reflection on Wind in the Willows and Mole's Christmas in their life from the past to the present.
+I too grew up on Wind in the Willows and dearly adore the book.
+Cozy. Comfy. Nostaligc.
+And then they provide a whole different perspective!
+What if the Borrowers but punk rock against "The Bigs"?
+This is a fresh take and one you don't want to miss!
+
+>Editor's note: I forgot to include this late last night. My apologies. I'm glad I caught it the next morning! If there are any others I have missed, please reach out and let me know!
+
+
 ### In the Roots: Playing with Habitats & Ecosystems
 
 "[In the Roots: Playing with Habitats and Ecosystems in My Bayou RPG](https://palleonpress.blogspot.com/2026/03/in-roots-playing-with-habitats-and.html)" by Palleon Press on March 30th as they join the RPG Blog Carnival for the first time!
