@@ -3,7 +3,7 @@ title = "Flower Folk: Camellia Fairy"
 date = 2026-03-31
 weight = 3
 path = "camellia-fairy"
-description = "An ecologists notes on the camellia fairy. A wondrous creature and even better dancer."
+description = "An ecologist's notes on the camellia fairy. A wondrous creature and even better dancer."
 
 [extra]
 image = "camellia-fairy-blush.jpg"
