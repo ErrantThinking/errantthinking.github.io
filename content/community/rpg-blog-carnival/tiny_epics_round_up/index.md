@@ -121,7 +121,7 @@ I didn't get around to a write up of anthropomorphic setting questions, or a one
 />
 <p style="text-align:center;">
 An illustration by <a href="https://www.oldbookillustrations.com/artists/grandville-j-j/" target="_blank">Grandville, J. J.</a>
-"<a href="https://www.oldbookillustrations.com/illustrations/preservation-species/" target="_blank">Preservation Species</a>".
+"<a href="https://www.oldbookillustrations.com/illustrations/preservation-species/" target="_blank">The Preservation of Species</a>".
 </p>
 
 ## The March Concludes
