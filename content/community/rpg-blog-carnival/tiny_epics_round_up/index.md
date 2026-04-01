@@ -81,10 +81,17 @@ Considering these different perspectives together is good food for thought!
 
 [My Big Idea: Borrowers but Punk Rock](https://dungeonsandpossums.com/2026/03/march-rpg-blog-carnival-tiny-epics/) by Dungeons & Possums on March 29th provides a lovely reflection on Wind in the Willows and Mole's Christmas in their life from the past to the present.
 I too grew up on Wind in the Willows and dearly adore the book.
-Cozy. Comfy. Nostaligc.
+Cozy. Comfy. Nostalgic.
 And then they provide a whole different perspective!
 What if the Borrowers but punk rock against "The Bigs"?
-This is a fresh take and one you don't want to miss!
+
+When we consider little sentient creatures in our world it is essentially impossible to not realize the impact humans have had on the world.
+Ecological imbalance occurs and even is natural from natural disasters, but we humans have certainly left our own mark.
+Naturally, a TTRPG that explores a rally against the Bigs is ripe for exploration for the ecologically minded.
+
+Dungeons & Possums also provide some fun seeds of ideas to explore in a world shared by the smalls and the bigs.
+The art is hilarious too.
+This is a fresh take with plenty of good ideas that you don't want to miss!
 
 >Editor's note: I forgot to include this late last night. My apologies. I'm glad I caught it the next morning! If there are any others I have missed, please reach out and let me know!
 
