@@ -102,7 +102,7 @@ An elegant camellia fairy enjoying the sunlight.
 </p>
 
 
-### Creating a Camellia Fairy
+## Creating a Camellia Fairy
 
 These two camellia fairies pictured are made by simply putting two fallen [camellia](https://en.wikipedia.org/wiki/Camellia) flowers together with a small twig through their centers.
 The ones I found lying around already had holes in their middles for the right size, so I seized the moment.
