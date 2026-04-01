@@ -189,7 +189,7 @@ Using medium as the reference point, A medium sized mouse is one size class smal
 This puts the mouse at scale 0 and the rat at scale +1 in Vigor.
 The reverse for Agility, the mouse is scale 0 and the rat is -1 in Agility.
 The relative scale difference changes linearly, however the probability and the physical scaling all scale exponentially.
-In my early versions, a scale difference greater than 3 be an automatic failure.
+In my early versions, a scale difference greater than 2 to be an automatic failure, which would require more than 3 boons to succeed (Add 1 to relative scale to get the minimum required boons for standard difficult tasks at that scale).
 This nearly matches that of Mausritter's war band sized threats like a cat is to a mouse.
 I may make the relative scale more drastic in the future, but it depends how I like the probability across the scales along with how I it changes with relevant experience.
 
