@@ -1,7 +1,7 @@
 +++
 title = "Flower Folk: Camellia Fairy"
 date = 2026-03-31
-weight = 3
+weight = 2
 path = "camellia-fairy"
 description = "An ecologist's notes on the camellia fairy. A wondrous creature and even better dancer."
 
@@ -83,7 +83,7 @@ A typical camellia fairy compared to your standard fare mouse 🐭 in [Small Sou
 The typical camellia fairy and mouse are in the same size class both standing about 3-6 inches tall.
 The mouse uses the expected values of my current version's Heart and Aspects.
 In my playtests, I found this heart of 14 or higher to either be too high or I simply didn't apply enough pressure on the players.
-Heart is currently rolled summing the highest of 3d6 and adding 6.
+Heart is currently rolled summing the highest two of 3d6 and adding 6.
 I recommend for one shots to exclude the additional +6.
 Each aspects is rolled using 2d4 where you halve the lowest, round it up, and add it to the highest.
 
