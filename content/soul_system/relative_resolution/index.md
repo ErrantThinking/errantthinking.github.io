@@ -211,14 +211,14 @@ This makes it worth using heart for the chance to mitigate a wound in the first 
 Although I am currently experimenting with wounds and how heart can be used to prevent or weaken them.
 Heart is a strong resource and is the primary one until you're at the end of your ropes pushing yourself at the cost of your aspects, which results in a downward spiral.
 
-### Armor
+### 🛡️ Armor
 
 The reduction to damage received.
 If not just a flat reduction, I often type it to physical damage.
 This armor can be typed to resist certain types of damage, but that is opt-in complexity for people who like combat games like Pathfinder 2e (Me. That's me. I'm talking about me).
 Damage is technically always typed by the aspect they are targeting, as that informs the type of wounds one can receive and which aspect gets effected.
 
-### Retaliation
+### ⤤ Retaliation
 
 The damage that an attacker takes when they hit you.
 This is often just zero.
