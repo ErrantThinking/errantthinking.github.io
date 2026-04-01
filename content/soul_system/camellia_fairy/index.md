@@ -111,7 +111,7 @@ The two flowers together look like an elaborate dress with a high collar.
 I had to apply some pressure to bend or break the petals on the top to reveal the center.
 
 My friend and I mused about having a small kit to take when on such walks.
-A portable hot glue gun with a natural resin based glue or simply clay would be an eco-friendly options for adhesive.
+A portable hot glue gun with a natural resin based glue or simply clay would be eco-friendly options for adhesive.
 Then you can leave a little creature about your nature walks!
 For now, using what's available works with some post processing of the face, which is what David does for the Becorns, anyways.
 
