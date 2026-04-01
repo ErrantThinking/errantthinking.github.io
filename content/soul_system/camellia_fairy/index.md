@@ -80,6 +80,7 @@ A typical camellia fairy compared to your standard fare mouse 🐭 in [Small Sou
 |Mouse|14|0 |0 |4 |4 |4 |4 |
 
 
+The typical camellia fairy and mouse are in the same size class both standing about 3-6 inches tall.
 The mouse uses the expected values of my current version's Heart and Aspects.
 In my playtests, I found this heart of 14 or higher to either be too high or I simply didn't apply enough pressure on the players.
 Heart is currently rolled summing the highest of 3d6 and adding 6.
