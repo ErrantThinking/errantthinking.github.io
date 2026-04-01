@@ -108,8 +108,8 @@ Disadvantage (roll 2 keep worse) is much more dramatic absolute difference in pr
 
 The probability of success is low in this game by default, but when you earn or spend to have more dice, then you can improve your odds.
 The average default case is 2d20 <= 4 and has a probability of success at 36%.
-2d20 <= 8 is 64% probability of success, which is similar to the 65% probability of success in DnD for characters that are good at something.
-I have been considering maxing at an aspect total of 7 per scale though.
+2d20 <= 8 is 64% probability of success, which is similar to the 65% probability of success in DnD 5e for characters that are [good at something](https://rpgbot.net/dnd5/characters/fundamental_math/).
+Although, I have been considering maxing at an aspect total of 7 per scale.
 
 I'll write up an analysis of the probability of this counted dice pool among other dice pool mechanics in the future.
 
