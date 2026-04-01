@@ -31,6 +31,9 @@ Let's dive in!
 />
 Sketch of the 💢 Vigor aspect on a mock Small Souls character sheet. Current/total value on top. Bane range, and current/total scale on bottom. The leaves are total resilience and circles above are current resilience. Resilience has 3 states: empty, 1, and 2 filled.
 
+>**Edit 2026-04-01:** Perhaps the joke's on me for not including this in the original post, but I included how 💢 Vigor and 💨 Agility adjust with [Physical Scale](@/soul_system/relative_resolution/index.md#physical-scale-and-aspects) to help showcase a common occurrence of difference between scale using my current size classes, which scale by powers of 2.
+This clarifies how a task befitting a giant may be translated relatively to a normal human, and similarly for a badger to mouse.
+
 
 ## A Character's Aspects
 
@@ -163,6 +166,32 @@ A tough thing about mixed outcome results is to have enough ideas for what would
 I'm working on examples for common cases to help give people ideas.
 Often, as the dice are tied to some source, things going wrong can harm that source, such as temporary ailments toward an aspect or damage equipment.
 For extra benefits, I often provide extra information or improve their narrative positioning even further than a normal save would.
+
+### Physical Scale and Aspects
+
+Small Souls currently uses size classes to determine the physical scale of creatures, which follows scaling by powers of 2.
+The names are currently with reference to a creature of 3-6 inches tall, which is my default creature size in Small Souls.
+However you name them or whatever reference scale you play, these help inform the relative difference in size.
+
+| Size        |Relative Scale| Map Area     | Reach   | Height          |
+|-------------|--|--------------|---------|-----------------|
+| Fine        |-4| 3/8 in²        | 3/8 in      | 3/16–3/8 in         |
+| Diminutive  |-3| 3/4 in²        | 3/4 in      | 3/8–3/4 in            |
+| Tiny        |-2| 1½ in²       | 1½ in     | 3/4–1½ in           |
+| Small       |-1| 3 in²        | 3 in      | 1½–3 in           |
+| **Medium**  |0| 6 in²        | 6 in      | 3–6 in            |
+| Large       |1| 12 in²       | 12 in     | 6–12 in           |
+| Huge        |2| 24 in²       | 24 in     | 12–24 in          |
+| Gargantuan  |3| 48 in²        | 48 in     | 24–48 in          |
+| Colossal    |4| 5 ft²        | 5 ft      | 4–8 ft            |
+
+Using medium as the reference point, A medium sized mouse is one size class smaller than a large rat.
+This puts the mouse at scale 0 and the rat at scale +1 in Vigor.
+The reverse for Agility, the mouse is scale 0 and the rat is -1 in Agility.
+The relative scale difference changes linearly, however the probability and the physical scaling all scale exponentially.
+In my early versions, a scale difference greater than 3 be an automatic failure.
+This nearly matches that of Mausritter's war band sized threats like a cat is to a mouse.
+I may make the relative scale more drastic in the future, but it depends how I like the probability across the scales along with how I it changes with relevant experience.
 
 ### Assistance and Group Rolls
 
