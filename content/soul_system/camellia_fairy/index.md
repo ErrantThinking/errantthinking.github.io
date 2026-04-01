@@ -84,7 +84,7 @@ The mouse uses the expected values of my current version's Heart and Aspects.
 In my playtests, I found this heart of 14 or higher to either be too high or I simply didn't apply enough pressure on the players.
 Heart is currently rolled summing the highest of 3d6 and adding 6.
 I recommend for one shots to exclude the additional +6.
-Aspects are rolled using 2d4 where you halve the lowest, round it up, and add it to the highest.
+Each aspects is rolled using 2d4 where you halve the lowest, round it up, and add it to the highest.
 
 On the resilience of the camellia fairy, the ⚝ spirit aspect in Small Souls may be spent by a creature to use "Too Determined to Die" or "No Rest for the Willful". "Too Determined to Die" is for a chance to take Spirit loss instead of loss to another aspect.
 "No Rest for the Willful" is for the chance to stir yourself back to consciousness when incapacitated.
