@@ -15,7 +15,7 @@ ttrpg = ["RPG Blog Carnival", "Blog Bandwagon", "Tiny Epics"]
 The small ones among us are sometimes overlooked, but they surely have grand tales to tell! This March, let's explore these tiny epics for the
 [RPG Blog Carnival](https://ofdiceanddragons.com/rpg-blog-carnival/).
 This is a community event, so we'll ponder some ideas for this theme, then get to creating and start some discussion!
-Share your creations with me early and I'll do weekend updates along with a final roundup on March 31st.
+Share your creations with me early and I'll do weekend updates along with a [final roundup on March 31st](@/community/rpg-blog-carnival/tiny_epics_round_up/index.md).
 
 <!-- more -->
 
@@ -157,7 +157,7 @@ However, I encourage you to consider posting to your own blog or website.
 To have your own space separate from these platforms is very freeing and empowering and is in the spirit of the RPG Blog Carnival.
 Heh heh, perhaps that's the start of your *own* tiny epic?
 
-I will write the final round up post on **March 31st**, a Tuesday.
+I will write the [final round up post on **March 31st**, a Tuesday](@/community/rpg-blog-carnival/tiny_epics_round_up/index.md).
 To keep it interesting, if you share your public creations with me earlier, I will do a week's end post on the weekends prior to the 31st.
 Perhaps we share our works in progress?
 I like to foster more communication and dialogue between creators in these kinds of community events, so let's create and talk!
