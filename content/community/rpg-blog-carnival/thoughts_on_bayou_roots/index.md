@@ -37,9 +37,10 @@ Another point is its one thing to broad strokes paint a world, its another to ma
     - And if we're giving that to Household, then Mausritter certainly includes human sized objects from a mouse perspective, which absolutely is fun and thematic. Although that's more objects in the world than a habitat.
     Extremely eye opening how referencing common objects we human players know well from a different perspective can vividly characterize a game.
 
-And now I'll lovingly knock one of my favorite games, Mausritter, which has inspired me to create my own. Someone else in the Discords put it well, "You're dirty little guys in mouse suits". Very [Gray Mouser](https://en.wikipedia.org/wiki/Fafhrd_and_the_Gray_Mouser). Little about mice is considered in the game beyond the vibe or fiction of being that critter.
-Of course this means we miss out on the grand time of being essentially blind, and relying on our whiskers to see, and other not so appealing mouse traits, so perhaps Isaac Williams was onto something all along when he made this great, beloved game.
-I think so.
+And now I'll lovingly knock one of my favorite games, Mausritter, which has inspired me to create my own. Someone else in the Discords put it well, "You're dirty little guys in mouse suits". Very [Gray Mouser](https://en.wikipedia.org/wiki/Fafhrd_and_the_Gray_Mouser).
+Being mice in Mausritter is the focus of the fiction, and it colors how everything percieved.
+The game mechanics are not tied to that fiction as much, besides being squishy and going well on toast.
+By default, we miss out on the grand time of being essentially blind, and relying on our whiskers to see, and other not so appealing mouse traits, so perhaps Isaac Williams was onto something all along when he made this great, beloved game.
 
 Aahhh...
 
