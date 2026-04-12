@@ -57,6 +57,11 @@ Unfortunately, the outer wall fell long ago leaving the ruins of civilization to
 		- The twin towers and other minor spires direct the sunlight with their concave mirrors to the monument to flood the ruins of a dream with a dazzling array of colors.
 		- The mirrors focused light also provides warmth in this cold season, as long as the skies are clear enough.
 
+#### Holidays
+
+The two solstices and two equinoxes are celebrated marking the seasons.
+The night of a full moon is often celebrated with rituals led by the Moon Mystics.
+
 ### The Cradle's Resources
 
 - Farms
@@ -297,6 +302,13 @@ It is rumored, especially among mystics and oracles, that Wulfhram is fated to b
 
 #### Oscar Aldwin, The Fallen Knight
 
+### Factions
+
+Factions that are present but don't necessarily form their own warband.
+
+- **Moon Mystics**: A cult of lunatics, as in moonstruck lunar fanatics.
+- **Sun Guard**: A subset of the Silver Guard that protects the Solar King.
+
 ### The Warbands
 
 Three strong warbands call this hex home and serve their leaders who swear fealty to the Solar King and to serve the people of the Silver Cradle and the realm.
@@ -328,13 +340,24 @@ The other half though are as loyal as they come.
 
 ## A Thread of Silver
 
-Along the lines of "[Holding Threads](https://www.bastionland.com/2025/09/holding-threads.html)", The Silver Citadel is ripe with political intrigue as knights and nobles across the lands try to secure the Seat of Power for themselves.
+Along the lines of "[Holding Threads](https://www.bastionland.com/2025/09/holding-threads.html)", The Silver Citadel is ripe with political intrigue as knights and nobles across the lands try to improve their standing or even secure the Seat of Power for themselves.
 
-0. Upon first coming to this land, the Company face rumors that they have ill will towards the Silver Citadel, either to claim it as their own or to topple it and the Solar King.
+>**Thread Roll**
+>- 1: News arrives of the next Omen from the Seaet of Power's Holding Thread
+>- 2-3: Trigger the next Omen from this Holding's Thread.
+>- 4-6: Court is quiet enough, no big surprises
+
+>**Progress Roll**
+>- 1: News arrives of the next Omen from the Seat of Power's Holding Thread having come to pass.
+>- 2-3: Trigger the next Omen from this Holding's Thread
+>- 4-6: Court is quiet enough, no big surprises.
+
+**Omens**
+0. Upon first coming to this land, the Company face rumors that they harbor ill will towards the Silver Citadel, either to claim it as their own or to topple it and the Solar King.
 	- Who could have spread this slander against our heroes? And why?
 	- The people of the Citadel's Cradle heard of these rumors and will react sourly to the Company if their titles are discovered.
 	- If the Silver Guard learn who the Company are, they would be suspicious and question them
-1.
+1. A seasonal ball is held, all knights and their Company are invited. A knight or noble makes a scene that challenges the Solar King's capability to rule. Afterall, he couldn't protect his Queen.
 2.
 3.
 4.
@@ -350,73 +373,89 @@ The Silver Citadel's exports are a subset of the resources they have available h
 They also trade in other's resources as they transfer those goods to other places as a central hub of the realm.
 This makes it a desirable place for the realm's Seat of Power as they can better control trade across the realm.
 
-- [Lone Willow](https://halfawormandabittenapple.blogspot.com/2026/02/woland-collaborative-mythic-realm-part-1.html)
-	- Mirror Pond: This mirror pond connects with Deeproot Forest's. It is said that mirror like ponds exist across the realm, often having a twin which they directly connect to. There are rumors and writings about moon mystics who could traverse through such reflections and were said to even make their own mirrors for exactly this purpose.
-	- Monteglielle Gallarvantius VI's Silver Hand Mirror
-	- The Silver Citadel is remarkably amicable towards Monteglielle Gallarvantius, for unknown reasons.
-	- **Desired imports:**
-- [Peter's Lowlands](https://luckroll.blogspot.com/2026/02/woland-hexflower-6-every-book-is.html)
-	- **Lady Ilona**, Librarian of the Silver Citadel. She once went to Peter's Lowlands and found it to be everything her younger self once imagined with all the chaos that entails.
-		- Ilona has heard a rumor told in the library, that the moon mystics know how to unbound one's reflection from a mirror.
-	- **Desired imports:**
-		- **D4**:
-			- Buffalo furs, especially white ones
-				- their hide and fur in general is useful, while white is in vogue and best for dying.
-			- Cider and their source fruits, such as apples, pears etc.
-		- **C5**: Dyes and pigments
-- [The Crimson Swamp](https://halfawormandabittenapple.blogspot.com/2026/02/woland-collaborative-mythic-realm-part-3.html)
-	- **Desired imports**
-		- Rot Water: For poisons
-	- **Desired exports**
-	    - *The moon mystics secretly request a delivery of a flawless silver hand mirror to the Pristine Seer.*
-- [Barrowode](https://benhooleyillustrates.blogspot.com/2026/02/mapping-hexflower-task-to-design.html)
-	- Relationship to The Crawler is antagonistic and their imports are unnecessary, however special concotoins and medicinal herbs may prove beneficial.
-	- **Desired Imports**
-		- apples and cider
-			- Outmatched in comptetion with Peter's Lowlands D4, which is much closer than Barrowode
-		- skeins of Truffler wool
-            - Silver Cradle has goat's double fleece for cashmere and brushes
-		- Wolf-marten pelts
-			- wolf-marten pelts are unique, but the plethora of nearby buffalo furs makes them more of a luxury good than a necessity
-		- beautifully decorated bows and quivers
-			- luxury and fine archer weaponry
-		- Cackhand Fungus for poisons
-	- **Exports:** They need metals and minerals which is local to the citadel.
-		- Given antagonistic relations, the Silver Citadel would limit all trade of metal to them and use that and trade in general as a pressure for better deals or even reinforcement of fealty.
-- [Deeproot Forest](https://mynerdyhobby.com/deeproot-forest/)
-	- Mirror Pond: This mirror pond connects with Lone Willow's. Mirror mystics are aware and would use this with their own mirrors too.
-	- Relationship: They are at odds with The Crawler, thus beneficial
-		- The Silver Citadel would open trade more to them, but not as fully to others simply due to locality of trade routes to the hostile Crawlers.
-		- Would strengthen their resistance with better resources and metal.
-			- The less losses of resources they have to The Crawlers, the better their trade is.
-		- While societal norms may shun the vagabonds, the Solar King focuses on maintaining power, not prejudice.
-	- **Desired imports:**
-		- Essentially any imports that overlap with Barrowode would be prioritized from here instead.
-- [The Troubled Downs](https://dreamingdragonslayer.wordpress.com/2026/03/04/the-troubled-downs-in-woland-a-collaborative-realm/)
-	- Relationship with Anointed Seer: Favorable.
-	    - Lady Ilona has a history with this Anointed Seer, Christopher Robin.
-- [Burnburh](https://unorthodoxarchives.blogspot.com/2026/03/burntburh-woland-collaboration_22.html)
-	- **Desired imports**
-        - Weorpan Hair
-        - Short Sea Salt
-        - [Oranges](https://unorthodoxarchives.blogspot.com/2026/03/burntburh-c1-orangegrove-reliquary.html)
-        - Wild Berries
-        - [Manticore Quills](https://unorthodoxarchives.blogspot.com/2026/03/burntburh-b1r-shrill-cliffs.html)
-	- **Desired exports**
-        - *Deliver a silver hand mirror to Rowena*
-- [Landfall](https://tenebroushero.blogspot.com/2026/04/landfall-mythic-bastionland.html)
-    - Wary of the Leveller's mobile Holding.
-	- **Exports**
-		- Minerals for their golems
-		+ *The moon mystics wish to give Dur-Danat the Leveller a silver hand mirror*
-    - **Quests**: Requested by the Moon Mystics:
-        - Clear the fog over Urwode, Temporal Forest (**B4**) so the moon may shine upon the fountain.
-        - Pour Moon Pool water from Urwode, Temporal Forest (**B4**) into the wellspring peak (**A0**). As you do so, ask for the farms of the Silver Cradle.
-- [The Quiet Greens](https://itch.io/blog/1480107/woland-collaborative-mythic-bastionland-realm-quiet-greens)
+### [Lone Willow](https://halfawormandabittenapple.blogspot.com/2026/02/woland-collaborative-mythic-realm-part-1.html)
+- Mirror Pond: This mirror pond connects with Deeproot Forest's. It is said that mirror like ponds exist across the realm, often having a twin which they directly connect to. There are rumors and writings about moon mystics who could traverse through such reflections and were said to even make their own mirrors for exactly this purpose.
+- Monteglielle Gallarvantius VI's Silver Hand Mirror
+- The Silver Citadel is remarkably amicable towards Monteglielle Gallarvantius, for unknown reasons.
+- **Desired imports:**
+
+### [Peter's Lowlands](https://luckroll.blogspot.com/2026/02/woland-hexflower-6-every-book-is.html)
+- **Lady Ilona**, Librarian of the Silver Citadel. She once went to Peter's Lowlands and found it to be everything her younger self once imagined with all the chaos that entails.
+    - Ilona has heard a rumor told in the library, that the moon mystics know how to unbound one's reflection from a mirror.
+- **Desired imports:**
+    - **D4**:
+        - Buffalo furs, especially white ones
+            - their hide and fur in general is useful, while white is in vogue and best for dying.
+        - Cider and their source fruits, such as apples, pears etc.
+    - **C5**: Dyes and pigments
+
+### [The Crimson Swamp](https://halfawormandabittenapple.blogspot.com/2026/02/woland-collaborative-mythic-realm-part-3.html)
+- **Desired imports**
+    - Rot Water: For poisons
+- **Desired exports**
+    - *The moon mystics secretly request a delivery of a flawless silver hand mirror to the Pristine Seer.*
+
+### [Barrowode](https://benhooleyillustrates.blogspot.com/2026/02/mapping-hexflower-task-to-design.html)
+- Relationship to The Crawler is antagonistic and their imports are unnecessary, however special concotoins and medicinal herbs may prove beneficial.
+- **Desired Imports**
+    - apples and cider
+        - Outmatched in comptetion with Peter's Lowlands D4, which is much closer than Barrowode
+    - skeins of Truffler wool
+        - Silver Cradle has goat's double fleece for cashmere and brushes
+    - Wolf-marten pelts
+        - wolf-marten pelts are unique, but the plethora of nearby buffalo furs makes them more of a luxury good than a necessity
+    - beautifully decorated bows and quivers
+        - luxury and fine archer weaponry
+    - Cackhand Fungus for poisons
+- **Exports:** They need metals and minerals which is local to the citadel.
+    - Given antagonistic relations, the Silver Citadel would limit all trade of metal to them and use that and trade in general as a pressure for better deals or even reinforcement of fealty.
+
+### [Deeproot Forest](https://mynerdyhobby.com/deeproot-forest/)
+- Mirror Pond: This mirror pond connects with Lone Willow's. Mirror mystics are aware and would use this with their own mirrors too.
+- Relationship: They are at odds with The Crawler, thus beneficial
+    - The Silver Citadel would open trade more to them, but not as fully to others simply due to locality of trade routes to the hostile Crawlers.
+    - Would strengthen their resistance with better resources and metal.
+        - The less losses of resources they have to The Crawlers, the better their trade is.
+    - While societal norms may shun the vagabonds, the Solar King focuses on maintaining power, not prejudice.
+- **Desired imports:**
+    - Essentially any imports that overlap with Barrowode would be prioritized from here instead.
+
+### [The Troubled Downs](https://dreamingdragonslayer.wordpress.com/2026/03/04/the-troubled-downs-in-woland-a-collaborative-realm/)
+- Relationship with Anointed Seer: Favorable.
+    - Lady Ilona has a history with this Anointed Seer, Christopher Robin.
+
+### [Burnburh](https://unorthodoxarchives.blogspot.com/2026/03/burntburh-woland-collaboration_22.html)
+- **Desired imports**
+    - Weorpan Hair
+    - Short Sea Salt
+    - [Oranges](https://unorthodoxarchives.blogspot.com/2026/03/burntburh-c1-orangegrove-reliquary.html)
+        - Ancient Knight's orange concoctions
+    - Wild Berries
+    - [Manticore Quills](https://unorthodoxarchives.blogspot.com/2026/03/burntburh-b1r-shrill-cliffs.html)
+    - [Ghost Ashes](https://unorthodoxarchives.blogspot.com/2026/03/burntburh-a1-ashen-wastes.html)
+    - [Hauntstone](https://unorthodoxarchives.blogspot.com/2026/03/burntburh-a1-ashen-wastes.html)
+- **Desired exports**
+    - *Deliver a silver hand mirror to Rowena*
+
+### [Landfall](https://tenebroushero.blogspot.com/2026/04/landfall-mythic-bastionland.html)
+- Wary of the Leveller's mobile Holding.
+- **Exports**
+    - Minerals for their golems
+    + *The moon mystics wish to give Dur-Danat the Leveller a silver hand mirror*
+- **Quests**: Requested by the Moon Mystics:
+    - Clear the fog over Urwode, Temporal Forest (**B4**) so the moon may shine upon the fountain.
+    - Pour Moon Pool water from Urwode, Temporal Forest (**B4**) into the wellspring peak (**A0**). As you do so, ask for the farms of the Silver Cradle.
+
+### [The Quiet Greens](https://itch.io/blog/1480107/woland-collaborative-mythic-bastionland-realm-quiet-greens)
+
+An old dead tree grew over the ruins and is sought to be removed.
+Hovever no axe can fell it.
+Seek a hatchet from the Hatchet Seer.
 
 ### Open Threads
 
-Open threads that are perhaps tied down elsewhere in the realm.
+Open threads of fate yet woven.
+Perhaps they are tied down elsewhere in the realm?
 
 All these different knights, yet who and where are their seers? After all, every knight has a seer.
 - Seer of the Silver Hawk, Llywelyn?
