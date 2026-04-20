@@ -21,9 +21,9 @@ I hope you like Berserk.
 <!-- more -->
 
 <img
-    src="squirrels_sneak_owl_shut-eyes_mice_in_talons_1600.jpg"
+    src="hex_flower_silver_cradle.png"
     alt=""
-    style="display:block; margin-left: auto; margin-right: auto; width: 70%;"
+    style="display:block; margin-left: auto; margin-right: auto; width: 100%;"
     decoding="async"
 />
 <p style="text-align:center;">
@@ -55,12 +55,12 @@ Unfortunately, the outer wall fell long ago leaving the ruins of civilization to
 - Grey Season (Winter)
 	- All color fades, leaving the Silver Cradle to shimmer in its namesake.
 	- All color fades, except for the stained glass monument at the center of the old city ruins.
-		- The twin towers and other minor spires direct the sunlight with their concave mirrors to the monument to flood the ruins like a dream with a dazzling array of colors.
-		- The mirrors focused light also provides warmth in this cold season, as long as the skies are clear enough.
+	    - The twin towers and other minor spires direct the sunlight with their concave mirrors to the monument to flood the ruins like a dream with a dazzling array of colors.
+	    - The mirrors focused light also provides warmth in this cold season, as long as the skies are clear enough.
 
 #### Holidays
 
-The two solstices and two equinoxes are celebrated marking the seasons.
+The two solstices and two equinoxes are celebrated marking the height of the seasons.
 The night of a full moon is often celebrated with rituals led by the Moon Mystics.
 
 ### The Cradle's Resources
@@ -79,7 +79,7 @@ The night of a full moon is often celebrated with rituals led by the Moon Mystic
 	- Gemstones
 - Wood from the Wyrd Woods
 
-### Northern Wall Ruins
+### G4. Northern Wall Ruins
 
 The northern wall's moss covered ruins lie sucking into the earth.
 Farms reside on both sides of the once immense wall.
@@ -88,11 +88,21 @@ Trees and shrubbery grows atop some areas of ruins not able to be tilled or clea
 
 To the northeast the Silver Ridge climbs and mines are dug into its side.
 
-#### Mines
+#### Northern Mines
 
-Of silver and gemstones
+Mines are located in northeastern side of this hex, in the mountains.
+These mines provide minerals such as silver and iron.
 
-### Fallen Fields
+Site:
+
+1. Mine entrance adit: An adit enters the side of the mountain. Mining carts are docked on the side, where some are filled with ore, but most empty, and a few pick axes racked up neatly.
+2. Winding Adit Drift Mine
+3. Hidden Shaft
+4. Main Shaft
+5. Lower Gallery between shafts
+6. Exit Adit: Drainage tunnel in the lower gallery, also used for convenient carrying out of minerals
+
+### F4. Fallen Fields
 
 These fields glimmer with the morning dew and are often grazed by farmers' livestock when the grasses in the ruins are not enough.
 A bridge that once crossed the outer wall's moat, now river, stands as a defiant monument among the wall's ruins.
@@ -106,11 +116,43 @@ However, the knight will challenge other knights to glorious combat, or stop mor
 ></br></br>
 >Defeating a bridge knight allows permanent passage for your company and grants 1 Glory.
 
-### Southern Wall Ruins
-#### Moon Mystics Ruin
-#### Mines
+#### Site: Fallen King's Barrow
 
-### Old City Outpost
+In the lightly rolling hills of this flower covered field lies a barrow of the Fallen King who once held a final battle for his silver city.
+The barrow blends in with the nearby hills as it is too covered in grass and flowers.
+The only thing that marks it are the swords plunged atop the mound and the two stone entrances on opposite sides.
+This is a common monument to passerbies.
+
+Lore:
+
+The Silver Cradle was once beseiged in the past.
+After the collapse of the outer walls, the Silver Cradle was in dire straights.
+The king was able to expel the enemy forces from the city with a final heroic push.
+He pushed them to these fields which then became a bloodbath.
+The king fended off the foes and saved the city at the cost of many of his men and his own life,
+This barrow lies where he fell and now rests grass covered in a field of blooming flowers.
+
+### H5. Southern Wall Ruins
+
+#### Site: Moon Mystics Ruin
+
+Within the ruins of the southern wall, there are the ruins of the Moon Mystics from long aago.
+The modern day Moon Mystics still frequent these ruins and continue their practices here.
+
+1. Caved in house atop the old stone slab entrance. A clearing of these old stones sits with a descending stone stair case into the earth below.
+2. Fungal Spores Hall: Along this moss and fungus covered walls are etched stones
+    - The fungus spores are poisonous and hallucinogenic.
+    - Must clear the fungus and risk their spores to reeval the etchings that depict the prophecy of a silver hawk bringing a light the cradle before a black wolf raven consumes all.
+3. Caved in hall: Difficult to get through, but possible if you take your time to squeeze.
+4. Office: Treasures of a leader Moon Mystic.
+5. Communion Hall
+6. Secret passage back to entrance from communion hall. Revealed at the entrance only when a fool moon's light is shined upon the stone, and requires a mirror to redirect the moonlight just so.
+
+#### Southern Mines
+
+There are also mines in the mountains northeast of this hex.
+
+### G6. Old City Outpost
 
 The old city's outer wall featured a southwest bridge that still stands like its northwestern twin.
 However, it faces a woods that increases in density as it grows northwest towards the Wyrd Woods.
@@ -119,14 +161,45 @@ The Silver Guard patrol the wall's ruins and frequently stop by the old, yet sti
 The outpost features a wooden tower with a large silver mirror and bonfire at the top for signaling.
 The Silver Guard here know well the happenings of the neighboring hexes beyond the Silver Cradle, as well as the happenings within it too.
 
-The bridge here is gate kept not by a knight but by a large troll whose family lives under the bridge.
+#### The Bridge Troll
+
+The bridge here is gate kept not by knights, but by large trolls whose family lives under the bridge on the opposite ends.
 The Silver Guard and Silver Cradle denizens know to give the trolls a wide berth, treat with respect, and pay the damn fine if you want to use the bridge.
 The troll demands all to pay a toll to use the bridge, although they're particularly keen on this demand to strangers and certainly those who have failed to pay in the past.
 The troll keeps an excellent ledger of who has entered and exited the old city.
 They note those who opted to not use their luxurious bridge as well, including those who cross the old river moat, perhaps climbing and jumping across the wall's ruins that poke above the water or simply swimming across.
 The Silver Guard also barter with the troll for their services.
 
-### Wyrd Woods
+#### The Troll Hole Under the Bridge
+
+The bridge trolls' ledger is written on stone tablets neatly organized in different piles based on the age and seasons.
+Notable events of each age are recorded in a separate tablet of white or black marble, each featuring an etched picture representing the events of that age.
+Lighter tablets' writing is filled with a dark stain.
+Darker tablets' writing is filled with calcium build up resulting in lighter colored text.
+
+Rooms
+- balcony over seeing the river moat.
+- Living room
+- Kitchen and dining room
+- bedrooms
+- Ledger store
+- Smithey
+
+Items around
+1. Tarnished silver telescope. Extendable for seeing different distances.
+2. Diamond tipped chisel, used to write ledgers or fine details in stone.
+3. Obsidian tipped cuttlerly kit
+4. Poetry on stone tablets written with such deep emotion, they would move even the earth.
+5. [Hang drums](https://en.wikipedia.org/wiki/Hang_(instrument)) crafted by these trolls
+6. Obsidian tipped spears
+
+#### The Old City Sewers
+
+Under the bridge's end towrads the old city lies an outpour for the old city's sewers.
+The trolls do not live in this end, instead you'll find all manners of vile vermin and crocodiles in a thriving ecosystem under the ruined city.
+These sewers are large enough to stand up and traverse with side walks and bridges.
+
+### F5. Wyrd Woods
 
 **Cursed** and **Hazardous** with mystical overgrowth,
 these murky and strange woods are dense and wild (Mythic Bastionland pg. 14).
@@ -180,7 +253,17 @@ Clasped in their hands close to their chest is their dimly glowing **Moonlight G
 Upon laying the Moon Knight to proper rest in the moon sands of Peter's Lowlands, the Moonlight Greatsword glows stronger and feels as light as a feather to the weilder.
 Once a day, the weilder may swing the sword to launch a slashing beam of light that travels forward cutting through armor.
 
-### Ruins of the Old City
+Site:
+
+1. An entrance down into the moss covered fort that has sunken into the earth.
+2. A caved side entrance has a hole in which a pale glowing sword is visible clutched in the hands of the corpse of a knight.
+3. Danger: The smell of death eminates from this steep winding stair case deep below. The stairwell is dank and slippery to traverse. This requires a careful step to not slip and fall down.
+4. Danger: Large open cavern where the twins sleep in the dark surrounded by the skeletons of knights their squires and common folk lost in the woods.
+5. Treasure: Beyond the sleeping twins a pale dim light emits from above a slippery staircase.
+6. Exit/Danger: An exit through thick vegetation on slick moss covered stairs that leads out behind the fort hidden by thick briar.
+    - Watch your step! One may slip on slick moss on stone if not careful as they shift through the dense briar bushes.
+
+### G5. Ruins of the Old City
 
 The stained glass monument when lit by the mirrors of at least the Silver Citadel's twin towers will reveal a hidden underground passage to a sacred grotto.
 
@@ -191,7 +274,7 @@ The stained glass monument when lit by the mirrors of at least the Silver Citade
 >In spite of their similarity, Seers will strongly discourage knights from entering these places, and will scold those who have.
 
 
-## The Silver Citadel of the Twin Peaks
+## H4. The Silver Citadel of the Twin Peaks
 
 The Silver Ridge lines the northeast edge of this area, a long dormant volcanic ridge known for its silver and gem mines and for the prominent Twin Peaks that rise above the others at the center.
 Built into the mountainside, cradled by the ridge is the Silver Citadel that perches above a small yet fortified city of gleaming white marble.
@@ -340,6 +423,16 @@ Loyal to the Silver Hawk to a fault, but that loyalty was earned.
 These are often not your nobles or pampered city folk.
 These people grew up in tough times and know what it takes to survive in a harsh world.
 
+- vig 13, cla 11, spi 12, gd 4
+- A4 (gamberson, cuirass, visored sallet & bevor (helm), kite shield), steed
+- Lance (d10 long/hefty if mounted) or longsword (2d8, hefty), shield (d4)
+    - Use lance when mounted, else, longsword.
+- Charger
+    - vig 10, cla 5, spi 5, gd 5, d8 trample
+
+Mobile wedge formation.
+Charge with the goal of relocate.
+
 #### The Silver Guard
 
 The only thing keeping them from all being Silver Knights is the lack of Seers knighting them.
@@ -348,6 +441,23 @@ Every able body person of the cradle is trained and serves at least an age in th
 If there is no one to till their fields, then their neighbors are sent to do so in their absence.
 The Solar King does not accept a weak people; not in an era of mythical doom with the citadel's ruinous history staring him back in the face every day.
 
+**Shieled Spearmen**
+
+- vig 10, cla 13, spi 10, gd 3
+- A3 (mail, sallet helm & bevor, round shield)
+- Spear (d8 hefty), shield (d4), handaxe (d6)
+
+**Archers**
+
+- vig 10, cla 13, spi 9, gd 3
+- A2 (mail, nasal helm)
+- Curvebow: (2d6 long), shortsword (2d6)
+    - Curvebows as imports allow, else Longbows (d8 slow).
+
+They use a defensive phalanx formation to stall.
+Strategy is to outlast utilizing diversion (defensive positioning and archers).
+Aligned with the Solar King and proudly serve the Silver Cradle.
+
 #### The Dread Wargs
 
 When Wulfhram left to find himself and to become capable enough to be a peer to Llywelyn, he eventually formed his own mercenary warband.
@@ -355,30 +465,47 @@ When he returned, they followed.
 The members are as fierce as he is, although half are more money motivated than those of the Silver Hawk due to his lack of charisma.
 The other half though are as loyal as they come.
 
+- vig 14, cla 13, spi 10, gd 5
+- A3 (mail, brigandine, bucket helm)
+- Greatsword (2d10, long), handaxe (d6)
+- Their preferred battlefield is rocky fields, much like those of ruins or mountain sides.
+
+Conflict
+
+An aggressive skirmish formation.
+Strategy is to assault utilizing bruteforce.
+They onslaught with the goal of intimidate.
+
+They are in conflict with prophecies of local mystics.
+There is tension between them and the silver hawks, and the rest of the Silver Cradle, however they serve Wulfram and tear apart any opposition.
+
 ## A Thread of Silver
 
-Along the lines of "[Holding Threads](https://www.bastionland.com/2025/09/holding-threads.html)", The Silver Citadel is ripe with political intrigue as knights and nobles across the lands try to improve their standing or even secure the Seat of Power for themselves.
+Similar to "[Holding Threads](https://www.bastionland.com/2025/09/holding-threads.html)", The Silver Citadel is ripe with political intrigue as knights and nobles across the lands try to improve their standing or even secure the Seat of Power for themselves.
+However, the warden should pick how frequent these occur and pace them as desired.
+Given the scale of this thread's change to the realm is similar in impact to some Myths, I recommend to have this progress at most while within the Silver Cradle region.
+Otherwise, to occur when visiting the Holding only or whatever fits the flow of play.
 
 >**Thread Roll**
->- 1: News arrives of the next Omen from the Seaet of Power's Holding Thread
+>- 1: News arrives of the next Omen from the Seat of Power's Holding Thread
 >- 2-3: Trigger the next Omen from this Holding's Thread.
 >- 4-6: Court is quiet enough, no big surprises
-
->**Progress Roll**
->- 1: News arrives of the next Omen from the Seat of Power's Holding Thread having come to pass.
->- 2-3: Trigger the next Omen from this Holding's Thread
->- 4-6: Court is quiet enough, no big surprises.
 
 **Omens**
 
 0. Upon first coming to this land, the Company face false rumors that they harbor ill will towards the Silver Citadel, either to claim it as their own or to topple it and the Solar King.
 	- The people of the Silver Cradle heard of these rumors and until their names are cleared will react sourly to the Company if their titles are discovered.
 	- If the Silver Guard learn who the Company are, they would be suspicious and question them
-1. A seasonal ball is held, all knights and their Company are invited.
+    - Go to court to clear your name.
+1. The King publicly announces the marriage between his daughter to the Silver Hawk, Llywelyn.
+    - Moon Mystics are having a moon mass next full moon.
+    - A court knight challenges the intent of the party. These newcomers, can they be trusted?  Have they sworn fealty to our king?
+2. A seasonal ball is held, all knights and their Company are invited.
     - A knight or noble makes a scene that challenges the Solar King's capability to rule. Afterall, he couldn't protect his Queen.
-2. The King publicly announces the marriage between his daughter to Llywelyn.
+    - Moon Mystics are frequent in the evening. Always up to something.
 3. The King falls ill. The Moon Mystics are active at night and frequently visit the burnt lunar tower.
-4. A schism occurs. The Dread Wargs are halved. Wulfhram escapes but most loyal to him are imprisoned. The rest of Dread Wargs serve Llywelyn.
+    - Hushed whispers of foul play
+4. A schism occurs! The Dread Wargs are halved. Wulfhram escapes but most loyal to him are imprisoned. The rest of the Dread Wargs swear fealty to Llywelyn.
 5. Illness takes the King. Llywelyn takes the throne. A black swordsman seeks the Company for aid to free his friends and enact his vengeance.
 6. If Llywelyn succumbs to desparation and his wish is heard by the beherit, then the phrophecy is as foretold. The beherit awakens, screaming like a newborn babe. A blood moon rises. The Wyrd Woods stir. The rivers run red. The darkest, most twisted reflections of the people roam the cradle and spread across the realm.
 
@@ -397,7 +524,6 @@ This makes it a desirable place for the realm's Seat of Power as they can better
 - Mirror Pond: Lone Willow's mirror pond connects with Deeproot Forest's. It is said that mirror like ponds exist across the realm, often having a twin which they directly connect to. There are rumors and writings about moon mystics who could communicate or traverse through such reflections and were said to even make their own mirrors for exactly this purpose.
 - Monteglielle Gallarvantius VI's Silver Hand Mirror
 - The Silver Citadel is remarkably amicable towards Monteglielle Gallarvantius, for unknown reasons.
-- **Desired imports:**
 
 ### [Peter's Lowlands](https://luckroll.blogspot.com/2026/02/woland-hexflower-6-every-book-is.html)
 - **Lady Ilona**, Librarian of the Silver Citadel. She once went to Peter's Lowlands and found it to be everything her younger self once imagined with all the chaos that entails.
@@ -412,8 +538,7 @@ This makes it a desirable place for the realm's Seat of Power as they can better
 ### [The Crimson Swamp](https://halfawormandabittenapple.blogspot.com/2026/02/woland-collaborative-mythic-realm-part-3.html)
 - **Desired imports**
     - Rot Water: For poisons
-- **Desired exports**
-    - *The moon mystics secretly request a delivery of a flawless silver hand mirror to the Pristine Seer.*
+- **Quest**: *The moon mystics secretly request a delivery of a flawless silver hand mirror to the Pristine Seer.*
 
 ### [Barrowode](https://benhooleyillustrates.blogspot.com/2026/02/mapping-hexflower-task-to-design.html)
 - Relationship to The Crawler is antagonistic and their imports are mostly unnecessary, however special concotions and medicinal herbs may prove beneficial as well as some luxury goods.
@@ -426,6 +551,7 @@ This makes it a desirable place for the realm's Seat of Power as they can better
     - Cackhand Fungus for poisons
 - **Exports:** They need metals and minerals which is local to the citadel.
     - Given antagonistic relations, the Silver Citadel would limit all trade of metal to them and use that and trade in general as a pressure for better deals or even reinforcement of fealty.
+- **Quest:** Resource extraction: A cache of resources is known in the Barrowode. Bring back the bows and arrows and concotions from that stash for a handsome reward.
 
 ### [Deeproot Forest](https://mynerdyhobby.com/deeproot-forest/)
 - Mirror Pond: Deeproot Forest's mirror pond connects with Lone Willow's. Mirror mystics are aware and would use this with their own mirrors too.
@@ -436,10 +562,13 @@ This makes it a desirable place for the realm's Seat of Power as they can better
     - While societal norms may shun the vagabonds, the Solar King focuses on maintaining power, not prejudice.
 - **Desired imports:**
     - Essentially any imports that overlap with Barrowode would be prioritized from here instead.
+- **Quest:** Deliver an armament of weapons and armor to the Deep Root Vagabonds along with correspondance from Silver Hawk Llywelyn.
 
 ### [The Troubled Downs](https://dreamingdragonslayer.wordpress.com/2026/03/04/the-troubled-downs-in-woland-a-collaborative-realm/)
 - Relationship with Anointed Seer: Favorable.
     - Lady Ilona has a history with this Anointed Seer, Christopher Robin.
+- **Quest:** Deliver a message to the Seer for Lady Ilona.
+    + *The message, if opened and read, states she went to the Lowlands and there were exactly as she said in her youth! She could not believe it. She hopes he's doing well. She dreams of their childhood together often.*
 
 ### [Burnburh](https://unorthodoxarchives.blogspot.com/2026/03/burntburh-woland-collaboration_22.html)
 - **Desired imports**
@@ -452,20 +581,20 @@ This makes it a desirable place for the realm's Seat of Power as they can better
     - [Ghost Ashes](https://unorthodoxarchives.blogspot.com/2026/03/burntburh-a1-ashen-wastes.html)
     - [Hauntstone](https://unorthodoxarchives.blogspot.com/2026/03/burntburh-a1-ashen-wastes.html)
 - **Desired exports**
-    - *Deliver a silver hand mirror to Rowena*
+- **Quest:** *Deliver a silver hand mirror to Rowena*
 
 ### [Landfall](https://tenebroushero.blogspot.com/2026/04/landfall-mythic-bastionland.html)
 - Wary of the Leveller's mobile Holding.
 - **Exports**
     - Minerals for their golems
-    + *The moon mystics wish to give Dur-Danat the Leveller a silver hand mirror*
 - **Quests**: Requested by the Moon Mystics:
     - Clear the fog over Urwode, Temporal Forest (**B4**) so the moon may shine upon the fountain.
     - Pour Moon Pool water from Urwode, Temporal Forest (**B4**) into the wellspring peak (**A0**). As you do so, ask for the farms of the Silver Cradle.
+    + *The moon mystics wish to give Dur-Danat the Leveller a silver hand mirror*
 
 ### [The Quiet Greens](https://itch.io/blog/1480107/woland-collaborative-mythic-bastionland-realm-quiet-greens)
 
-An old dead tree grew over the ruins and is sought to be removed.
+**Quest:** An old dead tree grew over the ruins and is sought to be removed.
 Hovever no axe can fell it.
 Seek a hatchet from the Hatchet Seer.
 
@@ -515,6 +644,8 @@ This is why I detailed the characters as I did to help inform the social dynamic
 This emphasizes the turmoil in the human side of the world, along with all the mythical happenings as well.
 
 I actually wrote the Citadel and its social climate first, but to help focus on the hex flower, which is what everyone is here for, I put the lands up front.
+
+I like using the word "beherit" instead of "behelit", which is more often used in the Western translation of Berserk, because be-herit is then "be-" as in "near, by, around, utterly" and "-herit" as in "inherit" so to be an heir. The carrier of a beherit is near by and then becomes an inheritor. Befitting!
 
 ## Conclusion
 
