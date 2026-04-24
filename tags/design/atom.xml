@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Errant Thinking - Design</title>
+    <subtitle>Asking insightful questions. Seeking thoughtful answers.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://errantthinking.com/tags/design/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://errantthinking.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2026-03-29T00:00:00+00:00</updated>
+    <id>https://errantthinking.com/tags/design/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Relative Resolution in Small Souls</title>
+        <published>2026-03-29T00:00:00+00:00</published>
+        <updated>2026-03-29T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Errant Thinking
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://errantthinking.com/relative-resolution-in-small-souls/"/>
+        <id>https://errantthinking.com/relative-resolution-in-small-souls/</id>
+        
+        <summary type="html">&lt;p&gt;After sharing my &lt;a href=&quot;https:&#x2F;&#x2F;errantthinking.com&#x2F;soul-system-design-goals&#x2F;&quot;&gt;design goals&lt;&#x2F;a&gt;, I am glad to share the character specification and core resolution mechanic behind Small Souls, and really its underlying generic engine, Soul System.
+As of version 0.2.0, Small Souls is a TTRPG with a roll-under counted dice pool and two thresholds that determine if those rolled dice are boons, banes, or blanks.
+This resolution mechanic quantizes the spectrum between automatic success and automatic failure, while providing different parameters to tune for more things to occur as side effects, whether good or bad.
+It provides a simple interface for players to improve their odds by first improving the narrative situation in their favor, possibly avoiding a roll altogether, or by using their resources to improve their odds or push their luck by rolling more dice.
+This is a forward moving mixed outcome resolution system that is designed for optional advancement in these abilities for higher level play, if so desired.
+Let&#x27;s dive in!&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Soul System Design Goals</title>
+        <published>2026-03-28T00:00:00+00:00</published>
+        <updated>2026-03-28T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Errant Thinking
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://errantthinking.com/soul-system-design-goals/"/>
+        <id>https://errantthinking.com/soul-system-design-goals/</id>
+        
+        <summary type="html">&lt;p&gt;I&#x27;ve been wanting to share my personal TTRPG project here for a while.
+As I&#x27;m hosting the RPG Blog Carnival with the theme of &quot;&lt;a href=&quot;https:&#x2F;&#x2F;errantthinking.com&#x2F;tiny-epics&#x2F;&quot;&gt;Tiny Epics&lt;&#x2F;a&gt;&quot;, now is as good a time as ever given I started designing for a game within this genre.
+I started a year ago designing my game called &quot;Small Souls&quot; from which I separated the generic system from the small souls specifics.
+The relative nature of one&#x27;s abilities as the scale of the task increases or decreases started in Small Souls, but I found it to be useful as a generic system that emphasizes dramatic tension, informs roleplaying direction, and fleshes out the spectrum of possibilities and agency.
+Here are some of my macro design goals for the &quot;Soul System&quot;, which involves a counted dice pool with &quot;push your luck&quot; resolution mechanics as you pay resources that embody your character&#x27;s use of stamina or energy.
+A post on the mechanics as of versions 0.1.0 and 0.2.0a is soon to follow, along with some playtest reflections.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>

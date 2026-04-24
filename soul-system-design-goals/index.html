@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+      <!-- Enable responsiveness on mobile devices-->
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+      <!-- Google tag (gtag.js) -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-F5ZRGR74HW"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-F5ZRGR74HW');
+      </script>
+
+      <link rel="icon" href="/favicon.ico" sizes="any">
+
+      <meta name="description" content="The design goals for my generic TTRPG system, Soul System, that powers Small Souls.">
+
+      <!-- Open Graph Meta Data-->
+      <meta property="og:site_name" content="Errant Thinking" />
+
+      <meta name="og:title" content="Soul System Design Goals">
+      <meta name="og:type" content="website">
+      <meta name="og:description" content="The design goals for my generic TTRPG system, Soul System, that powers Small Souls.">
+
+      <!-- Twitter Tag Meta Data-->
+      <meta name="twitter:card" content="summary_large_image">
+      <meta name="twitter:title" content="Soul System Design Goals">
+      <meta name="twitter:description" content="The design goals for my generic TTRPG system, Soul System, that powers Small Souls.">
+      <meta name="twitter:creator" content="@errantthinking">
+
+      <!-- Both Open Graph and Twitter Tag Meta Data for Preview Image -->
+      
+        
+        <meta name="og:image" content="https://errantthinking.com/soul-system-design-goals/small_souls.svg">
+        <meta name="twitter:image" content="https://errantthinking.com/soul-system-design-goals/small_souls.svg">
+      
+
+      <title>Soul System Design Goals - Errant Thinking</title>
+
+      
+          
+          <link rel="alternate" type="application/atom+xml" title="RSS" href="https://errantthinking.com/atom.xml">
+          
+          <link rel="alternate" type="application/rss+xml" title="RSS" href="https://errantthinking.com/rss.xml">
+          
+      
+
+      
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/slideout/1.0.1/slideout.min.js"></script>
+          
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
+
+          <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.js" integrity="sha384-K3vbOmF2BtaVai+Qk37uypf7VrgBubhQreNQe9aGsz9lB63dIFiQVlJbr92dw2Lx" crossorigin="anonymous"></script>
+          <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/contrib/mathtex-script-type.min.js" integrity="sha384-zWYbd0NBwgTsgIdFKVprSfTh1mbMPe5Hz1X3yY4Sd1h/K1cQoUe36OGwAGz/PcDy" crossorigin="anonymous"></script>
+              
+          <script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/contrib/auto-render.min.js" integrity="sha384-kmZOZB5ObwgQnS/DuDg6TScgOiWWBiVt0plIRkZCmE6rDZGrEOQeHM5PcHi+nyqe" crossorigin="anonymous"
+                  onload="renderMathInElement(document.body);"></script>
+              
+          
+      
+
+      
+          <link rel="stylesheet" href="https://errantthinking.com/site.css">
+          
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
+          
+      
+
+      
+      
+    </head>
+
+    <body>
+        <div class="container">
+
+            <div id="mobile-navbar" class="mobile-navbar">
+              <div class="mobile-header-logo">
+                  <img
+                      src="/favicon.ico"
+                      alt=":]"
+                      style="width: 1em;"
+                      loading="lazy"
+                      decoding="async"
+                  />
+                  Errant Thinking
+                </a>
+              </div>
+              <div class="mobile-navbar-icon icon-out">
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+            </div>
+
+            <nav id="mobile-menu" class="mobile-menu slideout-menu slideout-menu-left">
+              <ul class="mobile-menu-list">
+                
+                    <li class="mobile-menu-item">
+                        <a href="https:&#x2F;&#x2F;errantthinking.com&#x2F;tags">
+                            Tags
+                        </a>
+                    </li>
+                
+                    <li class="mobile-menu-item">
+                        <a href="https:&#x2F;&#x2F;errantthinking.com&#x2F;about">
+                            About
+                        </a>
+                    </li>
+                
+              </ul>
+            </nav>
+
+            <header id="header">
+                <div class="logo"><a href="https:&#x2F;&#x2F;errantthinking.com">
+                  <a href="https:&#x2F;&#x2F;errantthinking.com" class="logo">
+                    <img
+                        src="/favicon.ico"
+                        alt=":]"
+                        style="width: 1em;"
+                        loading="lazy"
+                        decoding="async"
+                    />
+                    Errant Thinking
+                  </a></div>
+                <nav class="menu">
+                    <ul>
+                        
+                            <li>
+                                <a href="https:&#x2F;&#x2F;errantthinking.com&#x2F;tags">
+                                    Tags
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href="https:&#x2F;&#x2F;errantthinking.com&#x2F;about">
+                                    About
+                                </a>
+                            </li>
+                        
+                    </ul>
+                </nav>
+            </header>
+
+            <main>
+                <div class="content" id="mobile-panel">
+                    
+
+
+<div class="post-toc" id="post-toc">
+    <h2 class="post-toc-title">Contents</h2>
+    <div class="post-toc-content always-active">
+        <nav id="TableOfContents">
+            <ul>
+                
+                <li>
+                    <a href="https://errantthinking.com/soul-system-design-goals/#types-of-agreements-guidelines" class="toc-link">Types of Agreements &amp; Guidelines</a>
+                    
+                </li>
+                
+                <li>
+                    <a href="https://errantthinking.com/soul-system-design-goals/#game-design-objectives" class="toc-link">Game Design Objectives</a>
+                    
+                    <ul>
+                        
+                        <li>
+                            <a href="https://errantthinking.com/soul-system-design-goals/#mechanical-guides-for-play-principles" class="toc-link">Mechanical Guides for Play Principles</a>
+                        </li>
+                        
+                        <li>
+                            <a href="https://errantthinking.com/soul-system-design-goals/#minimal-irrelevant-computation" class="toc-link">Minimal Irrelevant Computation</a>
+                        </li>
+                        
+                        <li>
+                            <a href="https://errantthinking.com/soul-system-design-goals/#simple-intuitive-design" class="toc-link">Simple &amp; Intuitive Design</a>
+                        </li>
+                        
+                        <li>
+                            <a href="https://errantthinking.com/soul-system-design-goals/#play-objectives" class="toc-link">Play Objectives</a>
+                        </li>
+                        
+                        <li>
+                            <a href="https://errantthinking.com/soul-system-design-goals/#never-take-away-without-purpose" class="toc-link">Never Take Away Without Purpose</a>
+                        </li>
+                        
+                        <li>
+                            <a href="https://errantthinking.com/soul-system-design-goals/#generic-support-within-the-design" class="toc-link">Generic Support within the Design</a>
+                        </li>
+                        
+                    </ul>
+                    
+                </li>
+                
+                <li>
+                    <a href="https://errantthinking.com/soul-system-design-goals/#conclusion" class="toc-link">Conclusion</a>
+                    
+                </li>
+                
+            </ul>
+        </nav>
+    </div>
+</div>
+
+
+<article class="post">
+    
+    <header class="post__header">
+        <h1 class="post__title">
+            <a href="https:&#x2F;&#x2F;errantthinking.com&#x2F;soul-system-design-goals&#x2F;">Soul System Design Goals</a>
+        </h1>
+        <div class="post__meta">
+            <span class="post__time">2026-03-28</span>
+            
+        </div>
+    </header>
+
+    <div class="post-content">
+      <p>I've been wanting to share my personal TTRPG project here for a while.
+As I'm hosting the RPG Blog Carnival with the theme of "<a href="https://errantthinking.com/tiny-epics/">Tiny Epics</a>", now is as good a time as ever given I started designing for a game within this genre.
+I started a year ago designing my game called "Small Souls" from which I separated the generic system from the small souls specifics.
+The relative nature of one's abilities as the scale of the task increases or decreases started in Small Souls, but I found it to be useful as a generic system that emphasizes dramatic tension, informs roleplaying direction, and fleshes out the spectrum of possibilities and agency.
+Here are some of my macro design goals for the "Soul System", which involves a counted dice pool with "push your luck" resolution mechanics as you pay resources that embody your character's use of stamina or energy.
+A post on the mechanics as of versions 0.1.0 and 0.2.0a is soon to follow, along with some playtest reflections.</p>
+<span id="continue-reading"></span>
+<p><img
+    src="small_souls.svg"
+    alt=""
+    style="display:block; margin-left: auto; margin-right: auto; width: 100%;"
+    loading="lazy"
+    decoding="async"
+/></p>
+<p style="text-align:center;">
+Small Souls logo as of version 0.2.0a.
+</p>
+<h2 id="types-of-agreements-guidelines">Types of Agreements &amp; Guidelines</h2>
+<p>I consider three types of agreements and guidelines that are for ensuring consistency in their respective areas during play:</p>
+<ol>
+<li>Social Agreement</li>
+<li>Narrative</li>
+<li>Game Mechanics</li>
+</ol>
+<p>These are my preferred ordering, though you can order them to your tastes however you want.
+For my games, and especially Small Souls and the Soul System, I specifically prioritize the following:</p>
+<p>$$\text{Social} &gt; \text{Narrative} \ge \text{Game}$$</p>
+<p>The social agreement is not social game mechanics. <!--like in [Good Society](https://rpggeek.com/rpg/46959/good-society-a-jane-austen-role-playing-game) or [Pasión de las Pasiones ](https://rpggeek.com/rpg/48579/pasion-de-las-pasiones).-->
+This is the meta discussion that happens before the game or during session zero, and during play when necessary.
+The social agreement is between the players and focuses on why they are here, what is the kind of fun they intend to have, what are the desired experiences and outcomes in play?
+The social agreement also includes the boundaries of the players, which may be clearly communicated or not, but if not then clear communication and respect in navigating a situation once someone's boundary is crossed is expected.
+For me, I find it near impossible for the social agreement to not be the first and utmost priority as it is the meta agreement outside of the game.</p>
+<p>Narrative consistency is next as I want my roleplaying games to focus on the players collaboratively creating stories that are enjoyable to play and to recount afterwards.</p>
+<p>The importance of consistency in game mechanics being significantly higher than narrative consistency can result in games like chess, competitive games, or videogames.
+The game mechanics should help create the narrative and lead players to the intended play experience while ensuring consistency in how their actions effect the game state.
+<strong>The game mechanics establish the computable game state and dynamics</strong>, which are akin to say a physics simulation, but they need not be so complex and exact as the computers running these are humans (heh heh).
+I personally want some <em>opt-in complexity</em> in the game mechanics and I enjoy the puzzles they can provide, but ultimately I want the game to be simple and intuitive to play with low to no burden in maintaining game state by default.</p>
+<p>These three types of rules are my personal renaming of the "<a rel="noopener" target="_blank" href="https://pretendo.games/2022/04/15/three-layers-of-rpg-rules/">Three Layers of RPG Rules</a>" to be more informative to me.</p>
+<h2 id="game-design-objectives">Game Design Objectives</h2>
+<p>Given the communicated and agreed upon social contract between the players, these game mechanics help create and direct the roleplay of the desired type of narrative.
+I'm seeking high "<strong>ludonarrative resonance</strong>", the opposite of <a rel="noopener" target="_blank" href="https://en.wikipedia.org/wiki/Ludonarrative_dissonance">ludonarrative dissonance</a>.
+The more the game mechanics thematically emphasize what's happening in the narrative, the better, while maintaining emphasis on the story being told rather than the mechanics themselves.</p>
+<p>Speaking of resonant game mechanics,
+I want the game mechanics to not get in the way of playing if they match your chosen play style, and can help gently direct people towards a type of play style, while ultimately leaving the choice up to the player.
+The "Keys" from "<a rel="noopener" target="_blank" href="https://ladyblackbird.org/">Lady Blackbird</a>" and other "Tales from the Wild Blue Yonder" games fit this idea where they reward the player for acting in a certain way, but also let the player opt out and redirect their character to fit their desired roleplay.
+These Keys are an example of player chosen roleplay direction that I want to include in my game.</p>
+<p>I seek game mechanics that keep the story moving forward and avoid stagnant state through positive reinforcement.
+I started with the roll under 1d20 resolution mechanics from <a rel="noopener" target="_blank" href="https://mausritter.com/">Mausritter</a>, as I like <a rel="noopener" target="_blank" href="https://rpggeek.com/rpg/23882/into-the-odd">Into the Odd</a>'s simplicity of character state and resolution.
+However, I ended up choosing counted dice pool mechanics for the mixed outcomes and fail forward resolution that they provide as per <a rel="noopener" target="_blank" href="https://rpggeek.com/rpg/26952/blades-in-the-dark">Blades in the Dark</a>, <a rel="noopener" target="_blank" href="https://rpggeek.com/rpg/68271/cbr-plus-pnk">CBR+PNK</a>, and <a rel="noopener" target="_blank" href="https://rpggeek.com/rpg/312/shadowrun-4th-and-twentieth-anniversary-editions">Shadowrun</a>.</p>
+<h3 id="mechanical-guides-for-play-principles">Mechanical Guides for Play Principles</h3>
+<p>The more I can get the game mechanics themselves to help achieve my design goals without having to rely on play principles the better.
+Play principles are essentially things the players are supposed to keep in mind for the designer's intended play experience, but they aren't like rules of a board game that are required to play the game.
+However, the more complex the principles are, the more easily they can be forgotten.</p>
+<p>When a TTRPG system states the intended play principles, it is useful to the players to know what the designer intended, but ultimately mechanics that support those principles and gently guide the players to play that way are more desirable from a designer's perspective of consistency.
+That is, if those principles are actually important to the play experience.
+I suspect that I will not be able to remove play principles entirely from my game (nor should they be), and I will certainly include them up front (as they already are in my early versions), but the more we can have a consistent and gentle guide towards those principles <em>in play</em>, the better.</p>
+<h3 id="minimal-irrelevant-computation">Minimal Irrelevant Computation</h3>
+<p>To keep the game simple and quick to play, I seek minimal computational complexity that is outside the ludonarrative.
+That is, minimal to no math or human computation outside of the narrative, especially during the vast majority of play.
+Using computational design of machines from computer science theory can help model and minimize this complexity.</p>
+<p>Computational actions of machines involve reading and writing to some state. The locality of that state becomes another concern: Where that state is or what other machines can access it.</p>
+<ul>
+<li>In TTRPGs, reading &amp; writing becomes: read, communicate, compare, count, addition or other mathematics.</li>
+<li>Read is further specified by the locality of the information read and time or energy spent reading.
+<ul>
+<li><strong>Recall</strong>: when you remember something without having to look it up
+<ul>
+<li><em>Reflexive recall</em>: you know it off the top of your head. Minimal thinking time.</li>
+<li><em>Recollection</em>: when it takes time to collect your thoughts and recall.</li>
+</ul>
+</li>
+<li><strong>Aided Recall</strong> is using the character sheet or notes to speed up recollection.
+<ul>
+<li>This is like a local external cache to your internal memory. Easily accessible at a glance.</li>
+</ul>
+</li>
+<li><strong>Search</strong>: To search through many notes or to search through a book for the answer.
+<ul>
+<li>Ideally the book is made for ease of reference and search
+<ul>
+<li>good information design in organization at local and global levels</li>
+<li>indices, table of contents, memorable writing or figures</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>Given this, I'll...</p>
+<ul>
+<li>Prioritize counting and comparison of few items, instead of math.
+<ul>
+<li>otherwise, keep the math to simple addition of addition under +5.</li>
+</ul>
+</li>
+<li>Minimize the memory and space requirements as well.</li>
+<li>Minimize the required communication of game state and changes.</li>
+<li>Aid recall by having an informative and intuitive character sheet, which serves as the User Interface for the game state, besides maps and of course player communication.
+<ul>
+<li>All the state of the character should be on that sheet and easy to read and understand</li>
+<li>All of the state of the character should inform roleplaying decisions and direct acting.</li>
+<li>Easy to update &amp; store.</li>
+</ul>
+</li>
+<li>Distribute the workload across players while maintaining the desired information access, which is often desired in information asymmetric games, such as your typical Dungeon Master and Players separation.</li>
+</ul>
+<p>This is what led me to counted dice pools and what I liked about the players knowing their character's threshold for the resolution of rolls as in Into the Odd-likes.
+The players can simply state "X of Y" for counting X successes of Y dice rolled.
+With two thresholds, say one for both boons and banes, they simply say "X of Y with Z banes".</p>
+<h3 id="simple-intuitive-design">Simple &amp; Intuitive Design</h3>
+<p>Besides simplicity in design from minimizing the computational complexity, I also seek
+a simple and intuitive genre agnostic system for character roleplaying.</p>
+<ul>
+<li>Intuitive in that if you are playing your character, then the system resonates with how you play, rather than causing discord, slowing, or stopping your playing.
+<ul>
+<li>Changes in flow of roleplaying a character should be due mostly to the character changing their own path. Otherwise, as per the whims of the players.</li>
+</ul>
+</li>
+<li>If a part of the system is not used, then it subtly fades to the background until desired in play.
+<ul>
+<li>For Soul System, I expect this will commonly occur for the survival mechanics when not in immediate survival situations.</li>
+<li>Similarly, I expect this to happen to inventory as well until you run into the limits of what you can hold.</li>
+<li>And relationships and bonds may not matter as much in traditional combat scenarios, although I personally would provide teamwork benefits to players who share stronger bonds of trust.</li>
+<li>This happens to most skills and feats in DnD, and sometimes people forget that which would have been helpful!
+<ul>
+<li>We absolutely want to try to avoid the latter, although the former is not a bad thing as elements not in play simply won't be focused on.  Of course, to avoid forgetting useful things, optimizing the use of space on a character sheet for relevant information is important.
+<ul>
+<li>For these cases, character sheets tuned to the intended play style could be quite helpful.</li>
+<li>Thus we either create specific sheets for games of different focus, or we enable a modular design of character sheets that lets it be modified by the user as they need.  The modular design would work well in an interactive digital form, but not so much for pen and paper... unless... we get smart with it!</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>If something is desired to be extended, then the game mechanics at least offer a solid foundation, if not a means to build that extension.
+<ul>
+<li>If Soul System cannot generalize a style of play or a game, it better be because that style of play is quite unique and requires a specific or complex construction for that play style to occur at the cost of other play styles.
+For example, specific resolution mechanics that closely fit the theme of the game.</li>
+</ul>
+</li>
+</ul>
+<h3 id="play-objectives">Play Objectives</h3>
+<p>Play that</p>
+<ul>
+<li>emphasizes the narrative and helps provide dramatic tension and moments</li>
+<li>rewards the players' critical thinking and problem solving as their characters
+<ul>
+<li>Play that emphasize actions and consequences and rewards learning from experiences as both player and character.
+<ul>
+<li>Character progression beyond only equipment, limited meta-knowledge, or traditional class-based XP leveling.</li>
+</ul>
+</li>
+<li>Reward cooperative behavior among players to build an interesting story</li>
+<li>Rewards perspective taking</li>
+</ul>
+</li>
+<li>lets the player decide the outcome within reason and at a significant but reasonable cost.
+<ul>
+<li>Otherwise, they get to shift things in their favor proportional to their paid cost.</li>
+</ul>
+</li>
+<li>inspires and encourages healthy curiosity and exploration in and out of game.</li>
+</ul>
+<h3 id="never-take-away-without-purpose">Never Take Away Without Purpose</h3>
+<p>Never take away something without good reason. Instead, provide more things that need done and reward more for being done.
+The reasoning for this is psychological.
+It tends to feel worse when you get something and then lose it instead of only being given so much at a time from the beginning.
+So, I am staying aware of when we take away something and want to ensure it has narrative or thematic justification such that loss is the proper and intended experience.
+For example, taking away player agency is a key part of Horror games. When done within reason in the narrative, then this is good design.</p>
+<h3 id="generic-support-within-the-design">Generic Support within the Design</h3>
+<p>Soul System is a <em>generic</em> TTRPG system.
+While I have my above design goals I am attempting to implement, I also would like to maintain the system's ability to support general play within this design.
+I am ultimately making the TTRPG I would like to play where I have taken inspiration from the parts of many different games that I enjoyed and adding in my own spin as I combine them together.
+Also avoiding some pains or limitations I experienced in other games.
+My hope is that this will be a strong and fun foundation to play out general adventures and scenarios.
+Whenever it is lacking, the ideal would be to add on a module for the specific experience of play, otherwise to play a bespoke game tailored from the ground up for that experience, such as <a rel="noopener" target="_blank" href="https://rpggeek.com/rpg/31186/ten-candles">Ten Candles</a> or Jenga block time &amp; tension mechanics some games use.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>That's the majority of my macro design goals for Soul System and the games it powers such as Small Souls.
+I'll soon release the ash can version 0.1.0 of Small Souls and an overview of v0.2.0a.</p>
+
+    </div>
+
+    
+    
+
+    <div class="post-footer">
+        
+            
+                <div class="post-tags">
+                    
+                        <a href="https://errantthinking.com/tags/tabletop-roleplaying-games/">#Tabletop Roleplaying Games</a>
+                    
+                        <a href="https://errantthinking.com/tags/small-souls/">#Small Souls</a>
+                    
+                        <a href="https://errantthinking.com/tags/soul-system/">#Soul System</a>
+                    
+                        <a href="https://errantthinking.com/tags/design/">#Design</a>
+                    
+                        <a href="https://errantthinking.com/tags/wip/">#WIP</a>
+                    
+                        <a href="https://errantthinking.com/tags/tiny-epics/">#Tiny Epics</a>
+                    
+                </div>
+            
+            
+                <div class="post-nav">
+                    
+                        <a class="previous" href="https:&#x2F;&#x2F;errantthinking.com&#x2F;relative-resolution-in-small-souls&#x2F;">‹ Relative Resolution in Small Souls</a>
+                    
+                    
+                        <a class="next" href="https:&#x2F;&#x2F;errantthinking.com&#x2F;march-of-tiny-epics&#x2F;">March of Tiny Epics ›</a>
+                    
+                </div>
+            
+
+        
+
+    </div>
+
+    
+    
+</article>
+
+                </div>
+            </main>
+
+            
+						© 2024-2026 Errant Thinking. All rights reserved.
+            
+        </div>
+
+      
+          <script type="text/javascript" src="https://errantthinking.com/even.js" ></script>
+      
+    </body>
+
+</html>

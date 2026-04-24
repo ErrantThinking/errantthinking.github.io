@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Errant Thinking - Tiny Epics</title>
+    <subtitle>Asking insightful questions. Seeking thoughtful answers.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://errantthinking.com/ttrpg/tiny-epics/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://errantthinking.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2026-03-31T00:00:00+00:00</updated>
+    <id>https://errantthinking.com/ttrpg/tiny-epics/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Tiny Epics RPG Blog Carnival Round Up</title>
+        <published>2026-03-31T00:00:00+00:00</published>
+        <updated>2026-03-31T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Errant Thinking
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://errantthinking.com/a-tiny-epics-round-up/"/>
+        <id>https://errantthinking.com/a-tiny-epics-round-up/</id>
+        
+        <summary type="html">&lt;p&gt;As the &lt;a href=&quot;https:&#x2F;&#x2F;errantthinking.com&#x2F;tiny-epics&#x2F;&quot;&gt;March of the Tiny Epics&lt;&#x2F;a&gt; comes to a close today, I give one last &quot;Hurrah!&quot; for all those who participated throughout this month.
+Thank you everyone for participating and sharing your wonderful TTRPG creations and reflections on the theme of &quot;Tiny Epics: Small Souls in a Big World!&quot;.
+You all had great things to share and I&#x27;m glad to have read each and everyone of them.
+Let&#x27;s celebrate the participants and their creations!&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Flower Folk: Camellia Fairy</title>
+        <published>2026-03-31T00:00:00+00:00</published>
+        <updated>2026-03-31T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Errant Thinking
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://errantthinking.com/camellia-fairy/"/>
+        <id>https://errantthinking.com/camellia-fairy/</id>
+        
+        <summary type="html">&lt;p&gt;As part of the &lt;a href=&quot;https:&#x2F;&#x2F;errantthinking.com&#x2F;tiny-epics&#x2F;&quot;&gt;March of the Tiny Epics&lt;&#x2F;a&gt;, I wanted to add a &lt;a href=&quot;https:&#x2F;&#x2F;errantthinking.com&#x2F;relative-resolution-in-small-souls&#x2F;#a-character-s-aspects&quot;&gt;Small Souls creature&lt;&#x2F;a&gt; inspired by the &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.davidmbird.com&#x2F;&quot;&gt;Becorns of  David M. Bird&lt;&#x2F;a&gt; and from a walk in a park.
+I present to you one of the many flower folk, the &lt;em&gt;Camellia Fairy&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Thoughts on BAYOU Roots</title>
+        <published>2026-03-31T00:00:00+00:00</published>
+        <updated>2026-03-31T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Errant Thinking
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://errantthinking.com/thoughts-on-bayou-roots/"/>
+        <id>https://errantthinking.com/thoughts-on-bayou-roots/</id>
+        
+        <summary type="html">&lt;p&gt;Palleon Press successfully got me monologuing too much in my &lt;a href=&quot;https:&#x2F;&#x2F;errantthinking.com&#x2F;a-tiny-epics-round-up&#x2F;&quot;&gt;March of the Tiny Epics overview&lt;&#x2F;a&gt; so here that is to preserve the overview&#x27;s flow.
+I clearly have some thoughts on &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;palleonpress.blogspot.com&#x2F;2026&#x2F;03&#x2F;in-roots-playing-with-habitats-and.html&quot;&gt;BAYOU&#x27;s Roots&lt;&#x2F;a&gt;.
+Good thoughts, and thoughts on what others consider when characterizing their characters in TTRPGs, at least from a general level probably with too skewed a recollection from the popular titles.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Relative Resolution in Small Souls</title>
+        <published>2026-03-29T00:00:00+00:00</published>
+        <updated>2026-03-29T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Errant Thinking
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://errantthinking.com/relative-resolution-in-small-souls/"/>
+        <id>https://errantthinking.com/relative-resolution-in-small-souls/</id>
+        
+        <summary type="html">&lt;p&gt;After sharing my &lt;a href=&quot;https:&#x2F;&#x2F;errantthinking.com&#x2F;soul-system-design-goals&#x2F;&quot;&gt;design goals&lt;&#x2F;a&gt;, I am glad to share the character specification and core resolution mechanic behind Small Souls, and really its underlying generic engine, Soul System.
+As of version 0.2.0, Small Souls is a TTRPG with a roll-under counted dice pool and two thresholds that determine if those rolled dice are boons, banes, or blanks.
+This resolution mechanic quantizes the spectrum between automatic success and automatic failure, while providing different parameters to tune for more things to occur as side effects, whether good or bad.
+It provides a simple interface for players to improve their odds by first improving the narrative situation in their favor, possibly avoiding a roll altogether, or by using their resources to improve their odds or push their luck by rolling more dice.
+This is a forward moving mixed outcome resolution system that is designed for optional advancement in these abilities for higher level play, if so desired.
+Let&#x27;s dive in!&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Soul System Design Goals</title>
+        <published>2026-03-28T00:00:00+00:00</published>
+        <updated>2026-03-28T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Errant Thinking
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://errantthinking.com/soul-system-design-goals/"/>
+        <id>https://errantthinking.com/soul-system-design-goals/</id>
+        
+        <summary type="html">&lt;p&gt;I&#x27;ve been wanting to share my personal TTRPG project here for a while.
+As I&#x27;m hosting the RPG Blog Carnival with the theme of &quot;&lt;a href=&quot;https:&#x2F;&#x2F;errantthinking.com&#x2F;tiny-epics&#x2F;&quot;&gt;Tiny Epics&lt;&#x2F;a&gt;&quot;, now is as good a time as ever given I started designing for a game within this genre.
+I started a year ago designing my game called &quot;Small Souls&quot; from which I separated the generic system from the small souls specifics.
+The relative nature of one&#x27;s abilities as the scale of the task increases or decreases started in Small Souls, but I found it to be useful as a generic system that emphasizes dramatic tension, informs roleplaying direction, and fleshes out the spectrum of possibilities and agency.
+Here are some of my macro design goals for the &quot;Soul System&quot;, which involves a counted dice pool with &quot;push your luck&quot; resolution mechanics as you pay resources that embody your character&#x27;s use of stamina or energy.
+A post on the mechanics as of versions 0.1.0 and 0.2.0a is soon to follow, along with some playtest reflections.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>List of Little Folk Stories and Media</title>
+        <published>2026-03-08T00:00:00+00:00</published>
+        <updated>2026-03-08T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Errant Thinking
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://errantthinking.com/little-folk-media/"/>
+        <id>https://errantthinking.com/little-folk-media/</id>
+        
+        <summary type="html">&lt;p&gt;This is a non-exhaustive collection of stories and media that features little folk, whether people or other creatures.
+I gathered this raw list in my notes due to my interest over the past year in creating my Tabletop Roleplaying Game, Small Souls, which is for telling adventures and scenarios within this genre.
+Knowing the different kinds of stories that already exist helps me keep in mind the different tales players may want to tell with the game system.
+This really is a genre in itself, which I didn&#x27;t fully appreciate prior to this project!
+I think that &quot;Little folk&quot; probably best describes it.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Tiny Epics: Small Souls in a Big World!</title>
+        <published>2026-03-01T00:00:00+00:00</published>
+        <updated>2026-03-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Errant Thinking
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://errantthinking.com/tiny-epics/"/>
+        <id>https://errantthinking.com/tiny-epics/</id>
+        
+        <summary type="html">&lt;p&gt;The small ones among us are sometimes overlooked, but they surely have grand tales to tell! This March, let&#x27;s explore these tiny epics for the
+&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;ofdiceanddragons.com&#x2F;rpg-blog-carnival&#x2F;&quot;&gt;RPG Blog Carnival&lt;&#x2F;a&gt;.
+This is a community event, so we&#x27;ll ponder some ideas for this theme, then get to creating and start some discussion!
+Share your creations with me early and I&#x27;ll do weekend updates along with a &lt;a href=&quot;https:&#x2F;&#x2F;errantthinking.com&#x2F;a-tiny-epics-round-up&#x2F;&quot;&gt;final roundup on March 31st&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>

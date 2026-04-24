@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Errant Thinking - Setting</title>
+    <subtitle>Asking insightful questions. Seeking thoughtful answers.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://errantthinking.com/ttrpg/setting/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://errantthinking.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-12-28T00:00:00+00:00</updated>
+    <id>https://errantthinking.com/ttrpg/setting/atom.xml</id>
+    <entry xml:lang="en">
+        <title>The Elves Revolt! An Adventure</title>
+        <published>2024-12-28T00:00:00+00:00</published>
+        <updated>2024-12-28T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Errant Thinking
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://errantthinking.com/the-elves-revolt/"/>
+        <id>https://errantthinking.com/the-elves-revolt/</id>
+        
+        <summary type="html">&lt;p&gt;I told myself I&#x27;d setup my blog this year, and with the year coming to a close I thought I&#x27;d finally make that happen.
+I decided to sign up for some external accountability in the form of something called the 2024 Secret Santicorn.
+This is a yearly event hosted by &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;archons-court.blogspot.com&#x2F;&quot;&gt;Archon&lt;&#x2F;a&gt; in the Old School Renaissance (OSR) Discord, which is a community focused on Tabletop Roleplaying Games (TTRPGs) that revitalizes the old school games in a modern way.
+That&#x27;s the &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;lithyscaphe.blogspot.com&#x2F;p&#x2F;principia-apocrypha.html&quot;&gt;OSR&lt;&#x2F;a&gt; part.
+Secret Santicorn is essentially a secret Santa for blogging where everyone submits a writing prompt, the prompts get shuffled, and each person writes a blog in response to the prompt they received.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;the-request&quot;&gt;The Request&lt;&#x2F;h2&gt;
+&lt;p&gt;I was given &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;the-robgoblin.blogspot.com&#x2F;&quot;&gt;The Robgoblin&lt;&#x2F;a&gt;&#x27;s prompt where &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;the-robgoblin.blogspot.com&#x2F;2024&#x2F;12&#x2F;1d6-celestial-phenomena.html&quot;&gt;he notes&lt;&#x2F;a&gt; that Goblette (Goblina?) conceived the original idea of the Christmas elves forming a trade union. The prompt is:&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The Elves are revolting: class struggle at the North Pole.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+</summary>
+        
+    </entry>
+</feed>
