@@ -1,11 +1,11 @@
 +++
 title = "Woland: The Silver Cradle"
-date = 2026-04-11
+date = 2026-04-23
 path = "silver-cradle"
 description = "I went Berserk and contributed The Silver Cradle to the Bastionland realm of Woland."
 
 [extra]
-image = ""
+image = "hex_flower_silver_cradle.webp"
 
 [taxonomies]
 tags = ["Tabletop Roleplaying Games", "Blog Bandwagon", "Mythic Bastionland", "Dark Souls", "Berserk"]
@@ -21,7 +21,7 @@ I hope you like Berserk.
 <!-- more -->
 
 <img
-    src="hex_flower_silver_cradle.png"
+    src="hex_flower_silver_cradle.webp"
     alt=""
     style="display:block; margin-left: auto; margin-right: auto; width: 100%;"
     decoding="async"
@@ -135,7 +135,7 @@ A stained glass monument sits in the center of the old city ruins.
 When the mirrors of at least the Silver Citadel's twin towers will reveal a hidden underground passage to a sacred grotto.
 Sparkling crystal clear waters trickle down the stone walls to the eternally blooming flowers and vibrant trees.
 
->[**Grottos per Chris McDowall**](https://www.bastionland.com/2025/10/more-landmarks.html)
+>[**Grottos** by Chris McDowall](https://www.bastionland.com/2025/10/more-landmarks.html)
 ></br></br>
 >Impossible to find unless a local has given you the directions. These mystic caves are three, spread across the realm. Spending the night sleeping in one, utterly alone, grants a useful vision of the past, present or future, depending on the specific grotto. Such visions are too much for a knight's mind and cause d8 CLA loss.
 ></br></br>
@@ -396,6 +396,16 @@ This droplet is covered in small closed eyes, mouths, and noses.
 The Beherit is rumored to lead to the Otherworld and bestow unfathomable power upon its bearer.
 The Beherit will activate for Llywelyn when he willingly sacrifices all that he loves for his dream.
 
+<img
+    src="silver-hawk.jpg"
+    alt=""
+    style="display:block; margin-left: auto; margin-right: auto; width: 80%;"
+    decoding="async"
+/>
+<p style="text-align:center;">
+The Silver Hawk, Llywelyn.
+</p>
+
 #### Wulfhram the Undying
 
 Stubborn, strong headed, and anger prone, especially in the past, Wulfhram struggles with finding his place in the world.
@@ -617,9 +627,9 @@ Thank you to William of "Half a Worm and a Bitten Apple" for hosting this commun
 Check out the original [Part 0 kick-off](https://halfawormandabittenapple.blogspot.com/2026/01/woland-collaborative-mythic-realm.html) to this event, which will provide further details links to all past and future participants.
 
 <img
-    src="squirrels_sneak_owl_shut-eyes_mice_in_talons_1600.jpg"
+    src="hex_flower_silver_cradle_no-land-marks.webp"
     alt=""
-    style="display:block; margin-left: auto; margin-right: auto; width: 70%;"
+    style="display:block; margin-left: auto; margin-right: auto; width: 100%;"
     decoding="async"
 />
 <p style="text-align:center;">
