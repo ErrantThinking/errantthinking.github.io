@@ -1,6 +1,6 @@
 +++
 title = "Hit Graphs: From Stick Figures to Hit Locations"
-date = 2026-06-10
+date = 2026-06-12
 path = "hit-graphs"
 description = "Pin point precision in your TTRPGs with stick figures and graphs."
 
