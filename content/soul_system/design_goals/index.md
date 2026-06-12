@@ -169,4 +169,5 @@ Whenever it is lacking, the ideal would be to add on a module for the specific e
 ## Conclusion
 
 That's the majority of my macro design goals for Soul System and the games it powers such as Small Souls.
-I'll soon release the ash can version 0.1.0 of Small Souls and an overview of v0.2.0a.
+I'll soon release the [ash can version 0.1.0](https://errantthinking.itch.io/kleinritter) of Small Souls and an overview of v0.2.0a ([Relative Resolution](@/soul_system/relative_resolution/index.md)).
+Keep an eye on the [Soul System](https://errantthinking.com/tags/soul-system/) and [Small Souls](https://errantthinking.com/tags/small-souls/) tags for recent developments!
