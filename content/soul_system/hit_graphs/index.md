@@ -5,7 +5,7 @@ path = "hit-graphs"
 description = "Pin point precision in your TTRPGs with stick figures and graphs."
 
 [extra]
-image = "tis_but_a_fleshwound.jpg"
+image = "tis_but_a_fleshwound_header.jpg"
 
 [taxonomies]
 tags = ["Tabletop Roleplaying Games", "Soul System", "Small Souls", "Design", "WIP"]
