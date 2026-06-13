@@ -129,7 +129,7 @@ Simple and clean.
 
 In Small Souls, I currently let the attacker pick which boon's value serves as their starting node.
 This gives them some means to determine the hit location, while keeping it uncertain.
-The defender's boons can cancel out their choice of opponent's boons, which could be an interesting for tactical decision making, *or* could simply slow down play (LOL).
+The defender's boons can cancel out their choice of opponent's boons, which could be interesting for tactical decision making, *or* could simply slow down play (LOL).
 
 ## Accuracy and Precision
 
