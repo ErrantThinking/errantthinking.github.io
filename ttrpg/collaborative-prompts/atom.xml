@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Errant Thinking - Collaborative Prompts</title>
+    <subtitle>Asking insightful questions. Seeking thoughtful answers.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://errantthinking.com/ttrpg/collaborative-prompts/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://errantthinking.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-07-31T00:00:00+00:00</updated>
+    <id>https://errantthinking.com/ttrpg/collaborative-prompts/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Granny Jam</title>
+        <published>2025-07-31T00:00:00+00:00</published>
+        <updated>2025-07-31T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Errant Thinking
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://errantthinking.com/granny-jam/"/>
+        <id>https://errantthinking.com/granny-jam/</id>
+        
+        <summary type="html">&lt;p&gt;In the &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;tsJ93PyuJH&quot;&gt;NSR Cauldron Discord&lt;&#x2F;a&gt;, I wrote a community prompt in hopes that I could get a community effort to characterize Granny Jam, a character I made up who specializes in creating magical jams and jellies.
+Under the pretense of creating magical jam and jelly items coupled with sharing stories of a time when Granny Jam used those jams, I was hoping we would discover the emergent character of Granny Jam and come to a better understanding of who she is as more people shared (made up) stories about her and her wares.&lt;&#x2F;p&gt;
+&lt;p&gt;It never took off, but I do love the initial concept of Granny Jam and this idea for emergent characters from collaborative prompts.
+I wanted to share her here, at least through what I originally wrote up for the collaborative prompts.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>

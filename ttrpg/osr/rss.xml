@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Errant Thinking - OSR</title>
+      <link>https://errantthinking.com</link>
+      <description>Asking insightful questions. Seeking thoughtful answers.</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://errantthinking.com/ttrpg/osr/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Wed, 30 Jul 2025 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Secret Santicorn, A History</title>
+          <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+          <author>Errant Thinking</author>
+          <link>https://errantthinking.com/christmas-in-july-2025/</link>
+          <guid>https://errantthinking.com/christmas-in-july-2025/</guid>
+          <description xml:base="https://errantthinking.com/christmas-in-july-2025/">&lt;p&gt;With the end of July upon us, the seventh month of the year is coming to a close and I have decided to challenge myself to write more blog posts (gestures to empty blog).
+I started this blog with a &lt;a href=&quot;https:&#x2F;&#x2F;errantthinking.com&#x2F;the-elves-revolt&#x2F;&quot;&gt;response to a writing prompt&lt;&#x2F;a&gt; from Archon&#x27;s Secret Santicorn 2024 community blogging event in the &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;6vqF25E&quot;&gt;OSR Discord&lt;&#x2F;a&gt;, and back then I mused among others about delivering some of the publicly missing responses to writing prompts, or &quot;sniping&quot; as they call it in the OSR Discord.&lt;&#x2F;p&gt;
+&lt;p&gt;So I decided to deliver some Secret Santicorn wishes that have gone unfulfilled as a personal challenge.
+A midsummer Santicorn if you will.&lt;&#x2F;p&gt;
+&lt;p&gt;It&#x27;s &lt;em&gt;Christmas in July&lt;&#x2F;em&gt;!&lt;&#x2F;p&gt;
+&lt;!--[Santa_sunglasses_color_smaller.jpg](Santa_sunglasses_color_smaller.jpg)--&gt;
+&lt;p&gt;&lt;img
+    src=&quot;santa_sunglasses_color_smaller.jpg&quot;
+    alt=&quot;Ink sketch of Santa with sunglasses.&quot;
+    style=&quot;display:block; margin-left: auto; margin-right: auto;&quot;
+    loading=&quot;lazy&quot;
+    decoding=&quot;async&quot;
+&#x2F;&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>

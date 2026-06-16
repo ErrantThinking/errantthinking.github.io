@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Errant Thinking - Creature</title>
+      <link>https://errantthinking.com</link>
+      <description>Asking insightful questions. Seeking thoughtful answers.</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://errantthinking.com/ttrpg/creature/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Tue, 31 Mar 2026 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Flower Folk: Camellia Fairy</title>
+          <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+          <author>Errant Thinking</author>
+          <link>https://errantthinking.com/camellia-fairy/</link>
+          <guid>https://errantthinking.com/camellia-fairy/</guid>
+          <description xml:base="https://errantthinking.com/camellia-fairy/">&lt;p&gt;As part of the &lt;a href=&quot;https:&#x2F;&#x2F;errantthinking.com&#x2F;tiny-epics&#x2F;&quot;&gt;March of the Tiny Epics&lt;&#x2F;a&gt;, I wanted to add a &lt;a href=&quot;https:&#x2F;&#x2F;errantthinking.com&#x2F;relative-resolution-in-small-souls&#x2F;#a-character-s-aspects&quot;&gt;Small Souls creature&lt;&#x2F;a&gt; inspired by the &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.davidmbird.com&#x2F;&quot;&gt;Becorns of  David M. Bird&lt;&#x2F;a&gt; and from a walk in a park.
+I present to you one of the many flower folk, the &lt;em&gt;Camellia Fairy&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>

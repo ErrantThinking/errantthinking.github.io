@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Errant Thinking - Planning</title>
+    <subtitle>Asking insightful questions. Seeking thoughtful answers.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://errantthinking.com/tags/planning/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://errantthinking.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2026-02-03T00:00:00+00:00</updated>
+    <id>https://errantthinking.com/tags/planning/atom.xml</id>
+    <entry xml:lang="en">
+        <title>What We Thinking?</title>
+        <published>2026-02-03T00:00:00+00:00</published>
+        <updated>2026-02-03T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Errant Thinking
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://errantthinking.com/what-we-thinking/"/>
+        <id>https://errantthinking.com/what-we-thinking/</id>
+        
+        <summary type="html">&lt;p&gt;As with everyone, let alone bloggers, life can grab you by the collar and you just gotta run with it!
+With my hectic life aside, I feel it is appropriate to set some expectations for what kind of content I &lt;em&gt;intend&lt;&#x2F;em&gt; to write here, along with a brief introduction.
+Even if it is mostly to motivate myself to check off some boxes in the future, heheh.&lt;&#x2F;p&gt;
+&lt;p&gt;I am Errant and I think about &lt;em&gt;many&lt;&#x2F;em&gt; things!
+In my daily life, I am a computer scientist.
+I research topics, analyze problems, design mathematical models &amp;amp; develop algorithmic solutions!
+Here, I will do the same for my hobbies, sharing more freeform thoughts that occur over time as I learn, and revising some pages as a wiki for the refined concepts.&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>

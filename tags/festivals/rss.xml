@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Errant Thinking - Festivals</title>
+      <link>https://errantthinking.com</link>
+      <description>Asking insightful questions. Seeking thoughtful answers.</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://errantthinking.com/tags/festivals/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sun, 30 Nov 2025 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Inspiring Real World Feasts and Festivals</title>
+          <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
+          <author>Errant Thinking</author>
+          <link>https://errantthinking.com/feasts-and-festivals/</link>
+          <guid>https://errantthinking.com/feasts-and-festivals/</guid>
+          <description xml:base="https://errantthinking.com/feasts-and-festivals/">&lt;p&gt;I&#x27;ve decided to join in the festivities of this November&#x27;s RPG Blog Carnival.
+This month&#x27;s theme is &quot;Feasts and Festivals&quot; in tabletop role-playing games as hosted by &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;ofdiceanddragons.com&#x2F;feasts-and-festivals-in-your-ttrpg-campaigns-rpg-blog-carnival&#x2F;&quot;&gt;of Dice and Dragons&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;I will discuss some real world festivals and mythology as sources of inspiration for one of my custom settings, Ophelos.&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
